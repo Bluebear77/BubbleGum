@@ -1,0 +1,700 @@
+question,predicted_label,score
+The statement is:  <the city peabody host the latest in 2001>. Is it entailed or refuted by the table above?,Political,0.09179302304983139
+The statement is:  <the llws reach round 3 when the city be in westport>. Is it entailed or refuted by the table above?,Telecommunications,0.10683498531579971
+The statement is:  <the champion lincoln ll score 4th place in 2003>. Is it entailed or refuted by the table above?,Political,0.11922868341207504
+The statement is:  <the earliest worcester be in the championship be 2009>. Is it entailed or refuted by the table above?,Science and Research,0.06890881806612015
+The statement is:  <no rank have point larger than 282.5>. Is it entailed or refuted by the table above?,Telecommunications,0.07013145834207535
+The statement is:  <no rank have point larger than 259.4>. Is it entailed or refuted by the table above?,Telecommunications,0.07125243544578552
+"The statement is:  <the city britt , elk lake , foleyet , mattawa , moosonee , and temagami be all be in the class lp>. Is it entailed or refuted by the table above?",Education,0.09344318509101868
+The statement is:  <cblj - fm have 50000 watt of power>. Is it entailed or refuted by the table above?,Telecommunications,0.13130147755146027
+The statement is:  <elliot lake be class a and have cbec - fm>. Is it entailed or refuted by the table above?,Education,0.10543983429670334
+The statement is:  <elk lake have query as its recnet>. Is it entailed or refuted by the table above?,Sports and Recreation,0.15324802696704865
+The statement is:  <temagami have the 1340 am frequency>. Is it entailed or refuted by the table above?,Telecommunications,0.12173881381750107
+The statement is:  <wawa / timmins / north bay / little current be city of licence that have b class>. Is it entailed or refuted by the table above?,Legal,0.1413125991821289
+The statement is:  <cblj be the identifier that have 40 watt>. Is it entailed or refuted by the table above?,Telecommunications,0.08754868805408478
+The statement is:  <query recnet have 8 watt of power and timmins as the city license>. Is it entailed or refuted by the table above?,Legal,0.13529402017593384
+"The statement is:  <1340 am frequency have temagami as the city of license , in class a>. Is it entailed or refuted by the table above?",Telecommunications,0.08522387593984604
+The statement is:  <1340 am frequency with 780 watt of power have temagami as the city of license>. Is it entailed or refuted by the table above?,Telecommunications,0.1079983338713646
+The statement is:  <round 3 be run at calder park>. Is it entailed or refuted by the table above?,Political,0.11951322853565216
+The statement is:  <the sandown circuit be find in victoria>. Is it entailed or refuted by the table above?,Travel and Hospitality,0.08877363055944443
+The statement is:  <round 1 be run in victoria>. Is it entailed or refuted by the table above?,Political,0.11948978900909424
+The statement is:  <you can find oran park in victoria state>. Is it entailed or refuted by the table above?,Environmental,0.14071202278137207
+The statement is:  <round 1 be run in queensland>. Is it entailed or refuted by the table above?,Political,0.19220103323459625
+The statement is:  <jack nicklaus of the united state be in 2 place with a combined score of 282>. Is it entailed or refuted by the table above?,Political,0.1537826806306839
+The statement is:  <dow finsterwald 's (united states) combine score be 283>. Is it entailed or refuted by the table above?,Financial and Economic,0.09651387482881546
+The statement is:  <the disposable usd growth be 116 for rank 26>. Is it entailed or refuted by the table above?,Financial and Economic,0.06907100230455399
+The statement is:  <norway 's compulsory deduction be 29.3%>. Is it entailed or refuted by the table above?,Political,0.07443595677614212
+"The statement is:  <estonia have the lowest disposable usd in 2011 , come in at 13731.0>. Is it entailed or refuted by the table above?",Environmental,0.09461791068315506
+"The statement is:  <with rank 26 , poland have a compulsory deduction of 18.9%>. Is it entailed or refuted by the table above?",Political,0.3930152356624603
+"The statement is:  <norway , at number 23 , have a compulsory deduction of 29.8%>. Is it entailed or refuted by the table above?",Telecommunications,0.06333532929420471
+The statement is:  <gary halvorson direct the one where ross date a student which have 20.5 million us viewer>. Is it entailed or refuted by the table above?,Political,0.1218770444393158
+The statement is:  <michael lembeck direct the one where ross meet elizabeth 's dad which have 20.6 million us viewer>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1369786262512207
+"The statement is:  <for episode 225560 , zachary rosenblatt write the story and brian boyle write the teleplay>. Is it entailed or refuted by the table above?",Media and Entertainment,0.18384595215320587
+The statement is:  <scott silveri be the writer of the episode title the one on the last night>. Is it entailed or refuted by the table above?,Media and Entertainment,0.17438636720180511
+The statement is:  <gary halvorson be not the director of the episode that have 20.5 million of north american viewer>. Is it entailed or refuted by the table above?,Media and Entertainment,0.18629322946071625
+The statement is:  <story : zachary rosenblatt teleplay : brian boyle be the not writer of the episode whose production code (s) be 225560>. Is it entailed or refuted by the table above?,Telecommunications,0.19335046410560608
+The statement is:  <scott silveri be not the writer of the episode call the one on the last night>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1779756247997284
+The statement is:  <riccardo patrese be suspend>. Is it entailed or refuted by the table above?,Political,0.1150183230638504
+The statement is:  <the driver who qualify 24th on the grid be in a collision>. Is it entailed or refuted by the table above?,Transportation,0.11797205358743668
+The statement is:  <the total number of grid for 52 lap be 7>. Is it entailed or refuted by the table above?,Telecommunications,0.08558836579322815
+The statement is:  <the time / retire for michael andretti be suspension>. Is it entailed or refuted by the table above?,Political,0.16847538948059082
+The statement is:  <the time / retire for grid of 19 be collision>. Is it entailed or refuted by the table above?,Legal,0.07288534194231033
+The statement is:  <the driver for mclaren that make less than 26 lap and more than 9 grid be gerhard berger>. Is it entailed or refuted by the table above?,Transportation,0.1575940102338791
+The statement is:  <the total number of grid for lap of 52 be 11>. Is it entailed or refuted by the table above?,Telecommunications,0.08099741488695145
+The statement is:  <whalen have 10 high rebound in the game that end with a score of 76 - 66>. Is it entailed or refuted by the table above?,Telecommunications,0.102635957300663
+The statement is:  <the location for the game with a record of 16 - 6 be mohegan sun arena with an attedance of 6740>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11554505676031113
+The statement is:  <the ranger be the win team from 1940 - 1943 and 1944 - 1945 season>. Is it entailed or refuted by the table above?,Political,0.10593231767416
+The statement is:  <the ranger win game in 1942 - 1943 be 1 - 1 with falkirk as runner up>. Is it entailed or refuted by the table above?,Political,0.13681964576244354
+The statement is:  <the venue for all the game play be hampden park>. Is it entailed or refuted by the table above?,Sports and Recreation,0.289748877286911
+"The statement is:  <the ranger be the runner up team in the 1940 - 41 , 1941 - 42 , 1942 - 43 , and 1944 - 45 season>. Is it entailed or refuted by the table above?",Telecommunications,0.09849294275045395
+The statement is:  <the score of the game where morton be runner up be 1 - 1 (11 - 3 corners)>. Is it entailed or refuted by the table above?,Political,0.15602104365825653
+The statement is:  <the game venue for all but 1 game be hampden park>. Is it entailed or refuted by the table above?,Sports and Recreation,0.1839505434036255
+The statement is:  <dunne have 1 total app in the 1926 - 27 season>. Is it entailed or refuted by the table above?,Media and Entertainment,0.09605671465396881
+The statement is:  <dunne have 2 league goal and 2 league apps in the 1928 - 29 season>. Is it entailed or refuted by the table above?,Telecommunications,0.08737294375896454
+The statement is:  <dunne have 1 other goal in the season where he have 1 league goal>. Is it entailed or refuted by the table above?,Telecommunications,0.1068182960152626
+The statement is:  <the total apps for division one in the season where there be 0 league goal be 1>. Is it entailed or refuted by the table above?,Software and Technology,0.09841378778219223
+The statement is:  <division one have 2 league goal in the season where there be 2 league apps>. Is it entailed or refuted by the table above?,Software and Technology,0.09395275264978409
+The statement is:  <divison one have 2 goal in the season where there be 1 league goal>. Is it entailed or refuted by the table above?,Telecommunications,0.09149616211652756
+The statement is:  <the total apps in season 1927 - 28 be 1>. Is it entailed or refuted by the table above?,Software and Technology,0.1070360541343689
+The statement is:  <there be 2 league goal in the season with 4 total goal>. Is it entailed or refuted by the table above?,Telecommunications,0.10018640011548996
+The statement is:  <there be 1 league goal in the 1933 - 34 season>. Is it entailed or refuted by the table above?,Telecommunications,0.08258133381605148
+The statement is:  <the chesterfield spire have 7 point but have 496 point against them>. Is it entailed or refuted by the table above?,Political,0.13424097001552582
+The statement is:  <the chesterfield spires be the club that have the most point against them with a total of 496>. Is it entailed or refuted by the table above?,Political,0.18271924555301666
+The statement is:  <the chesterfield spires have an average of 0.7>. Is it entailed or refuted by the table above?,Political,0.06289596110582352
+The statement is:  <the average number of point score against be 496>. Is it entailed or refuted by the table above?,Telecommunications,0.0792633667588234
+The statement is:  <chesterfield spire average be less than 0.7>. Is it entailed or refuted by the table above?,Telecommunications,0.0674697756767273
+The statement is:  <switzerland be at rank 7 with a total of 2 medal>. Is it entailed or refuted by the table above?,Telecommunications,0.08946539461612701
+The statement is:  <switzerland be rank 6th with 2 total medal>. Is it entailed or refuted by the table above?,Political,0.08001065254211426
+The statement is:  <alton ford have 8 assist and have join the team in 2001>. Is it entailed or refuted by the table above?,Telecommunications,0.09561211615800858
+The statement is:  <alton ford be from 2001 and have 8 assist>. Is it entailed or refuted by the table above?,Legal,0.06910882145166397
+The statement is:  <the player from ucla with a position of pg have 258 rebound and 296 assist>. Is it entailed or refuted by the table above?,Education,0.10817547887563705
+The statement is:  <alton ford player have under 357 assist and be from 1983>. Is it entailed or refuted by the table above?,Telecommunications,0.0975685641169548
+"The statement is:  <1 semifinalist have a total less than 2 , 1st ru greater than 0 , 2nd ru be 0 and miss united continent of 0 from the country of ecuador>. Is it entailed or refuted by the table above?",Environmental,0.16373568773269653
+The statement is:  <bromet have a dcsf number of 2385>. Is it entailed or refuted by the table above?,Telecommunications,0.09008794277906418
+The statement is:  <bushey and oxhey have a dscf number of 2117>. Is it entailed or refuted by the table above?,Transportation,0.10767871141433716
+The statement is:  <argyle be the class aaa during the 2007 - 08 school year>. Is it entailed or refuted by the table above?,Education,0.1487647444009781
+The statement is:  <the aaa class for the school year 2005 - 06 be cuero>. Is it entailed or refuted by the table above?,Education,0.25998950004577637
+The statement is:  <the aaaa class for school year 2004 - 05 be friendswood>. Is it entailed or refuted by the table above?,Education,0.29623597860336304
+The statement is:  <gregory - portland be the aaaa class for the school year 1999 - 2000>. Is it entailed or refuted by the table above?,Education,0.3019699156284332
+The statement is:  <wimberly be the aaa class for school year 2004 - 05>. Is it entailed or refuted by the table above?,Education,0.27955377101898193
+The statement is:  <the class aaa of argyle be 2 year after the 2007 - 08 school year>. Is it entailed or refuted by the table above?,Education,0.15994422137737274
+The statement is:  <the aaa class in the school year be 2005 - 06 be ballinger>. Is it entailed or refuted by the table above?,Education,0.32232630252838135
+The statement is:  <the aaaa class in the school year 2004 - 05 be carthage>. Is it entailed or refuted by the table above?,Education,0.20876330137252808
+The statement is:  <the aaaa class of gregory - portland be in school year of 2001 - 02>. Is it entailed or refuted by the table above?,Education,0.2325621247291565
+The statement is:  <wimberley be the aaa class in the school year of 2007 - 08>. Is it entailed or refuted by the table above?,Education,0.26614615321159363
+The statement is:  <the competition bhc be rank 9th>. Is it entailed or refuted by the table above?,Healthcare and Medicine,0.11283086985349655
+The statement is:  <at the rank 3 competition of bhc scotland 's score is 0 - 0>. Is it entailed or refuted by the table above?,Political,0.1334681510925293
+The statement is:  <the score for the match on april 15 1950 be 0 - 1>. Is it entailed or refuted by the table above?,Telecommunications,0.09413217008113861
+The statement is:  <scotland 's score for the rank 3 competition of the bhc be 0.0>. Is it entailed or refuted by the table above?,Political,0.1041356697678566
+The statement is:  <bhc competition be rank 9 on 10 april 1948>. Is it entailed or refuted by the table above?,Healthcare and Medicine,0.12460077553987503
+The statement is:  <0 - 0 is scotland 's score at the rank 3 competition of bhc on 5 april 1952>. Is it entailed or refuted by the table above?,Political,0.1162683442234993
+The statement is:  <scotland 's score at the rank 6 competition of ecqg8 be 1 - 0>. Is it entailed or refuted by the table above?,Environmental,0.12980306148529053
+The statement is:  <jchisholm & son be the architect of the 10th floor building it have a height of 42>. Is it entailed or refuted by the table above?,Real Estate and Construction,0.1397048979997635
+The statement is:  <ross and macfarlane build a building that reach 59>. Is it entailed or refuted by the table above?,Real Estate and Construction,0.13438944518566132
+"The statement is:  <pratt and ross , charles s frost build the electric railway chamber before 1915>. Is it entailed or refuted by the table above?",Transportation,0.11029846966266632
+"The statement is:  <pratt and ross , charles s frost build the electric railway chamber sometime after 1915>. Is it entailed or refuted by the table above?",Transportation,0.13133618235588074
+The statement is:  <the constructor jordan - toyota make the ej15 ej15b chasse>. Is it entailed or refuted by the table above?,Transportation,0.21057789027690887
+The statement is:  <pedro de la rosa drive a car with the m tyre>. Is it entailed or refuted by the table above?,Transportation,0.21011137962341309
+"The statement is:  <red bull - cosworth construct a car with a rb1 chassis , which be drive by david coulthard>. Is it entailed or refuted by the table above?",Transportation,0.14692142605781555
+"The statement is:  <sauber - petronas construct a car with a c24 chassis and a petronas 05a engine , which be drive by jacques villenuve>. Is it entailed or refuted by the table above?",Transportation,0.18235987424850464
+The statement is:  <jordan - toyota jordan - toyota constructor make the tf105 tf105b chassis>. Is it entailed or refuted by the table above?,Transportation,0.2039722204208374
+The statement is:  <b tyre be on the car drive by pedro de la rosa>. Is it entailed or refuted by the table above?,Transportation,0.2572936713695526
+The statement is:  <red bull - cosworth constructor make the car with a fw27 chassis and which be drive by david coulthard>. Is it entailed or refuted by the table above?,Transportation,0.1554698348045349
+The statement is:  <jacques villeneuve be the only driver of the car with a c24 chassis with petronas 05a as constructor>. Is it entailed or refuted by the table above?,Transportation,0.20793373882770538
+"The statement is:  <the show , tune , let (v) entertain u style , be all on at 10:00 pm when the 11:00 pm show be to ma dauy kan>. Is it entailed or refuted by the table above?",Media and Entertainment,0.44840991497039795
+The statement is:  <play and learn be the 8:00 pm show when the 7:00 pm show be i be siam>. Is it entailed or refuted by the table above?,Media and Entertainment,0.17048528790473938
+The statement is:  <the record shop be the 10:30 pm show when the 8:00 pm show be play and learn on sunday>. Is it entailed or refuted by the table above?,Media and Entertainment,0.25237685441970825
+"The statement is:  <asian hero (v) play on monday , wednesday , and friday at 10:30 pm>. Is it entailed or refuted by the table above?",Media and Entertainment,0.29861003160476685
+The statement is:  <play and learn play every day at 9:00 pm>. Is it entailed or refuted by the table above?,Education,0.16144569218158722
+The statement is:  <the record shop play at 10:30 and 11:00 pm on friday>. Is it entailed or refuted by the table above?,Media and Entertainment,0.35727658867836
+The statement is:  <the type of paper the 1 cent denomination be make of be tullis coating>. Is it entailed or refuted by the table above?,Telecommunications,0.07161468267440796
+The statement is:  <trinidense have 24.0 point>. Is it entailed or refuted by the table above?,Telecommunications,0.1147850900888443
+"The statement is:  <some of these win have score well above 22 , cone time less than 25 and have zero draw or position less than 6>. Is it entailed or refuted by the table above?",Telecommunications,0.0744108334183693
+The statement is:  <zero win have score more than 27 and drawn less than 4>. Is it entailed or refuted by the table above?,Telecommunications,0.06980516761541367
+"The statement is:  <l 36 - 14 be the result on september 25 , 1966>. Is it entailed or refuted by the table above?",Political,0.10404002666473389
+"The statement is:  <after week 10 , the attendance of the game on november 20 , 1966 be 31993>. Is it entailed or refuted by the table above?",Telecommunications,0.10085511952638626
+The statement is:  <the table do not provide any information about week 2>. Is it entailed or refuted by the table above?,Telecommunications,0.09026314318180084
+"The statement is:  <the opponent on november 20 , 1966 be the philadelphia eagle>. Is it entailed or refuted by the table above?",Political,0.21105025708675385
+"The statement is:  <the result of the september 25 , 1966 game be a w 41 - 14>. Is it entailed or refuted by the table above?",Telecommunications,0.08532482385635376
+"The statement is:  <the november 20 , 1966 game (week 11) have an attendance of less than 30000>. Is it entailed or refuted by the table above?",Telecommunications,0.10087739676237106
+"The statement is:  <the november 13 , 1966 game be against the philidelphia eagle>. Is it entailed or refuted by the table above?",Political,0.11342033743858337
+The statement is:  <n / a (i be unable to determine what sport / game this be about so i cannot correct the give sentence)>. Is it entailed or refuted by the table above?,Sports and Recreation,0.14018119871616364
+The statement is:  <the smallest number of game lost be 3>. Is it entailed or refuted by the table above?,Telecommunications,0.09060773253440857
+The statement is:  <the goal average 1 for the team that lost 9 game be 1.82>. Is it entailed or refuted by the table above?,Telecommunications,0.09079951792955399
+The statement is:  <1 team finish with a point 2 of 31>. Is it entailed or refuted by the table above?,Telecommunications,0.08386767655611038
+The statement is:  <the largest number of game lost be 3>. Is it entailed or refuted by the table above?,Telecommunications,0.08984363079071045
+The statement is:  <more than 1 team finish with a 2nd point total of 31>. Is it entailed or refuted by the table above?,Telecommunications,0.07541681826114655
+The statement is:  <cai state have the name wu for the ji royal house>. Is it entailed or refuted by the table above?,Political,0.2753414511680603
+The statement is:  <the duke of the royal house of jang be ai>. Is it entailed or refuted by the table above?,Political,0.21345871686935425
+The statement is:  <the sovereign for the state of wey be qing>. Is it entailed or refuted by the table above?,Political,0.19966444373130798
+The statement is:  <feizi be the ruler of the soveriegn for the state of qin>. Is it entailed or refuted by the table above?,Political,0.323981374502182
+The statement is:  <li be the marquis of the stare of cai>. Is it entailed or refuted by the table above?,Political,0.10729272663593292
+"The statement is:  <for the royal house of ji , the lu state have a title of duke>. Is it entailed or refuted by the table above?",Political,0.2431183010339737
+The statement is:  <ai be from the qin state>. Is it entailed or refuted by the table above?,Legal,0.08236539363861084
+The statement is:  <the state of wey have the title of ruler>. Is it entailed or refuted by the table above?,Political,0.19819754362106323
+The statement is:  <the type of ballot measure with the description of department of industry and public work amendment be init>. Is it entailed or refuted by the table above?,Political,0.1600540578365326
+The statement is:  <there be only 1 data under no vote with a description of 1500 tax exemption amendment>. Is it entailed or refuted by the table above?,Political,0.15741875767707825
+The statement is:  <the type of ballot measure if the % of the yes vote be 32.47 be init>. Is it entailed or refuted by the table above?,Political,0.19935342669487
+The statement is:  <the yes vote be 65495 and the no vote be 136193 for the municipal wharves and dock bill>. Is it entailed or refuted by the table above?,Political,0.2646619975566864
+The statement is:  <the public dock and water frontage amendment have 100552 yes vote and 14238 no vote>. Is it entailed or refuted by the table above?,Political,0.22467495501041412
+The statement is:  <the type be init for the department of industry and public work amendment that pass>. Is it entailed or refuted by the table above?,Industrial and Manufacturing,0.12262502312660217
+The statement is:  <switzerland be the country when the iata be gva>. Is it entailed or refuted by the table above?,Political,0.11175071448087692
+The statement is:  <cardiff be a city in the united kingdom>. Is it entailed or refuted by the table above?,Political,0.1496156007051468
+The statement is:  <the icao of engm be locate in norway>. Is it entailed or refuted by the table above?,Industrial and Manufacturing,0.2925136983394623
+The statement is:  <the airport serve the netherlands be locate in the city of amsterdam>. Is it entailed or refuted by the table above?,Transportation,0.27499979734420776
+"The statement is:  <düsseldorf international airport be locate in the city of düsseldorf , germany>. Is it entailed or refuted by the table above?",Transportation,0.21148665249347687
+The statement is:  <the iata for the city of leipzig be lej>. Is it entailed or refuted by the table above?,Political,0.11019273102283478
+"The statement is:  <manchester , in the united kingdom , have an airport with the iata of che>. Is it entailed or refuted by the table above?",Transportation,0.17257054150104523
+The statement is:  <austria be the country when the iata be gva>. Is it entailed or refuted by the table above?,Political,0.15573352575302124
+The statement is:  <italy be the country for the city of cardiff>. Is it entailed or refuted by the table above?,Political,0.15146665275096893
+The statement is:  <edxm be the icao when the country be united kingdom>. Is it entailed or refuted by the table above?,Education,0.2562081813812256
+The statement is:  <cardiff be the city in the country of germany>. Is it entailed or refuted by the table above?,Political,0.10357247292995453
+"The statement is:  <after 1964 , bob honan play the position of back on june 1 , 1969 in the test debut of 1st ru test v new zealand>. Is it entailed or refuted by the table above?",Political,0.09011669456958771
+The statement is:  <the cross - code debut for the player dick thornett be 1st rl test v south africa>. Is it entailed or refuted by the table above?,Telecommunications,0.13428454101085663
+The statement is:  <the position for the cross - code debut of inaugural rl test v new zealand in the year 1904 be forward>. Is it entailed or refuted by the table above?,Science and Research,0.10618053376674652
+The statement is:  <the cross - code debut for the player dick thornett be 2nd rl test v south africa>. Is it entailed or refuted by the table above?,Telecommunications,0.1245037093758583
+The statement is:  <israel folau play winger in 2007 in the test debut rl test v new zealand>. Is it entailed or refuted by the table above?,Political,0.13580356538295746
+"The statement is:  <1 june 1969 date have a position of winger , earlier than 1964 , and a test debut of 1st ru v ireland>. Is it entailed or refuted by the table above?",Political,0.11284824460744858
+"The statement is:  <on 01.03.1977 , construction start on the chinon b1 , which have a net power of 905 mw>. Is it entailed or refuted by the table above?",Telecommunications,0.10903048515319824
+The statement is:  <construction finish on the unit with a total power of 80 mw on 14.06.1963>. Is it entailed or refuted by the table above?,Telecommunications,0.08795488625764847
+The statement is:  <the unit whose construction start on 01.03.1977 and commercial operation start on 01.02.1984 have a total power of 954 mw>. Is it entailed or refuted by the table above?,Real Estate and Construction,0.11799658834934235
+The statement is:  <the unit that 's be in commercial operation since 01.02.1984 be qualified to operate until 2024>. Is it entailed or refuted by the table above?,Legal,0.10504064708948135
+The statement is:  <the unit that 's be in commercial operation since 04.03.1987 start be construct on 01.10.1980>. Is it entailed or refuted by the table above?,Real Estate and Construction,0.0902736634016037
+The statement is:  <the shut down state of the unit that 's be in commercial operation since 01.02.1984 be qualified to operate until 2027>. Is it entailed or refuted by the table above?,Legal,0.07352203130722046
+The statement is:  <the construction of the unit chinon b1 with net power of 905 mw be start on 01.03.1977 and be finish on 29.11.1983>. Is it entailed or refuted by the table above?,Telecommunications,0.09986039251089096
+The statement is:  <the net power of the unit whose construction finish on 14.06.1963 be 75 mw>. Is it entailed or refuted by the table above?,Telecommunications,0.09526356309652328
+The statement is:  <there be only 1 value of net power (954 mw) for the unit whose construction start on 01.03.1977 and whose commercial operation start on 01.08.1984>. Is it entailed or refuted by the table above?,Real Estate and Construction,0.14725187420845032
+The statement is:  <baran be not nominate>. Is it entailed or refuted by the table above?,Political,0.12499859929084778
+"The statement is:  <m for mother , or میم مثل مادر , do not get nominated>. Is it entailed or refuted by the table above?",Political,0.1963839828968048
+The statement is:  <mohsen makhmalbaf use the title gabbeh for the nomination of the film گبه>. Is it entailed or refuted by the table above?,Media and Entertainment,0.18439926207065582
+The statement is:  <the film on 2010 (83rd) that have the persian title میم مثل مادر be not nominate>. Is it entailed or refuted by the table above?,Political,0.12237147241830826
+The statement is:  <the persian title گبه be use in the nominated film title baran>. Is it entailed or refuted by the table above?,Media and Entertainment,0.20071843266487122
+"The statement is:  <in the year (ceremony) of 2011 (84th) , the film title , a separation , be not nominate>. Is it entailed or refuted by the table above?",Media and Entertainment,0.1420442759990692
+The statement is:  <the number of loss be zero that have tie of 0 and more than 1 poll win>. Is it entailed or refuted by the table above?,Political,0.10657739639282227
+The statement is:  <raja ca casablanca play against jac port - gentil>. Is it entailed or refuted by the table above?,Political,0.1140289455652237
+The statement is:  <djoliba ac have a 2nd leg of 0 - 0>. Is it entailed or refuted by the table above?,Telecommunications,0.07920409739017487
+The statement is:  <e tunis and mc oran be 3 - 2 on 1st leg and 1 - 3 on the 2nd leg>. Is it entailed or refuted by the table above?,Telecommunications,0.17144471406936646
+The statement is:  <raja ca casablanca competes against tonnerre yaoundé>. Is it entailed or refuted by the table above?,Political,0.0859694555401802
+The statement is:  <djoliba ac play nkana red devil with a 2nd leg of 0 - 0>. Is it entailed or refuted by the table above?,Telecommunications,0.09336819499731064
+"The statement is:  <e tunis competes against mc oran , result in 1st leg 5 - 1 and a 2nd leg of 1 - 3>. Is it entailed or refuted by the table above?",Telecommunications,0.3558425009250641
+The statement is:  <on the fourth week the attendance reach a total of 43907>. Is it entailed or refuted by the table above?,Telecommunications,0.07893822342157364
+The statement is:  <the attendance of the game on week 4 be 43709>. Is it entailed or refuted by the table above?,Telecommunications,0.10413914173841476
+"The statement is:  <at windy hill , the away team 's score be 14.11 (95)>. Is it entailed or refuted by the table above?",Political,0.1080772802233696
+"The statement is:  <when the away team score 14.11 (95) , the home team score a 21.14 (140)>. Is it entailed or refuted by the table above?",Political,0.10305250436067581
+The statement is:  <home team 's score when the away side score 14.11 (95) be north melbourne>. Is it entailed or refuted by the table above?,Political,0.09776254743337631
+The statement is:  <the license gpl have a system of amiga and a name of pocketuae>. Is it entailed or refuted by the table above?,Legal,0.13728521764278412
+"The statement is:  <the name e - uae have a license of gpl , and an actual version of 0.8.29wip4>. Is it entailed or refuted by the table above?",Software and Technology,0.11808998137712479
+The statement is:  <the platform cross - platform have an actual version of 0.147>. Is it entailed or refuted by the table above?,Software and Technology,0.1637590080499649
+The statement is:  <fellow and winuae have gpl license and be on the window platform>. Is it entailed or refuted by the table above?,Software and Technology,0.13674169778823853
+The statement is:  <the various computer and console system have a name of mess>. Is it entailed or refuted by the table above?,Software and Technology,0.12434181571006775
+"The statement is:  <platform unix , beos , nextstep have an actual version of 0.8.29>. Is it entailed or refuted by the table above?",Software and Technology,0.236265629529953
+"The statement is:  <the name e - uae have a license of gpl , and an actual version of 0.5.1>. Is it entailed or refuted by the table above?",Software and Technology,0.11226639896631241
+The statement is:  <the platform cross - platform have an actual version of 0.8.29>. Is it entailed or refuted by the table above?,Software and Technology,0.14714151620864868
+The statement is:  <fellow and winuae have a platform of window and be the only name to have a license of gpl>. Is it entailed or refuted by the table above?,Software and Technology,0.10666774958372116
+The statement is:  <meshkinshahr be the largest city in ardabil province>. Is it entailed or refuted by the table above?,Political,0.14492391049861908
+The statement is:  <the third largest city in the alborz province be savojbolagh>. Is it entailed or refuted by the table above?,Political,0.13310670852661133
+The statement is:  <bandar lengeh be the 4th largest city in the hormozgan province>. Is it entailed or refuted by the table above?,Political,0.1696956902742386
+The statement is:  <the third largest city in the hormozgan province be dehbarez>. Is it entailed or refuted by the table above?,Political,0.15328000485897064
+The statement is:  <the largest city in south khorasan be birjand>. Is it entailed or refuted by the table above?,Political,0.16293583810329437
+The statement is:  <meshkinshahr be the 3rd largest city in bushehr province>. Is it entailed or refuted by the table above?,Political,0.17045727372169495
+The statement is:  <the province with the third largest city name savojbolagh be ardabil>. Is it entailed or refuted by the table above?,Political,0.14965668320655823
+The statement is:  <the province with the 3rd largest city of dehbarez be kermanshah>. Is it entailed or refuted by the table above?,Political,0.21759606897830963
+"The statement is:  <in round 5 , keith lee get pick 129th>. Is it entailed or refuted by the table above?",Political,0.09993528574705124
+"The statement is:  <arkansas state quarterback , gene bradley , be pick 259 of round 10>. Is it entailed or refuted by the table above?",Political,0.13903535902500153
+The statement is:  <the 129 pick be in the last round>. Is it entailed or refuted by the table above?,Political,0.09975063800811768
+The statement is:  <the station with a w267an call sign be part of the d class>. Is it entailed or refuted by the table above?,Telecommunications,0.19913269579410553
+The statement is:  <the facility with id 67829 have an erp w of 10>. Is it entailed or refuted by the table above?,Telecommunications,0.07512529194355011
+The statement is:  <the fcc contain more info on all the station list>. Is it entailed or refuted by the table above?,Telecommunications,0.14196600019931793
+The statement is:  <call sign w285dj be not class d>. Is it entailed or refuted by the table above?,Telecommunications,0.14671596884727478
+The statement is:  <20 be the highest erp w with a facility id of 87023>. Is it entailed or refuted by the table above?,Energy and Utilities,0.07850966602563858
+"The statement is:  <the call sign with the frequency 101.3 have an erp under 10 , and a facility id smaller than 40000>. Is it entailed or refuted by the table above?",Telecommunications,0.1586720198392868
+The statement is:  <california district 34 be represent by 1 incumbent>. Is it entailed or refuted by the table above?,Political,0.21854209899902344
+The statement is:  <the democratic party be re - elect in 1989>. Is it entailed or refuted by the table above?,Political,0.424763023853302
+"The statement is:  <in california district 9 , pete stark (d) 58.4% victor romero (r) 41.6% be opponent>. Is it entailed or refuted by the table above?",Political,0.4366678297519684
+The statement is:  <george miller be the incumbent elect in 1974>. Is it entailed or refuted by the table above?,Political,0.23816558718681335
+The statement is:  <there be 1 incumbent who represent district california 34>. Is it entailed or refuted by the table above?,Political,0.16550254821777344
+"The statement is:  <in 1989 , the democratic party be re - elect>. Is it entailed or refuted by the table above?",Political,0.4714571237564087
+The statement is:  <pete stark and victor romero be the opponent in district california 9>. Is it entailed or refuted by the table above?,Political,0.41029810905456543
+The statement is:  <george miller be elect as incumbent in 1974>. Is it entailed or refuted by the table above?,Political,0.21900416910648346
+The statement is:  <the incumbent for california 34 be bob dornan>. Is it entailed or refuted by the table above?,Political,0.2728428542613983
+The statement is:  <the elect party for 1989 be republican>. Is it entailed or refuted by the table above?,Political,0.46542710065841675
+The statement is:  <the opponent in district california 8 be pete stark and victor romero>. Is it entailed or refuted by the table above?,Political,0.43387970328330994
+The statement is:  <there be 1 republican incumbent representative for california 34>. Is it entailed or refuted by the table above?,Political,0.3527250289916992
+The statement is:  <pete stark (d) 58.4% victor romero (r) 41.6% be the republicanvopponents in district california 9>. Is it entailed or refuted by the table above?,Political,0.40117427706718445
+The statement is:  <george miller be the incumbent who be first elect in 1974 for the 40th california district>. Is it entailed or refuted by the table above?,Political,0.3180491328239441
+The statement is:  <tris speaker have a rank of 18 when the bb / so be 7.00>. Is it entailed or refuted by the table above?,Telecommunications,0.1621902585029602
+The statement is:  <6 be the rank for the team cle when the bb / so be 10.89>. Is it entailed or refuted by the table above?,Political,0.1020336002111435
+The statement is:  <the team of player tris speaker be pha>. Is it entailed or refuted by the table above?,Telecommunications,0.12651421129703522
+"The statement is:  <the offence of annoyance by fly , which consist of fly an aircraft to annoy a person , is entitle to a summary hearing>. Is it entailed or refuted by the table above?",Legal,0.3183051347732544
+The statement is:  <champion hideto tanihara take home the winner 's share of 40000000>. Is it entailed or refuted by the table above?,Political,0.110996313393116
+The statement is:  <hideo tanihara be the champion with a 200000000 purse>. Is it entailed or refuted by the table above?,Financial and Economic,0.09801345318555832
+The statement is:  <champion masahiro kawamura 's score be 267 ( - 17) at ibaraki country club>. Is it entailed or refuted by the table above?,Sports and Recreation,0.14833994209766388
+The statement is:  <champion masahiro kawamura 's higashi hirono golf club tournament be 26 - 29>. Is it entailed or refuted by the table above?,Sports and Recreation,0.26539382338523865
+"The statement is:  <champion hideto tanihara 's cut of the purse , at ibaraki country club , be 30000000>. Is it entailed or refuted by the table above?",Political,0.1406238079071045
+The statement is:  <others bva be 3% and ipsos be 4%>. Is it entailed or refuted by the table above?,Food and Beverage,0.0783768817782402
+The statement is:  <ump - nc have an ipsos of 26%>. Is it entailed or refuted by the table above?,Political,0.09752840548753738
+The statement is:  <libertas tns - sofres be 4% when the iflop be 5%>. Is it entailed or refuted by the table above?,Telecommunications,0.38779911398887634
+The statement is:  <dlr result be 0.00% in 2004>. Is it entailed or refuted by the table above?,Science and Research,0.07357602566480637
+The statement is:  <tns - sofres 6 / 4 / 09 be 27% when ipsos 6 / 3 / 09 be 27%>. Is it entailed or refuted by the table above?,Telecommunications,0.1264590173959732
+The statement is:  <tns - sofres be 4% when the iflop be 8%>. Is it entailed or refuted by the table above?,Telecommunications,0.11613737791776657
+The statement is:  <dlr have more than 0.00% in 2004>. Is it entailed or refuted by the table above?,Census and Demographics,0.0687037855386734
+The statement is:  <game 4 be play on november 7>. Is it entailed or refuted by the table above?,Telecommunications,0.09962442517280579
+The statement is:  <t j ford have the most point at 18 in the november 12th game>. Is it entailed or refuted by the table above?,Telecommunications,0.1010778471827507
+The statement is:  <november 7 be the date of game 2>. Is it entailed or refuted by the table above?,Telecommunications,0.1045762374997139
+The statement is:  <t j ford (18) have the most point in the game on november 18>. Is it entailed or refuted by the table above?,Telecommunications,0.10725229233503342
+The statement is:  <there be no episode with a share of 16.2% and an episode no of less than 1>. Is it entailed or refuted by the table above?,Media and Entertainment,0.10737477988004684
+"The statement is:  <in the game with a score of l 92 - 96 (ot) , the highest rebound be 12>. Is it entailed or refuted by the table above?",Telecommunications,0.093480184674263
+The statement is:  <kevin garnett have 5 rebound during the game that score l 92 - 96 (ot)>. Is it entailed or refuted by the table above?,Telecommunications,0.13579672574996948
+The statement is:  <elchin muradov compete classify as t12 in imola>. Is it entailed or refuted by the table above?,Education,0.07607147842645645
+The statement is:  <the fastest finish time for september 1 2012 be 10.46 second by jason smyth>. Is it entailed or refuted by the table above?,Telecommunications,0.08936192840337753
+The statement is:  <elchin muradov 's fastest time be 11.03>. Is it entailed or refuted by the table above?,Telecommunications,0.0849880501627922
+The statement is:  <jason smyth 's fastest time be greater than 11>. Is it entailed or refuted by the table above?,Telecommunications,0.09144949913024902
+The statement is:  <hakeem olajuwon play for houston between 2001 - 02>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11351915448904037
+The statement is:  <jimmy oliver of the united state play guard - forward>. Is it entailed or refuted by the table above?,Political,0.11044862866401672
+The statement is:  <from 2001 - 2002 hakeem olajuwon play for toronto at center position>. Is it entailed or refuted by the table above?,Telecommunications,0.10596983134746552
+The statement is:  <jimmy oliver from united state play at guard - forward position>. Is it entailed or refuted by the table above?,Political,0.09773993492126465
+The statement is:  <jimmy oliver play for houston between 2001 - 02>. Is it entailed or refuted by the table above?,Media and Entertainment,0.12579156458377838
+The statement is:  <jimmy oliver of nigeria play guurd - forward>. Is it entailed or refuted by the table above?,Media and Entertainment,0.15294042229652405
+The statement is:  <hakeem olajuwon play center for toronto before 2000>. Is it entailed or refuted by the table above?,Media and Entertainment,0.10880924016237259
+The statement is:  <jimmy oliver play guard - forward for nigeria>. Is it entailed or refuted by the table above?,Political,0.09307977557182312
+"The statement is:  <2nd be the labour 's place 2003 that have the result of con hold , and the constituency of ayr>. Is it entailed or refuted by the table above?",Political,0.23592177033424377
+The statement is:  <the constituency of aberdeen north be the win party 2003 of snp>. Is it entailed or refuted by the table above?,Political,0.3164559304714203
+The statement is:  <strathkelvin and bearsden be rank at 4th>. Is it entailed or refuted by the table above?,Political,0.07897183299064636
+"The statement is:  <the constituency of caithness , sutherland and easter ross have a swing to gain of 4.96>. Is it entailed or refuted by the table above?",Political,0.4101622700691223
+The statement is:  <the snp be the win party 2003 that have the constituency of edinburgh south>. Is it entailed or refuted by the table above?,Political,0.31295984983444214
+"The statement is:  <2.99 be the sum of swing to gain that have constituency of caithness , sutherland and easter ross>. Is it entailed or refuted by the table above?",Political,0.3161943554878235
+The statement is:  <lilly (3 - 3) have a loss on july 18 at 3:11>. Is it entailed or refuted by the table above?,Telecommunications,0.10208937525749207
+The statement is:  <the record be 43 - 56 after lose 3 in a row at the yankee>. Is it entailed or refuted by the table above?,Political,0.13206693530082703
+"The statement is:  <on july 18 , the record go to 41 - 51 after a win 12 - 4>. Is it entailed or refuted by the table above?",Political,0.12959352135658264
+The statement is:  <a win be record on july 31 bring the record 46 - 58>. Is it entailed or refuted by the table above?,Political,0.0899234414100647
+The statement is:  <weaver lose at the indian bring his record to (9 - 9)>. Is it entailed or refuted by the table above?,Political,0.11106017231941223
+"The statement is:  <on july 18 , lilly lose after a time of 3:11>. Is it entailed or refuted by the table above?",Telecommunications,0.08432616293430328
+The statement is:  <on july 26 they play the yankee with a record of 43 - 56>. Is it entailed or refuted by the table above?,Political,0.12008611857891083
+"The statement is:  <on july 18 , the yankee lose 12 - 4 while have a record of 41 - 51>. Is it entailed or refuted by the table above?",Political,0.18429726362228394
+The statement is:  <on july 31 the record be 46 - 58>. Is it entailed or refuted by the table above?,Political,0.07112208753824234
+The statement is:  <weaver lose to the indian on july 22>. Is it entailed or refuted by the table above?,Political,0.12484847009181976
+The statement is:  <2:38 be the time on july 18 of a loss of lilly (3 - 3)>. Is it entailed or refuted by the table above?,Telecommunications,0.08331216871738434
+The statement is:  <indian be the opponent with a record of 43 - 56>. Is it entailed or refuted by the table above?,Political,0.13007177412509918
+The statement is:  <11 - 2 be the july 18 score that have a record of 41 - 51>. Is it entailed or refuted by the table above?,Telecommunications,0.08316535502672195
+The statement is:  <mariner have the highest attendance at 30022 between july 1 and july 31>. Is it entailed or refuted by the table above?,Media and Entertainment,0.12508107721805573
+The statement is:  <the game against the red on july 18 ran for 3 hour and 11 minute and lilly (3 - 3) receive the loss>. Is it entailed or refuted by the table above?,Political,0.11434781551361084
+"The statement is:  <on july 25 , the team finish with a record of 43 - 56 after play the yankee>. Is it entailed or refuted by the table above?",Telecommunications,0.11254137009382248
+"The statement is:  <the score on july 18 , when the team 's record be 41 - 51 and burba (9 - 8) receive the loss , be 12 - 4>. Is it entailed or refuted by the table above?",Political,0.10692406445741653
+The statement is:  <the record on july 31 be 46 - 58 with indian as the opponent>. Is it entailed or refuted by the table above?,Political,0.1836104393005371
+The statement is:  <the sum of crowd attendance be 38938 at the game loss by clement (5 - 7)>. Is it entailed or refuted by the table above?,Political,0.1002122163772583
+"The statement is:  <at the game play against the white sox on june 21 , there be a score of 2 - 1 (10)>. Is it entailed or refuted by the table above?",Political,0.0815240889787674
+"The statement is:  <lexi lombardelli be the cyber girl in week 2 , and tasha nicole be the name of the cyber girl in week 3>. Is it entailed or refuted by the table above?",Telecommunications,0.15174953639507294
+"The statement is:  <anissa holmes be the cyber girl in week 1 , while alinna d penta be the cyber girl in week 3>. Is it entailed or refuted by the table above?",Media and Entertainment,0.12332544475793839
+"The statement is:  <in week 3 felicia taylor be the cyber girl , and by week 5 , the month have end>. Is it entailed or refuted by the table above?",Media and Entertainment,0.1340562254190445
+"The statement is:  <ashley lowe be the cyber girl in week 2 , and jennifer lewis be the cyber girl in week 3>. Is it entailed or refuted by the table above?",Media and Entertainment,0.13665509223937988
+"The statement is:  <josie goldberg be the cyber girl in week 2 , while diane deluna be the cyber girl in week 4>. Is it entailed or refuted by the table above?",Media and Entertainment,0.15909160673618317
+"The statement is:  <when demi jessica be the cyber girl in week 1 , chernise yvette be the cyber girl in week 3>. Is it entailed or refuted by the table above?",Media and Entertainment,0.13551609218120575
+"The statement is:  <when lexi lombardelli be the cyber girl in week 2 , kristen smith be the name of the cyber girl in week 4>. Is it entailed or refuted by the table above?",Telecommunications,0.1197097897529602
+"The statement is:  <when ashley lowe be the cyber girl in week 2 , jennifer lewis be the cyber girl in week 1>. Is it entailed or refuted by the table above?",Media and Entertainment,0.12869736552238464
+The statement is:  <kaci lynn be the cyber girl in week 2 when diane deluna be the cyber girl in week 4>. Is it entailed or refuted by the table above?,Media and Entertainment,0.15353840589523315
+The statement is:  <research grant have the first establishment in the amount of 4.027 in the year before 1810>. Is it entailed or refuted by the table above?,Science and Research,0.3275153636932373
+The statement is:  <the total number of establish university receive research grant in the amount of 2.203 be more than 1>. Is it entailed or refuted by the table above?,Science and Research,0.22129233181476593
+The statement is:  <the student population be less than 3600 when research grant be 1.812>. Is it entailed or refuted by the table above?,Science and Research,0.18190573155879974
+"The statement is:  <in round 6 , number 1 toad hall win gtu while number 48 greenwood race win the gto>. Is it entailed or refuted by the table above?",Political,0.1339847296476364
+"The statement is:  <in round 1 , number 48 mustang win the to while number 16 2002 win the tu>. Is it entailed or refuted by the table above?",Political,0.12899930775165558
+The statement is:  <number 48 greenwood racing be the gto win team for round 6>. Is it entailed or refuted by the table above?,Sports and Recreation,0.13763247430324554
+The statement is:  <denny long be the gto win team at lime rock>. Is it entailed or refuted by the table above?,Political,0.12454011291265488
+"The statement is:  <88 camaro be the winning team when the tu win team be number 16 , 2002>. Is it entailed or refuted by the table above?",Political,0.13587163388729095
+The statement is:  <the washington capital have pick number 155>. Is it entailed or refuted by the table above?,Political,0.14544302225112915
+The statement is:  <the washington capital select a player with draft number 155>. Is it entailed or refuted by the table above?,Political,0.13975636661052704
+The statement is:  <philadelphia flyer be associate with draft number 155>. Is it entailed or refuted by the table above?,Political,0.10321547091007233
+The statement is:  <washington capital be associate with draft number 161>. Is it entailed or refuted by the table above?,Political,0.15178512036800385
+The statement is:  <the magic have a record of 12 - 30 as visitor>. Is it entailed or refuted by the table above?,Travel and Hospitality,0.0945286974310875
+The statement is:  <the grizzlies at home record be 103 - 84 with the lead scorer rudy gay (18)>. Is it entailed or refuted by the table above?,Political,0.16826847195625305
+The statement is:  <the grizzlies at home record be 10 - 28 with the lead scorer rudy gay (30)>. Is it entailed or refuted by the table above?,Political,0.1891651749610901
+"The statement is:  <pau gasol (28) be the lead scorer have a home of lakers , and a record of 10 - 28>. Is it entailed or refuted by the table above?",Telecommunications,0.11433279514312744
+"The statement is:  <mcwilliams - franklin lead in high rebound against washintgon , with a 19 - 6 record>. Is it entailed or refuted by the table above?",Political,0.1227889135479927
+The statement is:  <the game with the 13 - 5 record be play at mohegan sun arena in front of a crowd of 6019>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11887376010417938
+The statement is:  <mcwilliams - franklin (12) do the high rebound in the game and douglas (22) do the high point>. Is it entailed or refuted by the table above?,Telecommunications,0.11788488924503326
+The statement is:  <the record of the game on july 1 be 12 - 5>. Is it entailed or refuted by the table above?,Telecommunications,0.11099927872419357
+The statement is:  <the game with a record 17 - 6 be play with opponent san antonio>. Is it entailed or refuted by the table above?,Political,0.08205633610486984
+"The statement is:  <mcwilliams - franklin have the highest rebound , at 12 , in a game with a 19 - 6 record>. Is it entailed or refuted by the table above?",Telecommunications,0.11350066214799881
+The statement is:  <the game in the mohegan sun arena have an attendance of 6019 people and a record of 13 - 5>. Is it entailed or refuted by the table above?,Media and Entertainment,0.15730875730514526
+"The statement is:  <in 1 game , mcwilliams - franklin have the high rebound , at 12 , while douglas have the high point , at 28>. Is it entailed or refuted by the table above?",Telecommunications,0.12603160738945007
+The statement is:  <the team 's record come into the july 1 game be 12 - 5>. Is it entailed or refuted by the table above?,Telecommunications,0.10211346298456192
+The statement is:  <the victory over new york on july 22 bring their record to 17 - 6>. Is it entailed or refuted by the table above?,Political,0.09746360778808594
+The statement is:  <mcwilliams - franklin (12) do the high rebound in the game with a 20 - 6 record>. Is it entailed or refuted by the table above?,Telecommunications,0.10568276047706604
+The statement is:  <the game with a 13 - 5 record be play in the mohegan sun arena in front of 7558 people>. Is it entailed or refuted by the table above?,Media and Entertainment,0.13942605257034302
+The statement is:  <the record on the game play on july 1 be 14 - 5>. Is it entailed or refuted by the table above?,Telecommunications,0.1140383929014206
+"The statement is:  <after the win on july 1 at mohegan sun arena , their record improve to 12 - 5>. Is it entailed or refuted by the table above?",Telecommunications,0.09643436968326569
+The statement is:  <orthodox christianity be the dominate religion in the village of Čelarevo with a population of 4831>. Is it entailed or refuted by the table above?,Religion and Philosophy,0.1643913835287094
+The statement is:  <the population of mladenovo village be 2679>. Is it entailed or refuted by the table above?,Census and Demographics,0.20255453884601593
+The statement is:  <jay inslee be the washington 1 district incumbent>. Is it entailed or refuted by the table above?,Political,0.4066881239414215
+The statement is:  <in washington 4 district the first elect year 1994>. Is it entailed or refuted by the table above?,Political,0.2507818341255188
+"The statement is:  <the election where the date of first elect be 2000 , the result be re - elect>. Is it entailed or refuted by the table above?",Political,0.31386199593544006
+"The statement is:  <there be 1 category of re - elect in the washington 4 district , whose incumbent be norm dick>. Is it entailed or refuted by the table above?",Political,0.38364434242248535
+The statement is:  <only 5 candidate be reelect>. Is it entailed or refuted by the table above?,Political,0.249978169798851
+The statement is:  <elmore waste disposal in spratanburg county be list on 03 / 31 / 1989>. Is it entailed or refuted by the table above?,Environmental,0.23672708868980408
+The statement is:  <aqua - tech environmental inc be propose on 08 / 23 / 1994>. Is it entailed or refuted by the table above?,Environmental,0.6490188241004944
+The statement is:  <sangamo weston / twelve - mile / hartwell pcb be list on 02 / 21 / 1990>. Is it entailed or refuted by the table above?,Political,0.09501872956752777
+The statement is:  <independent nail co of beaufort county have a cerclis id of scd004773644>. Is it entailed or refuted by the table above?,Political,0.22138914465904236
+The statement is:  <savannah river site (usdoe) be the name with a date list of 11 / 21 / 1989>. Is it entailed or refuted by the table above?,Environmental,0.07342033088207245
+The statement is:  <elmore waste disposal have a list of 03 / 31 / 1989 in spartanburg county>. Is it entailed or refuted by the table above?,Environmental,0.23053394258022308
+The statement is:  <08 / 23 / 1994 be the date propose when the list date be 12 / 16 / 1994 in the county of beaufort>. Is it entailed or refuted by the table above?,Political,0.09713642299175262
+The statement is:  <rock hill chemical co be list 02 / 21 / 1990 and have a cerclis id of scd980844005>. Is it entailed or refuted by the table above?,Science and Research,0.10856689512729645
+"The statement is:  <wamchem , inc in beaufort have a cerclis id of scd037405362>. Is it entailed or refuted by the table above?",Healthcare and Medicine,0.097519651055336
+The statement is:  <nameof charleston county be geiger (c & m oil) with a cerclis id of scd980711279>. Is it entailed or refuted by the table above?,Industrial and Manufacturing,0.1351647824048996
+The statement is:  <savannah river site (usdoe) list date be 11 / 21 / 1989>. Is it entailed or refuted by the table above?,Internet and Web Services,0.06858626008033752
+The statement is:  <08 / 24 / 1994 be the propose date>. Is it entailed or refuted by the table above?,Telecommunications,0.07708479464054108
+The statement is:  <sangamo weston / twelve mile / hartwell pbc be list as 03 / 21 / 1990>. Is it entailed or refuted by the table above?,Political,0.11734967678785324
+The statement is:  <beaufort have a cerclis id of scd037415364>. Is it entailed or refuted by the table above?,Legal,0.08174365758895874
+The statement is:  <geiger (c & m oil) have the cerlis id of scd98711299>. Is it entailed or refuted by the table above?,Industrial and Manufacturing,0.09745617210865021
+The statement is:  <the savannah river site (usdoe) have the cerlis id of scd98711222>. Is it entailed or refuted by the table above?,Environmental,0.11467432975769043
+"The statement is:  <the cerclis id of scd980844005 be list before 02 / 21 / 1990 for leonard chemical co , inc>. Is it entailed or refuted by the table above?",Science and Research,0.09131009876728058
+The statement is:  <the county of beaufort have no cerclis id>. Is it entailed or refuted by the table above?,Political,0.138285830616951
+The statement is:  <geiger (c & m oil) be the name for charleston county with a cerclis id of scd980711279 which be propose after 09 / 08 / 1983>. Is it entailed or refuted by the table above?,Industrial and Manufacturing,0.12554599344730377
+The statement is:  <savannah river site (usdoe) in allendale be the name for the listed date of 11 / 21 / 1989>. Is it entailed or refuted by the table above?,Political,0.06526389718055725
+The statement is:  <match by essendon and south melbourne have crowd of 19000>. Is it entailed or refuted by the table above?,Political,0.1203388124704361
+The statement is:  <carlton versus footscray have 43000 spectator>. Is it entailed or refuted by the table above?,Political,0.15557444095611572
+The statement is:  <hawthorn have more than 18000 spectator>. Is it entailed or refuted by the table above?,Telecommunications,0.08632957190275192
+The statement is:  <2009 season that have the team 2 of hanoi acb score 6:0>. Is it entailed or refuted by the table above?,Telecommunications,0.1048886775970459
+"The statement is:  <chonburi be the team 2 that have the binh duong stadium , vietnam>. Is it entailed or refuted by the table above?",Political,0.15014125406742096
+The statement is:  <only 1 team score 0:1 against chonburri>. Is it entailed or refuted by the table above?,Political,0.10909722000360489
+The statement is:  <there be 1 match that end with a score of 2:2 and that be hold in vietnam>. Is it entailed or refuted by the table above?,Political,0.13518278300762177
+The statement is:  <joaquin rodriguez be the winner of stage 5 with christian meier in the sprint classification>. Is it entailed or refuted by the table above?,Telecommunications,0.10909521579742432
+"The statement is:  <the winner of stage 6 , chris horner , be on team htc - columbia>. Is it entailed or refuted by the table above?",Telecommunications,0.1746126413345337
+The statement is:  <christian meier lead sprint classification and chris horner lead general classification>. Is it entailed or refuted by the table above?,Political,0.13300012052059174
+The statement is:  <sprint classification be associate with an overall loser of joaquin rodriguez be 2>. Is it entailed or refuted by the table above?,Telecommunications,0.08684688806533813
+The statement is:  <team htc - columbia lead team classification during the stage whose loser be christian meier>. Is it entailed or refuted by the table above?,Telecommunications,0.12781113386154175
+The statement is:  <the first leg of the match be 2 - 1>. Is it entailed or refuted by the table above?,Telecommunications,0.08923988044261932
+The statement is:  <the score during the second leg of the match between juventure (rs) v santos (sp) be 0 - 3>. Is it entailed or refuted by the table above?,Sports and Recreation,0.12336926907300949
+The statement is:  <the first leg of the match between botafogo and corinthian be 2 - 1>. Is it entailed or refuted by the table above?,Political,0.10455254465341568
+The statement is:  <yahaya have be from gha since 2008>. Is it entailed or refuted by the table above?,Political,0.09063946455717087
+The statement is:  <yahaya be transfer from gha to anagennisi karditsa for 50k>. Is it entailed or refuted by the table above?,Transportation,0.12051497399806976
+The statement is:  <a transfer fee of 50k be pay to anagennisi karditsa for yahaya>. Is it entailed or refuted by the table above?,Telecommunications,0.0895281434059143
+"The statement is:  <ita be the nationality of the player name yahaya , he be the only italian player>. Is it entailed or refuted by the table above?",Telecommunications,0.11389043182134628
+"The statement is:  <50k be the transfer fee for barboudis , who have an app (l / c / e) of 0 (0 / 0 / 0) and note of to anagennisi karditsa>. Is it entailed or refuted by the table above?",Financial and Economic,0.1214430183172226
+The statement is:  <yahaya be from cyp>. Is it entailed or refuted by the table above?,Political,0.22687312960624695
+The statement is:  <yahaya be transfer to anorthosis famagusta for free>. Is it entailed or refuted by the table above?,Healthcare and Medicine,0.10588909685611725
+"The statement is:  <there be no played with a % win of 50.00% , and loss of 1 , and win smaller than 1>. Is it entailed or refuted by the table above?",Telecommunications,0.06961429119110107
+The statement is:  <in the year 2012 there be 5 match play with a no result of 0 and % win of 100.00%>. Is it entailed or refuted by the table above?,Telecommunications,0.08670169115066528
+"The statement is:  <there be no played with a %win less than 100% , and loss between 0 and 5 and win between 0 and 5>. Is it entailed or refuted by the table above?",Telecommunications,0.07982137799263
+"The statement is:  <in 2012 , there be multiple game with no result>. Is it entailed or refuted by the table above?",Telecommunications,0.08722985535860062
+The statement is:  <jacques brel and rod mckuen compose les amants de cœur>. Is it entailed or refuted by the table above?,Travel and Hospitality,0.07015165686607361
+The statement is:  <le dernier repas or the last meat be track 4>. Is it entailed or refuted by the table above?,Sports and Recreation,0.11499548703432083
+The statement is:  <track number 3 be call la parlote>. Is it entailed or refuted by the table above?,Telecommunications,0.1256963461637497
+The statement is:  <la dernier repas by jacques brel be record on 1964 - 01 - 08>. Is it entailed or refuted by the table above?,Political,0.08286032825708389
+The statement is:  <jacques brel and rod mckuen compose a track entitle les amants de coeur which mean the lover of the heart>. Is it entailed or refuted by the table above?,Media and Entertainment,0.15698757767677307
+The statement is:  <track 3 be la parlote>. Is it entailed or refuted by the table above?,Telecommunications,0.21357361972332
+The statement is:  <le fenêtres be record 1964 - 01 - 08>. Is it entailed or refuted by the table above?,Environmental,0.42371857166290283
+The statement is:  <quand maman reviendra be compose by jacques brel and rod mukuen>. Is it entailed or refuted by the table above?,Media and Entertainment,0.08616189658641815
+The statement is:  <la fanette translate the last meas have a track larger than 2>. Is it entailed or refuted by the table above?,Telecommunications,0.09177999943494797
+The statement is:  <le bigotes be track number 3>. Is it entailed or refuted by the table above?,Telecommunications,0.11144939064979553
+The statement is:  <the last meal be record on 1963 - 04 - 03>. Is it entailed or refuted by the table above?,Food and Beverage,0.08889785408973694
+"The statement is:  <the composer of jacques , jean corti , jouannest have the bigot as translation>. Is it entailed or refuted by the table above?",Political,0.13637614250183105
+The statement is:  <la fanette have a track of 12>. Is it entailed or refuted by the table above?,Media and Entertainment,0.09647417813539505
+The statement is:  <marcos galvão be the opponent who have the event jungle fight 6>. Is it entailed or refuted by the table above?,Political,0.12735694646835327
+The statement is:  <decision be the method under the event jungle fight 2>. Is it entailed or refuted by the table above?,Political,0.11364001780748367
+The statement is:  <andre rodrigues be the opponent who have the event jungle fight 6>. Is it entailed or refuted by the table above?,Political,0.12866128981113434
+The statement is:  <ko (flying knee) be the method under the event jungle fight 2>. Is it entailed or refuted by the table above?,Telecommunications,0.10111413151025772
+The statement is:  <the home team of the kangaroo have a score of 18.12 (120) at the colonial stadium>. Is it entailed or refuted by the table above?,Political,0.12733803689479828
+The statement is:  <colonial stadium be the ground that have an away team score of 18.12 (120)>. Is it entailed or refuted by the table above?,Political,0.11811988055706024
+"The statement is:  <the away team score which have an away team of kangaroo , and a crowd of 8157 be 12.9 (81)>. Is it entailed or refuted by the table above?",Telecommunications,0.09266732633113861
+The statement is:  <there be only 1 new conference in the ncll deep south conference>. Is it entailed or refuted by the table above?,Telecommunications,0.12320592254400253
+The statement is:  <the university of nebraska at omaha 's team nickname be maverick>. Is it entailed or refuted by the table above?,Political,0.10626538842916489
+"The statement is:  <from 2005 - 2010 the location be list as omaha , nebraska>. Is it entailed or refuted by the table above?",Telecommunications,0.06786692887544632
+"The statement is:  <orange city , iowa be home to the red raider>. Is it entailed or refuted by the table above?",Political,0.1652510166168213
+The statement is:  <selc be the new conference at the university of mississippi>. Is it entailed or refuted by the table above?,Education,0.18136177957057953
+The statement is:  <2008 - 2009 be the year that the new classification be mcla division i>. Is it entailed or refuted by the table above?,Legal,0.08720505237579346
+The statement is:  <2009 - 2009 be the year that the new classification be glll>. Is it entailed or refuted by the table above?,Legal,0.08370282500982285
+The statement is:  <there be more than 1 new conference in the ncll deep south conference>. Is it entailed or refuted by the table above?,Telecommunications,0.13460858166217804
+The statement is:  <russia finish in second placing>. Is it entailed or refuted by the table above?,Political,0.13471001386642456
+The statement is:  <kim clijsters / olivier rochus of russia with set w - l 12 - 15 finish in second placing>. Is it entailed or refuted by the table above?,Political,0.12659303843975067
+The statement is:  <when they play against detroit lion there be 60594 crowd attendance>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1253107339143753
+"The statement is:  <on december 17 , 1992 the game be lose (27 - 7) against the minnesota viking>. Is it entailed or refuted by the table above?",Political,0.11017963290214539
+"The statement is:  <during the 9th week the game be play on november 1 , 1992>. Is it entailed or refuted by the table above?",Telecommunications,0.10417791455984116
+The statement is:  <60594 crowd attendred the game against the detroit lion>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1233157068490982
+"The statement is:  <week 9 start november 1 , 1992>. Is it entailed or refuted by the table above?",Software and Technology,0.06247926503419876
+"The statement is:  <when the result be l27 - 7 , and the opponent be the houston oiler , it be december 27 , 1992>. Is it entailed or refuted by the table above?",Political,0.12825722992420197
+"The statement is:  <week 6 be november 1 , 1992>. Is it entailed or refuted by the table above?",Legal,0.06584586948156357
+The statement is:  <lambeau field be the venue for 7 of the 17 week>. Is it entailed or refuted by the table above?,Media and Entertainment,0.10972017049789429
+"The statement is:  <the december 27 , 1992 game be a 27 - 7 loss against the minnesota viking at milwaukee county stadium>. Is it entailed or refuted by the table above?",Political,0.10349703580141068
+The statement is:  <bob murphy win 4 event out of the 28 he play>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11668616533279419
+The statement is:  <bob murphy only appear in this table with 4 win>. Is it entailed or refuted by the table above?,Telecommunications,0.07527884840965271
+The statement is:  <jim colbert have the least amount of win and least total earnings>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1443507820367813
+"The statement is:  <isao aoki play 28 event , accumulate 4 win>. Is it entailed or refuted by the table above?",Telecommunications,0.07833508402109146
+The statement is:  <there be no time jim colbert appear in the table with fewer than 5 win>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1234840676188469
+The statement is:  <the cornerback chris thompson be pick 18>. Is it entailed or refuted by the table above?,Political,0.12677383422851562
+The statement is:  <bobby mccray of florida be the only player with a pick larger than 9 and a round larger than 5>. Is it entailed or refuted by the table above?,Telecommunications,0.10094079375267029
+The statement is:  <cornerback have a pick of 27>. Is it entailed or refuted by the table above?,Political,0.07698921114206314
+"The statement is:  <delta state have a round smaller than 7 , and a pick smaller than 18 , and a name of anthony maddox>. Is it entailed or refuted by the table above?",Political,0.09641629457473755
+"The statement is:  <only 1 overall have a pick larger than 10 , and a round larger than 5>. Is it entailed or refuted by the table above?",Telecommunications,0.07469528168439865
+"The statement is:  <the tournament at milan , italy have a score of 4 - 6 , 6 - 3 , 7 - 6 (10)>. Is it entailed or refuted by the table above?",Political,0.10949926823377609
+"The statement is:  <before the date of 25 november 2002 , milan , italy have a score of 4 - 6 , 6 - 3 , 7 - 6 (10)>. Is it entailed or refuted by the table above?",Political,0.08861357718706131
+"The statement is:  <in the year 2010 , the co - driver for team risi competizione be gianmaria bruni pierre kaffer in the gt2 class>. Is it entailed or refuted by the table above?",Transportation,0.13321813941001892
+The statement is:  <the team risi competizione have 3 more lap in the year 2009 than in the year 2008>. Is it entailed or refuted by the table above?,Sports and Recreation,0.094487264752388
+The statement is:  <the average laps drive in the gt class be 223.0>. Is it entailed or refuted by the table above?,Transportation,0.14159268140792847
+"The statement is:  <the class gt2 , have drive greater than 133 lap , place below18th position and have a class position of 1st>. Is it entailed or refuted by the table above?",Software and Technology,0.0816512480378151
+The statement is:  <the title for episode number 30 be fall guy>. Is it entailed or refuted by the table above?,Media and Entertainment,0.19010986387729645
+The statement is:  <beauty and the best be the 11th number in the series>. Is it entailed or refuted by the table above?,Legal,0.07282523810863495
+The statement is:  <the episode title crossroad be the 8th episode in the series>. Is it entailed or refuted by the table above?,Media and Entertainment,0.22552461922168732
+The statement is:  <fall guy be the title for series number 8>. Is it entailed or refuted by the table above?,Media and Entertainment,0.2041531652212143
+The statement is:  <8 be the number in series for the episode title crossroad originally air on 30 may 2010>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11284465342760086
+The statement is:  <connaught type b earn 0 point in 1955>. Is it entailed or refuted by the table above?,Telecommunications,0.0726272314786911
+The statement is:  <12 de octubre have 6 loss>. Is it entailed or refuted by the table above?,Financial and Economic,0.08694449812173843
+The statement is:  <12 de octubre have 5 loss>. Is it entailed or refuted by the table above?,Financial and Economic,0.09284605830907822
+The statement is:  <game 3 be hold on october 6>. Is it entailed or refuted by the table above?,Telecommunications,0.10474903881549835
+The statement is:  <game 3 occur on october 10 with a time of 3:07>. Is it entailed or refuted by the table above?,Telecommunications,0.1196645200252533
+The statement is:  <stonesoft be number 6 on the list and be price at 389 million dollar>. Is it entailed or refuted by the table above?,Software and Technology,0.2634904384613037
+The statement is:  <stonesoft have a price of 389 m>. Is it entailed or refuted by the table above?,Software and Technology,0.2246604561805725
+The statement is:  <stonesoft be number lower than 6 and price at 389 m>. Is it entailed or refuted by the table above?,Software and Technology,0.17911429703235626
+The statement is:  <jean basson of south africa place highest with a time of 1:46:13 and a rank of 1>. Is it entailed or refuted by the table above?,Telecommunications,0.09475687891244888
+The statement is:  <dominik koll place second highest with a time of 1:47.70 and a rank of 4>. Is it entailed or refuted by the table above?,Telecommunications,0.08988311141729355
+"The statement is:  <boston win 104 - 101 (ot) in madison square garden , with an attendance of 19763 in game 77>. Is it entailed or refuted by the table above?",Telecommunications,0.09824095666408539
+The statement is:  <boston 's record after game 77 be 28 - 49>. Is it entailed or refuted by the table above?,Political,0.0919811874628067
+The statement is:  <the only listing under high asset during game 81 be toney douglas (5)>. Is it entailed or refuted by the table above?,Telecommunications,0.08463548868894577
+The statement is:  <w 113 - 107 (ot) be the score for location attendance of oracle arena 19230 and game less than 80.0>. Is it entailed or refuted by the table above?,Telecommunications,0.10625465214252472
+The statement is:  <danny edward total score be 71>. Is it entailed or refuted by the table above?,Education,0.10055281221866608
+The statement is:  <australia 's place be t1 with a score of 70>. Is it entailed or refuted by the table above?,Political,0.11884915083646774
+The statement is:  <danny edward have a score of 71>. Is it entailed or refuted by the table above?,Education,0.10848024487495422
+The statement is:  <bruce devlin (aus) and bill rogers (usa) tie with the lowest score of 70>. Is it entailed or refuted by the table above?,Political,0.18990829586982727
+The statement is:  <the total score for danny edward be 70>. Is it entailed or refuted by the table above?,Education,0.13098348677158356
+The statement is:  <bruce devlin and bobby clampett both have a score of 70>. Is it entailed or refuted by the table above?,Political,0.11205469071865082
+"The statement is:  <whitland rfc have 2 drawn , 36 tries against , and 66 point>. Is it entailed or refuted by the table above?",Sports and Recreation,0.14660339057445526
+"The statement is:  <bonymaen rfc have 4 try bonus , but lost 10>. Is it entailed or refuted by the table above?",Sports and Recreation,0.14484889805316925
+The statement is:  <corus (port talbot) rfc carry 496 point for and 450 point against>. Is it entailed or refuted by the table above?,Political,0.14170034229755402
+The statement is:  <there have be 45 tries for point against 583>. Is it entailed or refuted by the table above?,Telecommunications,0.08520235866308212
+"The statement is:  <when the tries for be 91 and play be 22 , there be point for 714>. Is it entailed or refuted by the table above?",Telecommunications,0.0899413675069809
+The statement is:  <there be no draw for tries for 42>. Is it entailed or refuted by the table above?,Political,0.07791102677583694
+The statement is:  <there have be 45 tries for point against 450>. Is it entailed or refuted by the table above?,Political,0.09083444625139236
+"The statement is:  <there be 714 point , 88 try , and 23 game be play>. Is it entailed or refuted by the table above?",Telecommunications,0.09375207126140594
+The statement is:  <the be 2 draw for tries for of 42>. Is it entailed or refuted by the table above?,Telecommunications,0.08035722374916077
+The statement is:  <whitland rfc carry 714 point for annd 269 point against>. Is it entailed or refuted by the table above?,Political,0.11826252937316895
+The statement is:  <whitland rfc have 2 drawn with 412 point for tries against 36 as well as point of 66>. Is it entailed or refuted by the table above?,Sports and Recreation,0.10270322859287262
+The statement is:  <bonymaen rfc with 50 point hold a try bonus of 4 and 0 draw with a lost of 10>. Is it entailed or refuted by the table above?,Sports and Recreation,0.1188909187912941
+The statement is:  <in the nascar camping world jamie mcmurray be the driver with a time of 1:30:30>. Is it entailed or refuted by the table above?,Transportation,0.08684847503900528
+The statement is:  <the ottawa swan be the away team on 2008 - 09 - 06>. Is it entailed or refuted by the table above?,Political,0.1341264843940735
+The statement is:  <the score of the game when the etobicoke kangaroo be the home team be 92 - 18>. Is it entailed or refuted by the table above?,Sports and Recreation,0.12385675311088562
+The statement is:  <when the broadview hawk be the home team the score be 130 - 56>. Is it entailed or refuted by the table above?,Political,0.16127143800258636
+The statement is:  <when the broadview hawk be the home team the score be 130 - 56>. Is it entailed or refuted by the table above?,Political,0.16127143800258636
+The statement is:  <the hamilton wildcats be the away team when the etobicoke kangaroo be the home team>. Is it entailed or refuted by the table above?,Political,0.16932757198810577
+The statement is:  <the date for the game with a score of 130 - 56 be 2008 - 09 - 06>. Is it entailed or refuted by the table above?,Telecommunications,0.08284995704889297
+The statement is:  <on 09 - 06 - 2008 the ottawa swan be the away team>. Is it entailed or refuted by the table above?,Political,0.1548328846693039
+The statement is:  <the etobicoke kangaroo be the home team when they win with a score of 92 - 18>. Is it entailed or refuted by the table above?,Political,0.164319708943367
+The statement is:  <the broadview hawk be the home team when they win with a score of 130 - 56>. Is it entailed or refuted by the table above?,Political,0.14287903904914856
+The statement is:  <the score of the broadview hawk home game be 130 - 56>. Is it entailed or refuted by the table above?,Telecommunications,0.10363920032978058
+The statement is:  <the etobicoke kangaroo be the home team when they beat the hamilton wildcat>. Is it entailed or refuted by the table above?,Political,0.16815432906150818
+"The statement is:  <on 2008 - 09 - 6 , the broadview hawk win with a score of 130 - 56>. Is it entailed or refuted by the table above?",Political,0.1505146622657776
+The statement is:  <the ottawa swan play against the away team on 2008 - 09 - 06>. Is it entailed or refuted by the table above?,Political,0.09801845997571945
+The statement is:  <the score be 92 - 18 when the etobicoke kangaroos play toronto rebel at home>. Is it entailed or refuted by the table above?,Sports and Recreation,0.1481780856847763
+The statement is:  <when the broadview hawk play the home team the score be 130 - 76>. Is it entailed or refuted by the table above?,Political,0.14217953383922577
+The statement is:  <when the broadview hawk defeat the home team the score be 130 - 76>. Is it entailed or refuted by the table above?,Political,0.13218924403190613
+"The statement is:  <on 2008 - 09 - 06 , the ottawa swan be the away team at humber college north>. Is it entailed or refuted by the table above?",Political,0.1183139830827713
+The statement is:  <the etobicoke kangaroos beat the toronto rebel 92 - 18>. Is it entailed or refuted by the table above?,Sports and Recreation,0.1581558883190155
+The statement is:  <the broadview hawk be the home team and the ottawa swan be the away team when the score be 130 - 56>. Is it entailed or refuted by the table above?,Political,0.1983150690793991
+The statement is:  <hamilton be the away team for the etobicoke kangaroos home game at humber college north>. Is it entailed or refuted by the table above?,Political,0.12069915980100632
+"The statement is:  <week 6 fell on the 16th of october , 2005>. Is it entailed or refuted by the table above?",Political,0.06631718575954437
+The statement is:  <week 1 have an attendance of 71781>. Is it entailed or refuted by the table above?,Education,0.07576987892389297
+The statement is:  <week 1 have record breaking attendance at 69149>. Is it entailed or refuted by the table above?,Telecommunications,0.06937012821435928
+"The statement is:  <on october 16 , 2005 , week 6 occur against cleveland brown>. Is it entailed or refuted by the table above?",Political,0.1575290858745575
+"The statement is:  <arizona cardinal be the opponent on december 18 , 2004>. Is it entailed or refuted by the table above?",Political,0.2590959370136261
+"The statement is:  <accord to a 2007 press release , 69 be the lowest report isn for russia>. Is it entailed or refuted by the table above?",Political,0.15297259390354156
+"The statement is:  <accord to a 2007 press release , 220 be the reported isn for kuwait>. Is it entailed or refuted by the table above?",Telecommunications,0.08359812200069427
+The statement is:  <69 be the report isn when disposition be kill and citizenship be russia>. Is it entailed or refuted by the table above?,Political,0.2791341245174408
+"The statement is:  <220 be the report isn , there be no july 2007 press release , the disposition be arrest , and citizenship be kuwait>. Is it entailed or refuted by the table above?",Political,0.1454455703496933
+The statement is:  <episode 3 have the title case two (part 1)>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11942131072282791
+The statement is:  <the episode that air 13 february 2012 be view by 7.12 million people>. Is it entailed or refuted by the table above?,Media and Entertainment,0.17646478116512299
+The statement is:  <case one (part 1) be direct by john strickland and be view by 7.35 view figure (millions)>. Is it entailed or refuted by the table above?,Political,0.10142308473587036
+"The statement is:  <episode 3 , written by john strickland and direct by ben court & caroline ip , be title case two (part 1)>. Is it entailed or refuted by the table above?",Media and Entertainment,0.10359252989292145
+"The statement is:  <the episode on february 20 , 2012 be view by more people than previous viewing such as on february 13 , 2012>. Is it entailed or refuted by the table above?",Media and Entertainment,0.12234485894441605
+The statement is:  <the speed of 92.81 earn the rider 1 point>. Is it entailed or refuted by the table above?,Transportation,0.1192532628774643
+The statement is:  <tom dickie earn 1 point with a speed of 92.81 mph>. Is it entailed or refuted by the table above?,Telecommunications,0.07378290593624115
+"The statement is:  <roberto rolfo go 18 lap , end 25.165 second behind the leader>. Is it entailed or refuted by the table above?",Political,0.10225611180067062
+The statement is:  <roberto rolfo complete 18 lap and end 25.165 second behind the leader>. Is it entailed or refuted by the table above?,Political,0.09592822939157486
+The statement is:  <shinichi nakatomi on a yamaha yzf - r1 start in grid 21 but finish in third place>. Is it entailed or refuted by the table above?,Transportation,0.0757637545466423
+The statement is:  <roberto rolfo go 18 lap end + 27.154 behind the leader>. Is it entailed or refuted by the table above?,Political,0.11017673462629318
+The statement is:  <alicia key be list as a host for bangkok>. Is it entailed or refuted by the table above?,Travel and Hospitality,0.1363396942615509
+The statement is:  <singapore host at the singapore indoor stadium in 2004 with a valentine 's day theme>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11258137226104736
+The statement is:  <bangkok host the mtv asia aid in 2005 with host alicia key>. Is it entailed or refuted by the table above?,Media and Entertainment,0.2130359560251236
+"The statement is:  <in 2006 , leehom wang and kelly rowland serve as host for a codehunters theme in bangkok>. Is it entailed or refuted by the table above?",Media and Entertainment,0.14935261011123657
+The statement is:  <vanness wu and michelle branch be the host for the 2004 event>. Is it entailed or refuted by the table above?,Political,0.09478161484003067
+The statement is:  <alicia key be the host for 2005 mtv asia aid at the royal paragon hall>. Is it entailed or refuted by the table above?,Media and Entertainment,0.29143422842025757
+The statement is:  <in 2002 the theme be alien and venue be singapore indoor stadium>. Is it entailed or refuted by the table above?,Media and Entertainment,0.14725732803344727
+The statement is:  <the host in 2004 also host in 2005>. Is it entailed or refuted by the table above?,Telecommunications,0.09182446449995041
+The statement is:  <the host city for the singapore indoor stadium in 2003 be shaggy and coco lee from bali>. Is it entailed or refuted by the table above?,Political,0.12717385590076447
+"The statement is:  <the team 1 time place 2nd in antwerp , belgium in the year 1991>. Is it entailed or refuted by the table above?",Science and Research,0.08600667119026184
+"The statement is:  <in auckland , new zealand the team place 2nd in team competition>. Is it entailed or refuted by the table above?",Sports and Recreation,0.07790229469537735
+"The statement is:  <the team place 2nd in antwerp , belgium 1 time>. Is it entailed or refuted by the table above?",Sports and Recreation,0.07845423370599747
+"The statement is:  <auckland , new zealand be the name of the venue that be use before 1991>. Is it entailed or refuted by the table above?",Political,0.10539357364177704
+"The statement is:  <the team place 2nd in auckland , new zealand 1 time>. Is it entailed or refuted by the table above?",Sports and Recreation,0.07557456940412521
+"The statement is:  <the team place 2nd in antwerp , belgium in the year after 1991 1 time>. Is it entailed or refuted by the table above?",Science and Research,0.0787324383854866
+"The statement is:  <auckland , new zealand be the venue that be use after 1991>. Is it entailed or refuted by the table above?",Political,0.07919586449861526
+"The statement is:  <for the world cross country championship in auckland , new zealand in 1988 , the result be the 1st place>. Is it entailed or refuted by the table above?",Sports and Recreation,0.18228556215763092
+The statement is:  <(29 + 3 pts) be the runner - up value in 2005>. Is it entailed or refuted by the table above?,Political,0.07689359039068222
+"The statement is:  <in 2011 , goondiwindi have a score of 4821 while inglewood have a score of 2586>. Is it entailed or refuted by the table above?",Telecommunications,0.07902485132217407
+"The statement is:  <10348 be the region total at 2001 , when goondiwindi have 4760 and inglewood have 2613>. Is it entailed or refuted by the table above?",Census and Demographics,0.08060102164745331
+The statement is:  <the nation of cuba have 1 silver medal>. Is it entailed or refuted by the table above?,Political,0.10245239734649658
+The statement is:  <cuba have 1 medal>. Is it entailed or refuted by the table above?,Political,0.12166160345077515
+"The statement is:  <motor racing be list as 7.9% in 2008 , 7.7% in 2011 and 7.6% in 2012>. Is it entailed or refuted by the table above?",Legal,0.08730925619602203
+The statement is:  <puroresu be list as 4.2% in 2005 and 3.1% in 2011>. Is it entailed or refuted by the table above?,Political,0.10434559732675552
+The statement is:  <football ( j league ) be list as 28.9% in 2011 and 31.2% in 2012>. Is it entailed or refuted by the table above?,Sports and Recreation,0.08508064597845078
+The statement is:  <others have 8.0% in 2005 and 4.2% in 2012>. Is it entailed or refuted by the table above?,Census and Demographics,0.08235855400562286
+The statement is:  <sumo be the favorite professional sport that have a table entry value of 17.1% for 2005>. Is it entailed or refuted by the table above?,Sports and Recreation,0.189652219414711
+The statement is:  <boxing be the favorite professional sport that have a table entry value of 8.9% for 2008>. Is it entailed or refuted by the table above?,Sports and Recreation,0.15566836297512054
+The statement is:  <motor racing have a popularity of 16.3% in 2012>. Is it entailed or refuted by the table above?,Transportation,0.17210185527801514
+The statement is:  <puroresu have a popularity of 8.0% in 2005>. Is it entailed or refuted by the table above?,Energy and Utilities,0.1753462553024292
+The statement is:  <football have a popularity of 44.9% in 2012 and 45.1% in 2011>. Is it entailed or refuted by the table above?,Sports and Recreation,0.12677118182182312
+"The statement is:  <in 2005 , motor racing have a popularity of 7.8% and 8.9% in 2008>. Is it entailed or refuted by the table above?",Legal,0.07692622393369675
+"The statement is:  <in 2004 , the play - by - play be jp dellacamera , and the color commentator be eric wynalda>. Is it entailed or refuted by the table above?",Political,0.10913314670324326
+"The statement is:  <in 2002 , rob stone be the pregame host when jp dellacamera do the play - by - play and ty keough be the color commentator>. Is it entailed or refuted by the table above?",Media and Entertainment,0.15175335109233856
+"The statement is:  <network abc host jack edward 's play - by - play , with ty keough as color commentator and rob stone as pregame host , in 2000>. Is it entailed or refuted by the table above?",Media and Entertainment,0.213236466050148
+The statement is:  <rob stone be the pregame host for the bold network>. Is it entailed or refuted by the table above?,Media and Entertainment,0.19061686098575592
+The statement is:  <the network abc have a play - by - play announcer of jack edward in 2000 and the pregame host be jason devos>. Is it entailed or refuted by the table above?,Media and Entertainment,0.18325483798980713
+The statement is:  <rob stone be the pregame host in 2006 when eric wynalda and julie foudy be the color commentator>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1683512181043625
+The statement is:  <uncharted 2: among thieves (2009) be a third - person shooter game>. Is it entailed or refuted by the table above?,Media and Entertainment,0.2550595998764038
+The statement is:  <portal be release in 2007>. Is it entailed or refuted by the table above?,Software and Technology,0.09799185395240784
+"The statement is:  <xbox 360 , window , playstation 3 , pc be all platform that have game in the rpg genre>. Is it entailed or refuted by the table above?",Media and Entertainment,0.2394426167011261
+The statement is:  <fable ii be and action rpg sandbox game from developer lionhead studio>. Is it entailed or refuted by the table above?,Media and Entertainment,0.39868560433387756
+"The statement is:  <2012 be the year of journey , a game in the adventure genre>. Is it entailed or refuted by the table above?",Media and Entertainment,0.2758602201938629
+The statement is:  <mass effect 2 be a third - person shooter>. Is it entailed or refuted by the table above?,Political,0.12952636182308197
+The statement is:  <portal be release in 2009>. Is it entailed or refuted by the table above?,Software and Technology,0.10187461227178574
+The statement is:  <the developer of portal be thatgamecompany>. Is it entailed or refuted by the table above?,Media and Entertainment,0.18786072731018066
+The statement is:  <journey be an rpg genre>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1294923573732376
+The statement is:  <lionhead studio be the developer of mass effect 2>. Is it entailed or refuted by the table above?,Software and Technology,0.129323348402977
+"The statement is:  <in 2012 , the genre of the game title portal be an adventure>. Is it entailed or refuted by the table above?",Media and Entertainment,0.2363470196723938
+The statement is:  <15.6 (96) be fitzroy 's score>. Is it entailed or refuted by the table above?,Telecommunications,0.08556777983903885
+"The statement is:  <19500 , be in attendance at corio oval>. Is it entailed or refuted by the table above?",Travel and Hospitality,0.09841148555278778
+The statement is:  <15.4 (94) be essendon 's opponent away score>. Is it entailed or refuted by the table above?,Telecommunications,0.08610138297080994
+The statement is:  <18500 be the attendance of corio oval>. Is it entailed or refuted by the table above?,Sports and Recreation,0.089034803211689
+The statement is:  <the value for podium when the season be after 2008 and when the series be gp2 asia series be 2>. Is it entailed or refuted by the table above?,Media and Entertainment,0.14932973682880402
+The statement is:  <the value for win when the series be gp2 series and when the season be before 2009 be 2>. Is it entailed or refuted by the table above?,Political,0.11538956314325333
+The statement is:  <in the season 2008 there be 6 podium and 2 win>. Is it entailed or refuted by the table above?,Telecommunications,0.08697808533906937
+"The statement is:  <in the season before 2007 , the position for the macau grand prix series be 9th and 5th>. Is it entailed or refuted by the table above?",Political,0.1251060664653778
+The statement is:  <in the formula one series after the 2008 season there be 3 podium for the 8th position>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11525265872478485
+"The statement is:  <in the 2008 gp2 series , there be 2 win and 6 podium>. Is it entailed or refuted by the table above?",Political,0.08636565506458282
+"The statement is:  <out of 2 7th position season , there be only one win>. Is it entailed or refuted by the table above?",Political,0.09665622562170029
+"The statement is:  <in the formula one series after 2008 , there be 3 podium when the position be 8th>. Is it entailed or refuted by the table above?",Political,0.07718106359243393
+"The statement is:  <in the gp2 asia series after 2008 , there be 2 podium>. Is it entailed or refuted by the table above?",Political,0.13504523038864136
+"The statement is:  <before the 2009 season , when the series be the gp2 series , the value for win be 2>. Is it entailed or refuted by the table above?",Telecommunications,0.1022157222032547
+"The statement is:  <9th / 5th be the value for position , when the series be the macau grand prix , and when the season be after 2007>. Is it entailed or refuted by the table above?",Media and Entertainment,0.18077249825000763
+The statement is:  <there be only one win when the position be 14th>. Is it entailed or refuted by the table above?,Political,0.1320176124572754
+"The statement is:  <formula one be the series , when the season be after 2008 , when the value for podium be 3 , and when the position be 8th and there be a test driver>. Is it entailed or refuted by the table above?",Science and Research,0.0808047503232956
+"The statement is:  <the value for podium , when the season be after 2008 , and when the series be gp2 asia series with a test driver be 2>. Is it entailed or refuted by the table above?",Telecommunications,0.10706812888383865
+"The statement is:  <the value for win , when the series be gp2 series , and when the season be between 2004 and 2009 be 21>. Is it entailed or refuted by the table above?",Telecommunications,0.0816192775964737
+"The statement is:  <in 2008 , the racer have 2 win and 6 podium in the gp2 asia series>. Is it entailed or refuted by the table above?",Telecommunications,0.10735262930393219
+"The statement is:  <for the macau grand prix , the racer come in 9th in 2005 , 5th in 2006 , and 1st in 2007>. Is it entailed or refuted by the table above?",Telecommunications,0.10015356540679932
+The statement is:  <the racer have 1 win and finish in 7th position of the formula 3 euro series>. Is it entailed or refuted by the table above?,Telecommunications,0.09165643155574799
+"The statement is:  <in 2012 , the driver come in 8th position in formula one with 3 podium and 3 win>. Is it entailed or refuted by the table above?",Telecommunications,0.11466562002897263
+"The statement is:  <in 2011 , the drive come in 1st position of the gp2 asia series with 2 podium and 2 win>. Is it entailed or refuted by the table above?",Telecommunications,0.08822699636220932
+"The statement is:  <in 2007 , the driver win 2 race in the gp2 series>. Is it entailed or refuted by the table above?",Telecommunications,0.09797748923301697
+The statement is:  <400c honda team rank 5th with a speed of 104.574 mph>. Is it entailed or refuted by the table above?,Telecommunications,0.12987321615219116
+The statement is:  <anthony redmond rode for the team 650cc kawasaki>. Is it entailed or refuted by the table above?,Telecommunications,0.12224223464727402
+The statement is:  <the rider in the number 1 rank have a time of 1:03.41.86 and a speed of 106.619 mph>. Is it entailed or refuted by the table above?,Transportation,0.11967924237251282
+The statement is:  <400c honda team rank be lower than 4 with a speed higher than 104.574 mph>. Is it entailed or refuted by the table above?,Telecommunications,0.12533138692378998
+The statement is:  <anthony redmond ride for the team 400cc yamaha>. Is it entailed or refuted by the table above?,Transportation,0.12789858877658844
+The statement is:  <the speed with a time of 1:03.41.86 and a rank smaller than 3 be 103.047 mph>. Is it entailed or refuted by the table above?,Telecommunications,0.07661807537078857
+"The statement is:  <on may 5 , 2012 the sport be academic>. Is it entailed or refuted by the table above?",Education,0.16513746976852417
+"The statement is:  <on may 5 , 2012 the event site be n / a>. Is it entailed or refuted by the table above?",Telecommunications,0.07414846122264862
+"The statement is:  <the sport be academic after may 5 , 2012>. Is it entailed or refuted by the table above?",Education,0.1030084490776062
+"The statement is:  <after may 5 , 2012 , the event site be n / a>. Is it entailed or refuted by the table above?",Telecommunications,0.07361451536417007
+The statement is:  <there be no team that rank beyond 17 that have more than 0 gold medal>. Is it entailed or refuted by the table above?,Telecommunications,0.08382357656955719
+The statement is:  <there be 2 total that be rank lower than 17 and that get at least 1 gold>. Is it entailed or refuted by the table above?,Telecommunications,0.07492078095674515
+"The statement is:  <for the height (m) of 1909 , the number of time visit be 15 , and the first time as an hc climb be in 1987>. Is it entailed or refuted by the table above?",Science and Research,0.08162806183099747
+"The statement is:  <for the height (m) of 2275 , the first time as an hc climb be 1994 and the most recent be in 1994>. Is it entailed or refuted by the table above?",Telecommunications,0.08995891362428665
+"The statement is:  <the first time as an hc climb and the most recent be the same for height (m) 2275 , 1994>. Is it entailed or refuted by the table above?",Telecommunications,0.07698966562747955
+"The statement is:  <the height (m) for the most number of time visit be 2556 / 2645 , with 19 number of hc climb>. Is it entailed or refuted by the table above?",Travel and Hospitality,0.08282893896102905
+The statement is:  <there be 2 1.0 hc climb with recent visit since 1984>. Is it entailed or refuted by the table above?,Travel and Hospitality,0.08272384852170944
+"The statement is:  <the first hc climb before 2004 with more than 6 time visit , more than 4 hc climb , and a height of 1669 be in 1988>. Is it entailed or refuted by the table above?",Telecommunications,0.0906015932559967
+The statement is:  <the home team score for the brisbane lion be 5.15 (45)>. Is it entailed or refuted by the table above?,Political,0.1335088461637497
+The statement is:  <adelaide be the home team for football park>. Is it entailed or refuted by the table above?,Sports and Recreation,0.1440667062997818
+"The statement is:  <the date of the bundaberg rum stadium game be on saturday , 24 february>. Is it entailed or refuted by the table above?",Political,0.12035458534955978
+The statement is:  <the carlton team away team score be 9.12 (66)>. Is it entailed or refuted by the table above?,Telecommunications,0.09869112819433212
+"The statement is:  <the brisbane lion have a home team score of 5.15 (45) against adelaide at bundaberg rum stadium on friday , 2 march>. Is it entailed or refuted by the table above?",Political,0.11690530180931091
+"The statement is:  <adelaide be the home team for football park after friday , 2 march>. Is it entailed or refuted by the table above?",Political,0.18002966046333313
+The statement is:  <9.12 (66) be the away team score for carlton with crowd more than 7291>. Is it entailed or refuted by the table above?,Telecommunications,0.09285634756088257
+"The statement is:  <before saturday , 17 february be the date for adelaide for westpac stadium>. Is it entailed or refuted by the table above?",Media and Entertainment,0.09152048081159592
+"The statement is:  <the date for bundaberg rum stadium be friday , 23 feb>. Is it entailed or refuted by the table above?",Media and Entertainment,0.08665258437395096
+"The statement is:  <daniel inouye have a second place rank for have an uninterrupted tenure time of 49 year , 394 day>. Is it entailed or refuted by the table above?",Political,0.13694414496421814
+"The statement is:  <the total tenure time of warren magnuson be 36 year , 20 day>. Is it entailed or refuted by the table above?",Political,0.10210488736629486
+The statement is:  <the best total tenure time be the person with uninterrupted time of 49 year and 394 day>. Is it entailed or refuted by the table above?,Political,0.07791011035442352
+The statement is:  <the total tenure time of warren magnuson be in the top 10 with 36 year and 20 day>. Is it entailed or refuted by the table above?,Political,0.10415366291999817
+The statement is:  <jay sommers and dick chevillat write episode 14>. Is it entailed or refuted by the table above?,Media and Entertainment,0.20778962969779968
+The statement is:  <the episode identify by the production code 28 be direct by richard l bare>. Is it entailed or refuted by the table above?,Media and Entertainment,0.11496354639530182
+"The statement is:  <a pig in a poke originally air march 9 , 1966>. Is it entailed or refuted by the table above?",Political,0.13525250554084778
+The statement is:  <1 episode be title a pig in a poke>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1574806571006775
+The statement is:  <jay sommers and dick chevillat write the episode title the wedding anniversary>. Is it entailed or refuted by the table above?,Media and Entertainment,0.2106705904006958
+"The statement is:  <may 11 , 1966 be the original air date for the episode a pig in a poke>. Is it entailed or refuted by the table above?",Media and Entertainment,0.18611177802085876
+The statement is:  <jay sommers be the only writer of the episode title the wedding anniversary>. Is it entailed or refuted by the table above?,Media and Entertainment,0.1593443602323532
+The statement is:  <don fuqua be unopposed in his election>. Is it entailed or refuted by the table above?,Political,0.21938122808933258
+The statement is:  <sam m gibbon run unopposed in his election>. Is it entailed or refuted by the table above?,Political,0.30754923820495605
+The statement is:  <1972 be the most recent year when an incumbent be first elect>. Is it entailed or refuted by the table above?,Political,0.17364443838596344
+The statement is:  <robert l f sikes be first elect in 1940>. Is it entailed or refuted by the table above?,Political,0.20528540015220642
+"The statement is:  <at the florida district 1 , robert l f sikes (democratic party) be first elect in 1940 unopposed then re - elect later>. Is it entailed or refuted by the table above?",Political,0.388704776763916
+The statement is:  <don fuqua run as a republican and be unopposed in his election>. Is it entailed or refuted by the table above?,Political,0.46100541949272156
+The statement is:  <incumbent sam m gibbon run for reelection against a democrat>. Is it entailed or refuted by the table above?,Political,0.574440062046051
+"The statement is:  <cwmbran rfc play 22 game , win 9 , lost 13 , and have no draw>. Is it entailed or refuted by the table above?",Political,0.11052334308624268
+The statement is:  <the new tredegar rfc 's bonus count be 2>. Is it entailed or refuted by the table above?,Science and Research,0.09673745930194855
+The statement is:  <a team play 22 game and end up with a total of 16 point>. Is it entailed or refuted by the table above?,Telecommunications,0.09554636478424072
+The statement is:  <cwmbran rfc club have 29 tries for and 55 tries against>. Is it entailed or refuted by the table above?,Sports and Recreation,0.17719095945358276
+The statement is:  <croesyceiliog rfc have fifty 8 point total>. Is it entailed or refuted by the table above?,Science and Research,0.11361630260944366
+"The statement is:  <gwernyfed rfc club have a total of 41 point , win 8 game , and have 367 total point for show>. Is it entailed or refuted by the table above?",Media and Entertainment,0.14228034019470215
+"The statement is:  <pontypool unite rfc play 22 game , win 12 game , lost 8 game , and have point of 58>. Is it entailed or refuted by the table above?",Sports and Recreation,0.1547427475452423
+The statement is:  <the tries against of 38 and the try bonus of 7 be both for the club abertillery rfc>. Is it entailed or refuted by the table above?,Telecommunications,0.12009362876415253
+The statement is:  <club newport hsob rfc have 39 point>. Is it entailed or refuted by the table above?,Political,0.09889093786478043
+The statement is:  <cwmbran rfc have more point than gwernyfed rfc>. Is it entailed or refuted by the table above?,Political,0.15102338790893555
+The statement is:  <there be more than a 265 point count for the club with 29 count try>. Is it entailed or refuted by the table above?,Telecommunications,0.10079225897789001
+"The statement is:  <the try bonus count for the club whose tries against count be more than 83 , be 2>. Is it entailed or refuted by the table above?",Telecommunications,0.10959821194410324
+The statement is:  <the team play the detroit lion at the tiger stadium>. Is it entailed or refuted by the table above?,Media and Entertainment,0.18137823045253754
+"The statement is:  <the game of december 2 , 1962 , fell on week 12 of the season>. Is it entailed or refuted by the table above?",Telecommunications,0.07477816194295883
+The statement is:  <the record show 3 - 2 for the cleveland municipal stadium game>. Is it entailed or refuted by the table above?,Political,0.11042393743991852
+The statement is:  <the 13th week of the season be december 8 1962>. Is it entailed or refuted by the table above?,Telecommunications,0.07851656526327133
+The statement is:  <the opponent be the detroit lion at the game site of memorial stadium>. Is it entailed or refuted by the table above?,Political,0.1617593616247177
+"The statement is:  <on december 2 , 1962 it be week 12 of the season>. Is it entailed or refuted by the table above?",Weather and Climate,0.08476381748914719
+The statement is:  <the cleveland brown record at cleveland municipal stadium be 3 - 2>. Is it entailed or refuted by the table above?,Political,0.14525166153907776
+"The statement is:  <the game date in week 13 be december 8 , 1962 at memorial stadium>. Is it entailed or refuted by the table above?",Sports and Recreation,0.09144700318574905
+The statement is:  <the total score at cleveland municipal stadium be over 5>. Is it entailed or refuted by the table above?,Sports and Recreation,0.10085397213697433
+"The statement is:  <december 8 , 1962 be the game date for the 12th week>. Is it entailed or refuted by the table above?",Telecommunications,0.11077000945806503
+"The statement is:  <the week 12 game take place on november 25 , 1962>. Is it entailed or refuted by the table above?",Political,0.07511543482542038
+The statement is:  <the team play at tiger stadium against the washington redskins>. Is it entailed or refuted by the table above?,Political,0.13504324853420258
+"The statement is:  <week 12 start on december 8 , 1962>. Is it entailed or refuted by the table above?",Telecommunications,0.07152910530567169
+"The statement is:  <in the central forest reserve of itwara , there be 258 total plant specie and of those 258 plant , 248 be tree specie>. Is it entailed or refuted by the table above?",Environmental,0.2664279639720917
+The statement is:  <the kitechura central forest reserve have 108 tree specie>. Is it entailed or refuted by the table above?,Environmental,0.30131402611732483
+The statement is:  <there be 108 tree specie out of a 113 total plant specie>. Is it entailed or refuted by the table above?,Environmental,0.14105884730815887
+The statement is:  <the central forest reserve of itwara be 87 sq km>. Is it entailed or refuted by the table above?,Environmental,0.31262102723121643
+The statement is:  <kashoya - kitomi have the most threatened specie>. Is it entailed or refuted by the table above?,Environmental,0.09742952138185501
+The statement is:  <kalinzu have the most tree specie>. Is it entailed or refuted by the table above?,Environmental,0.08296436816453934
+The statement is:  <echuya be the second smallest in size>. Is it entailed or refuted by the table above?,Telecommunications,0.08548352867364883
+The statement is:  <there be more than 108 tree specie in the kitechura central forest reserve>. Is it entailed or refuted by the table above?,Environmental,0.21003369987010956
+"The statement is:  <5 of cut made have a top - 5 smaller than 3 , top - 25 smaller than 6 , and event of 10>. Is it entailed or refuted by the table above?",Telecommunications,0.07660166919231415
+"The statement is:  <the master tournament have cut made smaller than 9 , and event of 10>. Is it entailed or refuted by the table above?",Telecommunications,0.09149681776762009
+The statement is:  <he make more cut in the master than the us open>. Is it entailed or refuted by the table above?,Political,0.07917585968971252
+The statement is:  <the brand name associate with model e4xxx be core 2 duo>. Is it entailed or refuted by the table above?,Telecommunications,0.10052581876516342
+The statement is:  <the brand name associate with model e4xxx be core 2 duo>. Is it entailed or refuted by the table above?,Telecommunications,0.10052581876516342
+The statement is:  <the brand name associate with model 4x0 be celeron>. Is it entailed or refuted by the table above?,Software and Technology,0.13331623375415802
+"The statement is:  <most of the model include e2xxx have 2 core , besides model 4x0>. Is it entailed or refuted by the table above?",Software and Technology,0.1053292378783226
+The statement is:  <the tdp for model 4x0 be 35 w>. Is it entailed or refuted by the table above?,Telecommunications,0.10614961385726929
+The statement is:  <the model e2xxx have 2 core>. Is it entailed or refuted by the table above?,Software and Technology,0.10919099301099777
+The statement is:  <the model 4x0 have a tdp of 35 w>. Is it entailed or refuted by the table above?,Telecommunications,0.09687912464141846
+The statement is:  <model e4xxx be supply by the brand core 2 duo>. Is it entailed or refuted by the table above?,Telecommunications,0.09248010069131851
+The statement is:  <the celeron sell model 4x0>. Is it entailed or refuted by the table above?,Software and Technology,0.14071552455425262
+The statement is:  <the brand name associate with a model name e4xxx be core 2 duo and it have a conroe processor>. Is it entailed or refuted by the table above?,Software and Technology,0.15804286301136017
+The statement is:  <the brand name associate with a model name e4xxx be core 2 duo and its tdp be 75 w>. Is it entailed or refuted by the table above?,Software and Technology,0.11677391082048416
+The statement is:  <the brand name associate with the model 4x0 be celeron and it have an allendale processor>. Is it entailed or refuted by the table above?,Software and Technology,0.18109142780303955
+The statement is:  <the wattage / tdp associate with model name 4x0 and conroe - cl processor be 35 w>. Is it entailed or refuted by the table above?,Software and Technology,0.1338786631822586
+The statement is:  <the brand name associate with a model name e4xxx be pentium dual core>. Is it entailed or refuted by the table above?,Software and Technology,0.155164435505867
+The statement is:  <the brand name associate with a model name e4xxx s pentium dual core>. Is it entailed or refuted by the table above?,Software and Technology,0.17637291550636292
+The statement is:  <the brand name associate with the model 4x0 be core 2 duo>. Is it entailed or refuted by the table above?,Software and Technology,0.11256644129753113
+The statement is:  <the wattage / tdp associate with model name 4x0 be 46 w>. Is it entailed or refuted by the table above?,Telecommunications,0.10178647190332413
+The statement is:  <the brand name core 2 duo be associate to processor allendale have 1 core and of model (list) e4xxx>. Is it entailed or refuted by the table above?,Software and Technology,0.12592968344688416
+The statement is:  <the brand name core 2 duo be associate to processor allendale have 1 core and of model (list) e4xxx>. Is it entailed or refuted by the table above?,Software and Technology,0.12592968344688416
+The statement is:  <the brand name celeron with l2 cache 4 mb be associate with the model (list) 4x0>. Is it entailed or refuted by the table above?,Software and Technology,0.16659420728683472
+The statement is:  <the model e2xxx of brand name xeon and tdp 35w have 2 core>. Is it entailed or refuted by the table above?,Software and Technology,0.15291869640350342
+The statement is:  <the wattage / tdp associate with model 4x0 of brand pentium dual - core be less than 35 w>. Is it entailed or refuted by the table above?,Software and Technology,0.14355799555778503
+The statement is:  <the album artist mint royale sing the song something new (with mint royale and class a)>. Is it entailed or refuted by the table above?,Media and Entertainment,0.24065057933330536
+"The statement is:  <in 2011 , deseria appear on the album patagonia (ost) and be note to be a spanish adaptation of hope there 's someone>. Is it entailed or refuted by the table above?",Media and Entertainment,0.10872477293014526
+"The statement is:  <in 2011 , the note be spanish adaptation of hope there 's someone and the song be stay with me baby>. Is it entailed or refuted by the table above?",Media and Entertainment,0.11754908412694931
+The statement is:  <mint royale be the album artist of the song something new (with mint royale and class a) in 2011>. Is it entailed or refuted by the table above?,Media and Entertainment,0.18198402225971222
+The statement is:  <carlton score 12.16 when they play st kilda at home>. Is it entailed or refuted by the table above?,Media and Entertainment,0.09983400255441666
+The statement is:  <carlton score 21.16 on average when play st kilda>. Is it entailed or refuted by the table above?,Media and Entertainment,0.17672428488731384
+"The statement is:  <when the home team score 31.9 (195) , the away team score 15.16 (106)>. Is it entailed or refuted by the table above?",Political,0.10338442027568817
+The statement is:  <the largest crowd on august 4 1979 be 30495>. Is it entailed or refuted by the table above?,Political,0.09683464467525482
+"The statement is:  <when north melbourne be the home team , carlton be the away team>. Is it entailed or refuted by the table above?",Political,0.1982317864894867
+The statement is:  <richmond be the home team with a score of 28.22 (190) and they play st kilda at arden street oval>. Is it entailed or refuted by the table above?,Telecommunications,0.09585660696029663
+The statement is:  <paul lawrie get + 8 to par>. Is it entailed or refuted by the table above?,Legal,0.10595325380563736
+The statement is:  <paul lawrie get more than + 8 to par>. Is it entailed or refuted by the table above?,Legal,0.10297026485204697
+The statement is:  <the balmain tiger lose to the canterbury bulldog (6) with a score of 24 - 12>. Is it entailed or refuted by the table above?,Political,0.1148863434791565
