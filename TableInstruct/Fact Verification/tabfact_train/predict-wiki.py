@@ -6,6 +6,9 @@ from wikipediaapi import Wikipedia
 from tqdm import tqdm
 import time
 
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
 # Configuration
 INPUT_FOLDER = 'test'
 OUTPUT_FOLDER = 'topic prediction'
@@ -17,18 +20,33 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 nlp = spacy.load("en_core_web_sm")
 wiki = Wikipedia(user_agent=USER_AGENT, language='en')
 
+# Setup requests session with retries and timeout
+session = requests.Session()
+retries = Retry(total=5, backoff_factor=1, status_forcelist=[502, 503, 504])
+adapter = HTTPAdapter(max_retries=retries)
+session.mount('http://', adapter)
+session.mount('https://', adapter)
+
 # --- Helper Functions ---
 
 def extract_entities(text):
     doc = nlp(text)
     return list(set(ent.text for ent in doc.ents if len(ent.text) > 2))
 
-def get_wikipedia_titles(entities):
+def get_wikipedia_titles(entities, max_retries=3, timeout=10):
     titles = []
     for ent in entities:
-        page = wiki.page(ent)
-        if page.exists():
-            titles.append(page.title)
+        for attempt in range(max_retries):
+            try:
+                page = wiki.page(ent)
+                if page.exists():
+                    titles.append(page.title)
+                break  # Exit retry loop if successful
+            except requests.exceptions.ReadTimeout:
+                if attempt < max_retries - 1:
+                    time.sleep(2 ** attempt)  # Exponential backoff
+                else:
+                    print(f"⚠️ Timeout fetching page for: {ent}")
     return list(set(titles))
 
 def predict_topic_from_title(title, lang='en', threshold=THRESHOLD):
@@ -43,13 +61,16 @@ def predict_topic_from_title(title, lang='en', threshold=THRESHOLD):
     }
 
     url = "https://api.wikimedia.org/service/lw/inference/v1/models/outlink-topic-model:predict"
-    response = requests.post(url, json=payload, headers=headers)
 
-    if response.status_code == 200:
-        result = response.json()
-        if "prediction" in result:
-            predictions = sorted(result['prediction']['results'], key=lambda x: x['score'], reverse=True)
-            return predictions[:3]
+    try:
+        response = session.post(url, json=payload, headers=headers, timeout=10)
+        if response.status_code == 200:
+            result = response.json()
+            if "prediction" in result:
+                predictions = sorted(result['prediction']['results'], key=lambda x: x['score'], reverse=True)
+                return predictions[:3]
+    except requests.exceptions.RequestException as e:
+        print(f"⚠️ Error predicting topic for title {title}: {e}")
     return []
 
 # --- Main Processing Loop ---
