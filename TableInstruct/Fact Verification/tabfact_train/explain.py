@@ -50,12 +50,27 @@ report.append(f"Pearson Correlation of Top 1 Scores: {pearson_corr:.4f}")
 report.append(f"Spearman Correlation of Top 1 Scores: {spearman_corr:.4f}")
 
 # 4. Topic Distribution Comparison
-wiki_top1_counts = wiki_df['Top 1 Topic'].value_counts().rename('Wiki Count')
-bart_top1_counts = bart_df['Top 1 Topic'].value_counts().rename('Bart Count')
-topic_distribution = pd.concat([wiki_top1_counts, bart_top1_counts], axis=1).fillna(0).astype(int)
-topic_distribution_path = os.path.join(output_folder, 'topic_distribution.csv')
-topic_distribution.to_csv(topic_distribution_path)
-report.append(f"Topic distribution saved to: {topic_distribution_path}")
+
+# 4. Topic Distribution Comparison (Simplified)
+
+# Wiki Top 1 Topic Count
+wiki_top1_counts = wiki_df['Top 1 Topic'].value_counts().reset_index()
+wiki_top1_counts.columns = ['Wiki Top 1 Topic', 'Wiki Top 1 Topic Count']
+
+# Bart Top 1 Topic Count
+bart_top1_counts = bart_df['Top 1 Topic'].value_counts().reset_index()
+bart_top1_counts.columns = ['Bart Top 1 Topic', 'Bart Top 1 Topic Count']
+
+# Save separately
+wiki_topic_distribution_path = os.path.join(output_folder, 'wiki_top1_topic_count.csv')
+bart_topic_distribution_path = os.path.join(output_folder, 'bart_top1_topic_count.csv')
+
+wiki_top1_counts.to_csv(wiki_topic_distribution_path, index=False)
+bart_top1_counts.to_csv(bart_topic_distribution_path, index=False)
+
+report.append(f"Wiki Top 1 Topic count saved to: {wiki_topic_distribution_path}")
+report.append(f"Bart Top 1 Topic count saved to: {bart_topic_distribution_path}")
+
 
 # 5. Disagreement Analysis
 disagreements = combined_df[combined_df['Top 1 Topic'] != combined_df['Top 1 Topic_bart']]
