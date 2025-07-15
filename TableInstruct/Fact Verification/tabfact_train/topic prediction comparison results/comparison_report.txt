@@ -1,0 +1,7 @@
+Top 1 Topic Agreement Rate: 0.0000
+Top 3 Topic Overlap Rate: 0.0000
+Pearson Correlation of Top 1 Scores: nan
+Spearman Correlation of Top 1 Scores: nan
+Topic distribution saved to: topic prediction comparison results/topic_distribution.csv
+Disagreements saved to: topic prediction comparison results/disagreements.csv
+Average Kendall’s Tau: -0.7497
