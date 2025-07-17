@@ -1,19 +1,13 @@
 """
 Question Type Analysis Script
 -----------------------------
-This script processes all .csv files in ./QAS/, analyzes the first column for question types,
-saves labeled CSV files in ./question_type/, generates a PNG sunburst chart,
-and produces a hierarchical statistics CSV file.
+Processes all .csv files in ./QAS/, analyzes the first column for question types,
+saves labeled CSV files in ./question_type/, generates a PNG and HTML sunburst chart,
+and produces a hierarchical statistics CSV file sorted by count (descending).
 
-System Dependencies (automatically installed if missing):
-- libnss3 libatk-bridge2.0-0t64 libcups2t64 libxcomposite1 libxdamage1 libxfixes3
-- libxrandr2 libgbm1 libxkbcommon0 libpango-1.0-0 libcairo2 libasound2t64
-
-Python Dependencies (auto-installed):
-- pandas
-- plotly
-- kaleido
-- tqdm
+Automatically installs:
+- System libraries via apt-get (for Plotly image export)
+- Python packages: pandas, plotly, kaleido, tqdm
 """
 
 import subprocess
@@ -23,14 +17,9 @@ import os
 def run_apt_dependencies():
     try:
         subprocess.run(
-            [
-                "sudo", "apt", "update", "&&",
-                "sudo", "apt-get", "install", "-y",
-                "libnss3", "libatk-bridge2.0-0t64", "libcups2t64",
-                "libxcomposite1", "libxdamage1", "libxfixes3", "libxrandr2",
-                "libgbm1", "libxkbcommon0", "libpango-1.0-0",
-                "libcairo2", "libasound2t64"
-            ],
+            "sudo apt update && sudo apt-get install -y "
+            "libnss3 libatk-bridge2.0-0t64 libcups2t64 libxcomposite1 libxdamage1 "
+            "libxfixes3 libxrandr2 libgbm1 libxkbcommon0 libpango-1.0-0 libcairo2 libasound2t64",
             check=True,
             shell=True
         )
@@ -44,13 +33,11 @@ def install_and_import(package):
     except ImportError:
         subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
-# Run system and Python package installations
 run_apt_dependencies()
 
 for pkg in ['pandas', 'plotly', 'kaleido', 'tqdm']:
     install_and_import(pkg)
 
-# Main script starts here
 import pandas as pd
 import re
 from collections import Counter, defaultdict
@@ -153,10 +140,13 @@ for key, count in parent_child_counter.items():
     })
 
 statistics_df = pd.DataFrame(statistics_rows)
+
+# Sort by count in descending order
+statistics_df = statistics_df.sort_values(by='count', ascending=False)
+
 statistics_csv_path = os.path.join(output_folder, 'question_type_sunburst_statistics.csv')
 statistics_df.to_csv(statistics_csv_path, index=False)
 
-# Generate local file URL (for browser viewing)
 def local_file_url(path):
     path = os.path.abspath(path)
     if platform.system() == "Windows":
