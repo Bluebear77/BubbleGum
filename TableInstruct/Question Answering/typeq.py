@@ -1,39 +1,76 @@
-#pip install pandas plotly
-#pip install kaleido
-#pip install tqdm
-#plotly_get_chrome
-
 """
 Question Type Analysis Script
 -----------------------------
-This script processes all .csv files in ./QAS/, analyzing the first column (questions).
-It identifies question types using WH-words, copulas, and auxiliary verbs, saves labeled files in ./question_type/,
-and generates both a PNG sunburst chart and a CSV file with hierarchical question type statistics.
+This script processes all .csv files in ./QAS/, analyzes the first column for question types,
+saves labeled CSV files in ./question_type/, generates a PNG sunburst chart,
+and produces a hierarchical statistics CSV file.
+
+System Dependencies (automatically installed if missing):
+- libnss3 libatk-bridge2.0-0t64 libcups2t64 libxcomposite1 libxdamage1 libxfixes3
+- libxrandr2 libgbm1 libxkbcommon0 libpango-1.0-0 libcairo2 libasound2t64
+
+Python Dependencies (auto-installed):
+- pandas
+- plotly
+- kaleido
+- tqdm
 """
 
-
-import pandas as pd
+import subprocess
+import sys
 import os
+
+def run_apt_dependencies():
+    try:
+        subprocess.run(
+            [
+                "sudo", "apt", "update", "&&",
+                "sudo", "apt-get", "install", "-y",
+                "libnss3", "libatk-bridge2.0-0t64", "libcups2t64",
+                "libxcomposite1", "libxdamage1", "libxfixes3", "libxrandr2",
+                "libgbm1", "libxkbcommon0", "libpango-1.0-0",
+                "libcairo2", "libasound2t64"
+            ],
+            check=True,
+            shell=True
+        )
+    except Exception as e:
+        print("⚠️  Warning: Could not automatically install system dependencies. Run manually if needed.")
+        print(e)
+
+def install_and_import(package):
+    try:
+        __import__(package)
+    except ImportError:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+# Run system and Python package installations
+run_apt_dependencies()
+
+for pkg in ['pandas', 'plotly', 'kaleido', 'tqdm']:
+    install_and_import(pkg)
+
+# Main script starts here
+import pandas as pd
 import re
-from collections import Counter
+from collections import Counter, defaultdict
 import plotly.express as px
 import plotly.io as pio
 from tqdm import tqdm
+from urllib.parse import quote
+import platform
 
-# Define folders
 input_folder = './QAS/'
 output_folder = './question_type/'
 
 os.makedirs(output_folder, exist_ok=True)
 
-# Question words and prepositions
 QUESTION_WORDS = ['what', 'who', 'how', 'which', 'when', 'where', 'does', 'did', 'is', 'are']
 PREPOSITIONS = ['in', 'by']
 
 def extract_question_type(question):
     tokens = re.findall(r'\w+', question.lower())
     cqw_index = None
-
     for idx, token in enumerate(tokens[:3]):
         if token in QUESTION_WORDS:
             cqw_index = idx
@@ -45,33 +82,25 @@ def extract_question_type(question):
                 break
     if cqw_index is None:
         return "other"
-
     start_index = cqw_index
     if cqw_index > 0 and tokens[cqw_index - 1] in PREPOSITIONS:
         start_index -= 1
-
     end_index = min(cqw_index + 3, len(tokens))
     return ' '.join(tokens[start_index:end_index])
 
-# Collect all types for global sunburst
 all_types_counter = Counter()
-
 file_list = [f for f in os.listdir(input_folder) if f.endswith('.csv')]
 
 for file_name in tqdm(file_list, desc="Processing files"):
     df = pd.read_csv(os.path.join(input_folder, file_name))
     if df.shape[1] == 0:
         continue
-
     questions = df.iloc[:, 0].astype(str)
     types = questions.apply(extract_question_type)
-
     all_types_counter.update(types)
-
     result_df = pd.DataFrame({'Type': types, 'Question': questions})
     result_df.to_csv(os.path.join(output_folder, file_name), index=False)
 
-# Create sunburst data frame
 sunburst_data = []
 for type_phrase, count in all_types_counter.items():
     parts = type_phrase.split()
@@ -91,12 +120,12 @@ fig = px.sunburst(
     title='Distribution of Question Types'
 )
 
-pio.write_image(fig, os.path.join(output_folder, 'question_type_sunburst.png'), format='png', scale=2)
+sunburst_image_path = os.path.join(output_folder, 'question_type_sunburst.png')
+sunburst_html_path = os.path.join(output_folder, 'question_type_sunburst.html')
 
-# --- Correct aggregation for CSV statistics ---
-from collections import defaultdict
+pio.write_image(fig, sunburst_image_path, format='png', scale=2)
+fig.write_html(sunburst_html_path)
 
-# Prepare aggregated counts exactly as in sunburst
 parent_child_counter = defaultdict(int)
 
 for _, row in sunburst_df.iterrows():
@@ -111,9 +140,7 @@ for _, row in sunburst_df.iterrows():
     if next2:
         parent_child_counter[f"{cqw}/{next1}/{next2}"] += count
 
-# Build final statistics table
 statistics_rows = []
-
 for key, count in parent_child_counter.items():
     parts = key.split('/')
     label = parts[-1]
@@ -126,6 +153,16 @@ for key, count in parent_child_counter.items():
     })
 
 statistics_df = pd.DataFrame(statistics_rows)
-statistics_df.to_csv(os.path.join(output_folder, 'question_type_sunburst_statistics.csv'), index=False)
+statistics_csv_path = os.path.join(output_folder, 'question_type_sunburst_statistics.csv')
+statistics_df.to_csv(statistics_csv_path, index=False)
+
+# Generate local file URL (for browser viewing)
+def local_file_url(path):
+    path = os.path.abspath(path)
+    if platform.system() == "Windows":
+        return f"file:///{quote(path.replace(os.sep, '/'))}"
+    else:
+        return f"file://{quote(path)}"
 
 print("✅ Processing complete. Outputs saved in ./question_type/")
+print(f"📊 View the sunburst chart here: {local_file_url(sunburst_html_path)}")
