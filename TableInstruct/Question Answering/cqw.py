@@ -48,7 +48,7 @@ from urllib.parse import quote
 import platform
 
 input_folder = './QAS/'
-output_folder = './question_type/'
+output_folder = './question_cqw_type/'
 
 os.makedirs(output_folder, exist_ok=True)
 
