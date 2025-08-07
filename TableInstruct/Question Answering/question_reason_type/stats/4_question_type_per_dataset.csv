@@ -1,0 +1,9 @@
+Dataset,Composition,Intersection,Simple
+hybridqa_eval,1643,168,1655
+hitab_train_7417,1252,864,5301
+wikisql_test,3121,1526,11231
+fetaqa_test,140,497,1366
+hitab_test,255,166,1163
+fetaqa_train_7325,623,1797,4905
+wikitq_test,184,130,4030
+TOTAL,7218,5148,29651

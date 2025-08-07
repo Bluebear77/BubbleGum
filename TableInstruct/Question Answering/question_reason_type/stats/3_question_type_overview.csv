@@ -1,0 +1,21 @@
+Section,Label,Count,Freq (%)
+Question Type,Composition,7218,17.2
+Question Type,Intersection,5148,12.3
+Question Type,Simple,29651,70.6
+Skill,Aggregation,2806,6.7
+Skill,All,118,0.3
+Skill,Average,999,2.4
+Skill,Comparative,3075,7.3
+Skill,Counting,13209,31.4
+Skill,Difference,341,0.8
+Skill,Filtering entity,4544,10.8
+Skill,Filtering numeric,1971,4.7
+Skill,Filtering time,8767,20.9
+Skill,Negation,965,2.3
+Skill,No skill,9637,22.9
+Skill,Ordinal,2361,5.6
+Skill,Superlative,3766,9.0
+Skill,Unique,135,0.3
+Skills per question,One skill,34124,81.2
+Skills per question,Two skills,5109,12.2
+Skills per question,Three skills,2784,6.6

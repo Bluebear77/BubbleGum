@@ -4,7 +4,7 @@ import random
 
 # Set paths
 qas_dir = "./QAS"
-demo_dir = "./Demo"
+demo_dir = "./Test"
 
 # Ensure output directory exists
 os.makedirs(demo_dir, exist_ok=True)

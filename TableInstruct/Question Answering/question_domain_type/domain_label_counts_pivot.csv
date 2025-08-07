@@ -1,0 +1,9 @@
+,Art,Business and Economic,Culture,Education,Environmental,Healthcare and Medicine,Media and Entertainment,Political,Religion and Philosophy,Science and Technology,Society,Sports,Warfare and Conflict
+fetaqa_test-50,0.0,0.0,8.0,0.0,0.0,0.0,15.0,6.0,0.0,1.0,2.0,17.0,1.0
+fetaqa_train_7325-50,0.0,1.0,4.0,1.0,0.0,0.0,18.0,5.0,0.0,0.0,0.0,21.0,0.0
+hitab_test-50,0.0,13.0,10.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,11.0,8.0,1.0
+hitab_train_7417-50,1.0,9.0,4.0,7.0,0.0,3.0,0.0,1.0,0.0,4.0,15.0,6.0,0.0
+hybridqa_eval-50,0.0,5.0,7.0,2.0,1.0,0.0,5.0,5.0,0.0,4.0,3.0,18.0,0.0
+wikisql_test-50,2.0,3.0,10.0,2.0,0.0,0.0,5.0,3.0,1.0,2.0,0.0,22.0,0.0
+wikitq_test-50,0.0,6.0,8.0,0.0,0.0,1.0,4.0,4.0,0.0,2.0,0.0,21.0,4.0
+Total,3 (0.0086),37 (0.1057),51 (0.1457),13 (0.0371),2 (0.0057),7 (0.02),48 (0.1371),25 (0.0714),1 (0.0029),13 (0.0371),31 (0.0886),113 (0.3229),6 (0.0171)

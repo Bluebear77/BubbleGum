@@ -1,0 +1,9 @@
+Dataset,Aggregation,All,Average,Comparative,Counting,Difference,Filtering entity,Filtering numeric,Filtering time,Negation,No skill,Ordinal,Superlative,Unique
+hybridqa_eval-type,39,15,11,143,606,36,813,34,538,63,1259,307,417,12
+hitab_train_7417-type,582,25,271,313,4248,123,875,224,309,358,851,314,667,14
+wikisql_test-type,1273,63,559,1828,4539,8,2190,1387,2127,152,4831,443,1377,38
+fetaqa_test-type,70,1,4,52,192,8,71,3,1204,20,317,152,111,8
+hitab_test-type,114,9,72,83,912,20,175,50,95,77,165,55,151,4
+fetaqa_train_7325-type,284,2,26,133,887,36,313,10,3863,98,1521,470,362,13
+wikitq_test-type,444,3,56,523,1825,110,107,263,631,197,693,620,681,46
+TOTAL,2806,118,999,3075,13209,341,4544,1971,8767,965,9637,2361,3766,135
