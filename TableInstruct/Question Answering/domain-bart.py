@@ -1,19 +1,21 @@
 import os
+import csv
+import time
 import spacy
 import pandas as pd
 from tqdm import tqdm
 from transformers import pipeline
-import time
-import spacy
 
+# Load spaCy model
 nlp = spacy.load("en_core_web_sm")
+
+# Test spaCy setup
 doc = nlp("Albert Einstein was a physicist.")
 print([(ent.text, ent.label_) for ent in doc.ents])
 
-
 # Configuration
 INPUT_FOLDER = 'QAS'
-OUTPUT_FOLDER = 'question_domain_type'
+OUTPUT_FOLDER = './question_domain_type'
 USER_AGENT = "TopicPredictorBot/1.0"
 
 # Labels for classification
@@ -23,9 +25,8 @@ LABELS = [
     "Political", "Society", "Science and Technology", "Environmental", "Healthcare and Medicine"
 ]
 
-# Setup
+# Create output folder if it doesn't exist
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
-nlp = spacy.load("en_core_web_sm")
 
 # Initialize zero-shot classifier
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
@@ -50,7 +51,12 @@ for filename in os.listdir(INPUT_FOLDER):
     input_path = os.path.join(INPUT_FOLDER, filename)
     output_path = os.path.join(OUTPUT_FOLDER, filename)
 
-    df_input = pd.read_csv(input_path)
+    try:
+        # Safer CSV reading
+        df_input = pd.read_csv(input_path, on_bad_lines='warn', quoting=csv.QUOTE_MINIMAL)
+    except Exception as e:
+        print(f"❌ Error reading {filename}: {e}")
+        continue
 
     if 'question' not in df_input.columns:
         print(f"⚠️ Skipping {filename} — no 'question' column found.")
@@ -81,7 +87,7 @@ for filename in os.listdir(INPUT_FOLDER):
             "Original Question": text
         })
 
-        time.sleep(0.1)  # optional polite delay
+        time.sleep(0.1)  # polite delay to avoid rate limits
 
     df_output = pd.DataFrame(rows)
     df_output.to_csv(output_path, index=False)

@@ -1,0 +1,1429 @@
+Top 1 Topic,Top 1 Score,Top 2 Topic,Top 2 Score,Top 3 Topic,Top 3 Score,Entities,Original Question
+Food and Beverage,0.9889,Society,0.0834,Culture,0.028,french,what percent of french-language workers have worked in the restaurant and food services sector?
+Food and Beverage,0.8816,Society,0.4188,Business and Economic,0.0816,,what percent of other agri-food workers have worked in the restaurant and food services sector?
+Food and Beverage,0.9911,Business and Economic,0.1033,Culture,0.0585,french,what proportion of workers who have worked in the restaurant and food services sector was french-language workers?
+Food and Beverage,0.947,Society,0.144,Business and Economic,0.0528,,what proportion of workers who have worked in the restaurant and food services sector was other agri-food workers?
+Culture,0.7223,Business and Economic,0.6043,Science and Technology,0.572,15.5,15.5
+Culture,0.724,Science and Technology,0.5831,Business and Economic,0.567,18.8,18.8
+Culture,0.7855,Education,0.7207,Business and Economic,0.4961,"african ancestry, second",which region of ancestry had a higher percentage of second-generation black women with a university degree? second-generation women with other regions of ancestry or women of african ancestry?
+Culture,0.6944,Society,0.5183,Business and Economic,0.5155,50.8,50.8
+Culture,0.6958,Science and Technology,0.5214,Society,0.5086,34.8,34.8
+Culture,0.7588,Science and Technology,0.6423,Business and Economic,0.6379,19.1,19.1
+Culture,0.0558,Society,0.0184,Political,0.0101,africa,what is the percentage for those whose country of ancestry is in africa?
+Culture,0.0473,Society,0.0145,Political,0.0056,"caribbean, latin america",what is the percentage for those whose country of ancestry is in the caribbean and latin america?
+Culture,0.2457,Business and Economic,0.1308,Healthcare and Medicine,0.0347,french,french-language workers or other workers?
+Culture,0.2457,Business and Economic,0.1308,Healthcare and Medicine,0.0347,french,french-language workers or other workers?
+Culture,0.5057,Business and Economic,0.3962,Media and Entertainment,0.3719,,weekend
+Culture,0.5057,Business and Economic,0.3962,Media and Entertainment,0.3719,,weekend
+Culture,0.6982,Business and Economic,0.5626,Science and Technology,0.5071,120824.0,120824.0
+Culture,0.6996,Business and Economic,0.5783,Science and Technology,0.547,374685.0,374685.0
+Science and Technology,0.679,Business and Economic,0.2136,Society,0.026,annually,how many percentage points did software r&d increase annually compound at average growth rate?
+Business and Economic,0.8298,Science and Technology,0.7921,Healthcare and Medicine,0.5223,annually,how many percentage points did total business r&d increase annually at compound average growth rate?
+Culture,0.6921,Science and Technology,0.5444,Society,0.5302,54.0,54.0
+Society,0.0221,Business and Economic,0.0169,Culture,0.0017,,what was the percentage of agricultural workers were employees?
+Culture,0.6975,Science and Technology,0.6226,Business and Economic,0.5825,32.3,32.3
+Culture,0.6204,Society,0.5049,Business and Economic,0.3209,french,french-language workers or their counterparts from other language groups?
+Culture,0.6204,Society,0.5049,Business and Economic,0.3209,french,french-language workers or their counterparts from other language groups?
+Culture,0.719,Science and Technology,0.5706,Business and Economic,0.5664,16.8,16.8
+Culture,0.7089,Business and Economic,0.5782,Science and Technology,0.5778,10.5,10.5
+Culture,0.7306,Society,0.6532,Art,0.6286,6.6,6.6
+Business and Economic,0.4113,Culture,0.4078,Political,0.2186,stockport county,stockport county
+Culture,0.7614,Society,0.6986,Science and Technology,0.6567,1979.0,1979.0
+Culture,0.4232,Society,0.4169,Media and Entertainment,0.0839,,heterosexual
+Culture,0.7376,Science and Technology,0.6238,Business and Economic,0.6162,44.1,44.1
+Society,0.1766,Culture,0.011,Political,0.0084,the past year,cocaine or heroin in the past year?
+Culture,0.7522,Science and Technology,0.6252,Business and Economic,0.5953,14.0,14.0
+Culture,0.4297,Society,0.3905,Warfare and Conflict,0.1217,,have reported that they had used alcohol or drugs as a coping mechanism for these experiences?
+Society,0.2634,Culture,0.1516,Warfare and Conflict,0.0884,,have reported that they had used drugs or alcohol to cope with their lifetime experiences of abuse or violence?
+Science and Technology,0.9144,Healthcare and Medicine,0.2581,Culture,0.1914,2015,what was the total number of employees at r&d-performing companies in 2015?
+Science and Technology,0.8816,Education,0.583,Society,0.0536,many million dollars,how many million dollars did federal agencies obligate to institutions of higher education in support of science and engineering (s&e)?
+Science and Technology,0.8816,Education,0.583,Society,0.0536,many million dollars,how many million dollars did federal agencies obligate to institutions of higher education in support of science and engineering (s&e)?
+Culture,0.6573,Business and Economic,0.5025,Science and Technology,0.4579,29796.0,29796.0
+Culture,0.5703,Healthcare and Medicine,0.408,Business and Economic,0.3763,between 1 and 4,between 1 and 4
+Culture,0.6298,Society,0.4132,Science and Technology,0.3927,between 50 and 99,between 50 and 99
+Culture,0.6947,Science and Technology,0.6193,Art,0.5896,,1\
+Culture,0.6886,Society,0.5489,Business and Economic,0.5457,145.0,145.0
+Culture,0.5862,Business and Economic,0.4942,Science and Technology,0.429,541.0,541.0
+Culture,0.712,Business and Economic,0.6052,Science and Technology,0.5935,88.2,88.2
+Culture,0.6859,Society,0.5936,Education,0.3247,50 to 69 years,50 to 69 years
+Culture,0.6949,Business and Economic,0.5614,Science and Technology,0.5612,83.0,83.0
+Environmental,0.4357,Society,0.1603,Culture,0.0701,2011,what was the percentage of alberta reporting the most amount of natural pasture area in 2011?
+Environmental,0.4204,Culture,0.3031,Society,0.2055,2011,what was the percentage of manitoba reporting the amount of natural pasture area in 2011?
+Environmental,0.811,Culture,0.641,Society,0.4424,"2011, british columbia",what was the percentage of british columbia reporting the amount of natural pasture area in 2011?
+Environmental,0.456,Society,0.2575,Culture,0.1177,"2011, saskatchewan",what was the percentage of saskatchewan reporting the amount of natural pasture area in 2011?
+Culture,0.7068,Science and Technology,0.5937,Business and Economic,0.5667,53.1,53.1
+Culture,0.7154,Science and Technology,0.6363,Business and Economic,0.5948,42.3,42.3
+Culture,0.7198,Science and Technology,0.5914,Business and Economic,0.5687,31.6,31.6
+Culture,0.7203,Science and Technology,0.5867,Business and Economic,0.5757,12.6,12.6
+Culture,0.6442,Business and Economic,0.4991,Science and Technology,0.4746,1057417.0,1057417.0
+Culture,0.6528,Business and Economic,0.5236,Science and Technology,0.4628,1009381.0,1009381.0
+Culture,0.6875,Business and Economic,0.5606,Science and Technology,0.4809,893436.0,893436.0
+Culture,0.7546,Society,0.5144,Education,0.2896,70 years,70 years and older
+Environmental,0.4221,Business and Economic,0.3412,Healthcare and Medicine,0.326,2012,according to the roe-based definition in 2012?
+Culture,0.7399,Business and Economic,0.6259,Science and Technology,0.5894,6.5,6.5
+Culture,0.5922,Business and Economic,0.3959,Society,0.3934,0.9,0.9
+Culture,0.601,Science and Technology,0.5059,Healthcare and Medicine,0.4946,2.4,2.4
+Culture,0.7089,Business and Economic,0.5782,Science and Technology,0.5778,10.5,10.5
+Political,0.6962,Science and Technology,0.2426,Warfare and Conflict,0.2275,,kapaz
+Culture,0.7092,Science and Technology,0.5248,Business and Economic,0.5121,49.9,49.9
+Culture,0.6978,Science and Technology,0.5559,Society,0.5418,56.0,56.0
+Culture,0.7134,Science and Technology,0.58,Business and Economic,0.5673,44.0,44.0
+Culture,0.6736,Business and Economic,0.5156,Warfare and Conflict,0.5044,,12
+Culture,0.6859,Science and Technology,0.5717,Business and Economic,0.5599,25.0,25.0
+Culture,0.698,Science and Technology,0.5665,Business and Economic,0.555,43.0,43.0
+Culture,0.665,Business and Economic,0.5065,Science and Technology,0.5002,48.0,48.0
+Culture,0.7079,Business and Economic,0.5456,Society,0.5375,39.0,39.0
+Culture,0.7224,Business and Economic,0.5899,Science and Technology,0.5851,76.0,76.0
+Culture,0.7224,Business and Economic,0.5899,Science and Technology,0.5851,76.0,76.0
+Culture,0.7224,Business and Economic,0.5899,Science and Technology,0.5851,76.0,76.0
+Culture,0.6768,Society,0.5057,Art,0.469,,54
+Culture,0.6626,Society,0.4956,Business and Economic,0.4772,,60
+Culture,0.6686,Business and Economic,0.4755,Society,0.4749,,49
+Culture,0.6665,Society,0.5062,Business and Economic,0.4715,0.13,0.13
+Culture,0.6087,Society,0.467,Business and Economic,0.4555,0.2,0.2
+Culture,0.6287,Society,0.4632,Business and Economic,0.4511,0.11,0.11
+Culture,0.6759,Science and Technology,0.4962,Society,0.493,55.0,55.0
+Culture,0.6795,Business and Economic,0.5596,Science and Technology,0.5529,1.47,1.47
+Culture,0.647,Society,0.4888,Business and Economic,0.4882,0.15,0.15
+Culture,0.7458,Science and Technology,0.6434,Business and Economic,0.6329,3.13,3.13
+Culture,0.68,Science and Technology,0.5582,Business and Economic,0.5296,22.9,22.9
+Culture,0.7221,Science and Technology,0.6462,Business and Economic,0.6252,20.2,20.2
+Culture,0.7032,Science and Technology,0.5707,Business and Economic,0.5314,20.9,20.9
+Culture,0.7317,Business and Economic,0.6015,Science and Technology,0.5855,85.4,85.4
+Culture,0.6874,Business and Economic,0.5564,Society,0.5448,82.0,82.0
+Culture,0.6949,Business and Economic,0.5614,Science and Technology,0.5612,83.0,83.0
+Culture,0.6011,Science and Technology,0.4721,Business and Economic,0.4505,3.9,3.9
+Culture,0.6486,Society,0.4932,Science and Technology,0.4861,117.0,117.0
+Culture,0.6775,Business and Economic,0.5032,Society,0.5009,73.8,73.8
+Culture,0.6945,Science and Technology,0.5695,Business and Economic,0.5601,20.5,20.5
+Culture,0.7169,Business and Economic,0.5976,Science and Technology,0.5925,71.1,71.1
+Culture,0.6859,Business and Economic,0.5369,Science and Technology,0.5272,90.8,90.8
+Culture,0.7405,Science and Technology,0.6717,Business and Economic,0.6563,22.2,22.2
+Culture,0.642,Society,0.4765,Science and Technology,0.4562,96.7,96.7
+Culture,0.7248,Science and Technology,0.5541,Business and Economic,0.5406,48.4,48.4
+Society,0.5312,Culture,0.2638,Art,0.2248,six years,how many percentage points of rc-prs who received social assistance income six years after making their initial claim have declined?
+Culture,0.741,Science and Technology,0.6635,Business and Economic,0.6356,26.2,26.2
+Culture,0.6462,Business and Economic,0.4825,Society,0.4757,354.0,354.0
+Media and Entertainment,0.2655,Culture,0.2414,Healthcare and Medicine,0.1496,lillestrøm,lillestrøm sk
+Culture,0.6946,Business and Economic,0.5519,Science and Technology,0.5336,707.0,707.0
+Business and Economic,0.5511,Food and Beverage,0.129,Science and Technology,0.0709,,<small firms>\
+Business and Economic,0.5719,Healthcare and Medicine,0.552,Science and Technology,0.4883,,which one was the most likely to be met?
+Culture,0.1217,Society,0.1011,Environmental,0.0073,,counselling\
+Culture,0.6124,Business and Economic,0.5505,Science and Technology,0.4503,5390.0,5390.0
+Culture,0.7357,Business and Economic,0.5947,Science and Technology,0.5776,4.71,4.71
+Culture,0.6253,Society,0.4334,Business and Economic,0.4247,15 to 19,15 to 19
+Culture,0.6691,Business and Economic,0.5074,Society,0.4992,66.0,66.0
+Culture,0.7577,Society,0.4863,Education,0.4174,75 years,75 years and older
+Culture,0.6801,Science and Technology,0.5315,Business and Economic,0.5284,59.0,59.0
+Culture,0.6695,Science and Technology,0.5425,Society,0.5226,52.0,52.0
+Culture,0.6817,Business and Economic,0.5412,Science and Technology,0.5243,38.0,38.0
+Culture,0.642,Science and Technology,0.5117,Business and Economic,0.487,126.0,126.0
+Culture,0.4512,Business and Economic,0.2913,Society,0.2702,000,000?
+Culture,0.3644,Business and Economic,0.2315,Healthcare and Medicine,0.2258,000,000 or more?
+Culture,0.6258,Business and Economic,0.5469,Art,0.4651,120\,$120\
+Culture,0.4966,Business and Economic,0.4712,Science and Technology,0.4288,"a year, 000",000 or more contribute over the course of a year?
+Culture,0.4745,Science and Technology,0.4325,Business and Economic,0.4198,"a year, 000",000 contribute over the course of a year?
+Culture,0.3605,Media and Entertainment,0.2467,Sports,0.2065,2013,supervising or coordinating events in 2013?
+Culture,0.6499,Society,0.5023,Science and Technology,0.5003,45.0,45.0
+Culture,0.6835,Science and Technology,0.549,Business and Economic,0.5291,36.0,36.0
+Culture,0.6543,Science and Technology,0.5073,Business and Economic,0.4977,33.0,33.0
+Culture,0.6458,Society,0.3645,Healthcare and Medicine,0.3454,"2013, 2004",2004 or 2013?
+Culture,0.6056,Society,0.4461,Business and Economic,0.4326,0.267,0.267
+Business and Economic,0.5557,Society,0.4262,Healthcare and Medicine,0.1701,the 5 years,what is the percentage of those who were employed in each of the 5 years prior to their fatal overdose?
+Business and Economic,0.5557,Society,0.4262,Healthcare and Medicine,0.1701,the 5 years,what is the percentage of those who were employed in each of the 5 years prior to their fatal overdose?
+Society,0.2142,Political,0.098,Culture,0.0675,,those who had contact with the police or those who did not have contact with police?
+Culture,0.6942,Business and Economic,0.5727,Science and Technology,0.5357,15325.0,15325.0
+Culture,0.6475,Business and Economic,0.5202,Science and Technology,0.5045,25207.0,25207.0
+Culture,0.6989,Science and Technology,0.6159,Business and Economic,0.59,90.3,90.3
+Healthcare and Medicine,0.2177,Society,0.0406,Environmental,0.0055,age 1,what is the percentage of births surviving to age 1?
+Healthcare and Medicine,0.0945,Society,0.0886,Culture,0.0087,,what is the linkage rates for stillbirths?
+Society,0.2071,Healthcare and Medicine,0.0906,Culture,0.0243,,what is the linkage rates for infant deaths matched to a birth registration?
+Society,0.1203,Healthcare and Medicine,0.0604,Culture,0.0259,,what is the linkage rates for infant deaths not matched to a birth registration?
+Business and Economic,0.8191,Political,0.1788,Society,0.0728,,the production of dried cannabis or the sales?
+Culture,0.6261,Business and Economic,0.5029,Science and Technology,0.4649,896.0,896.0
+Society,0.3712,Culture,0.0836,Political,0.01,,what was the national rate of police-reported child pornography increased?
+Culture,0.5413,Art,0.3878,Warfare and Conflict,0.3874,642,642
+Political,0.2048,Art,0.0746,Society,0.065,,what was combined total of the immigration and refugee protection act (irpa)?
+Society,0.114,Culture,0.0135,Art,0.0017,2019,how many drug-impaired driving violations in 2019?
+Culture,0.6847,Business and Economic,0.593,Science and Technology,0.5554,8.0,8.0
+Business and Economic,0.2745,Society,0.2675,Environmental,0.2659,,greater sudbury
+Culture,0.7847,Political,0.5562,Business and Economic,0.4469,moncton,moncton
+Culture,0.7088,Science and Technology,0.5959,Business and Economic,0.5393,24.9,24.9
+Culture,0.6441,Business and Economic,0.4841,Science and Technology,0.4567,37.8,37.8
+Society,0.0202,Culture,0.0023,Art,0.0016,,how many total drug offences reported by police?
+Culture,0.6905,Science and Technology,0.5862,Society,0.5821,2019.0,2019.0
+Culture,0.5128,Society,0.3129,Healthcare and Medicine,0.2872,saskatchewan,how many times did northern saskatchewan have the highest rate for canadians in the territories overall?
+Culture,0.608,Business and Economic,0.5279,Science and Technology,0.4565,10882.0,10882.0
+Culture,0.5813,Business and Economic,0.4651,Warfare and Conflict,0.4279,919.0,919.0
+Culture,0.6471,Society,0.5204,Business and Economic,0.4884,1827.0,1827.0
+Business and Economic,0.4578,Warfare and Conflict,0.2153,Political,0.1118,,hull city
+Culture,0.778,Business and Economic,0.5262,Science and Technology,0.3675,stoke city,stoke city
+Culture,0.7694,Art,0.5726,Science and Technology,0.3592,marseille,marseille
+Culture,0.2228,Society,0.1421,Business and Economic,0.0086,,what was the percent of other people were present when students experienced unwanted sexualized behaviours?
+Culture,0.6748,Science and Technology,0.5475,Society,0.5304,53.0,53.0
+Culture,0.6575,Business and Economic,0.5056,Science and Technology,0.5055,46.0,46.0
+Culture,0.6748,Science and Technology,0.5475,Society,0.5304,53.0,53.0
+Culture,0.7134,Science and Technology,0.58,Business and Economic,0.5673,44.0,44.0
+Culture,0.6499,Society,0.5023,Science and Technology,0.5003,45.0,45.0
+Culture,0.6575,Business and Economic,0.5056,Science and Technology,0.5055,46.0,46.0
+Culture,0.6522,Science and Technology,0.522,Business and Economic,0.5083,32.0,32.0
+Culture,0.5867,Science and Technology,0.4455,Business and Economic,0.4375,28.9,28.9
+Culture,0.741,Science and Technology,0.6635,Business and Economic,0.6356,26.2,26.2
+Culture,0.6842,Science and Technology,0.5565,Business and Economic,0.5464,23.5,23.5
+Culture,0.7692,Science and Technology,0.6453,Business and Economic,0.6219,16.4,16.4
+Culture,0.7398,Science and Technology,0.6739,Business and Economic,0.6567,12.2,12.2
+Culture,0.6678,Society,0.5001,Science and Technology,0.4992,33.7,33.7
+Culture,0.7071,Business and Economic,0.5496,Science and Technology,0.5489,37.4,37.4
+Culture,0.6935,Business and Economic,0.563,Science and Technology,0.5532,12.7,12.7
+Culture,0.6103,Business and Economic,0.4684,Warfare and Conflict,0.4047,4870.0,4870.0
+Culture,0.6201,Business and Economic,0.452,Science and Technology,0.4229,38.9,38.9
+Culture,0.6834,Business and Economic,0.5738,Society,0.5556,1100.0,1100.0
+Culture,0.6683,Science and Technology,0.5553,Business and Economic,0.5292,61220000.0,61220000.0
+Culture,0.6704,Business and Economic,0.4755,Science and Technology,0.473,48223000.0,48223000.0
+Culture,0.6596,Business and Economic,0.4714,Science and Technology,0.4698,3674000.0,3674000.0
+Healthcare and Medicine,0.4886,Food and Beverage,0.3221,Society,0.236,many million,how many million people currently serving?
+Culture,0.6379,Business and Economic,0.5098,Science and Technology,0.5052,,<215.0>\
+Business and Economic,0.7094,Society,0.013,Political,0.0052,,what's the percentage of the log growth of value-added in oil and gas extraction per year?
+Education,0.8861,Science and Technology,0.5346,Society,0.4784,u.s.,how many percent of women in the u.s. civilian college educated population?
+Culture,0.7528,Science and Technology,0.6979,Business and Economic,0.678,11.3,11.3
+Culture,0.6334,Business and Economic,0.4964,Science and Technology,0.4754,27.8,27.8
+Culture,0.6923,Business and Economic,0.5462,Science and Technology,0.5181,1440.0,1440.0
+Business and Economic,0.5883,Culture,0.5453,Science and Technology,0.1627,bristol city,bristol city
+Culture,0.6461,Business and Economic,0.5474,Science and Technology,0.4863,2157.0,2157.0
+Culture,0.7178,Science and Technology,0.654,Business and Economic,0.6262,10.2,10.2
+Business and Economic,0.5368,Healthcare and Medicine,0.2531,Science and Technology,0.2337,,what was an average of employees per firm?
+Culture,0.6613,Science and Technology,0.5363,Business and Economic,0.523,20.0,20.0
+Culture,0.7223,Business and Economic,0.6043,Science and Technology,0.572,15.5,15.5
+Business and Economic,0.4711,Society,0.4313,Culture,0.2883,,what was the percentage of immigrant owners?
+Society,0.5201,Culture,0.462,Business and Economic,0.4107,canadian,what was the percentage of canadian-born owners?
+Culture,0.6947,Business and Economic,0.5401,Science and Technology,0.5294,9.8,9.8
+Culture,0.6776,Business and Economic,0.5335,Science and Technology,0.5269,41.7,41.7
+Culture,0.7285,Science and Technology,0.6269,Business and Economic,0.5915,25.4,25.4
+Culture,0.6947,Science and Technology,0.6193,Art,0.5896,,1\
+Environmental,0.0025,Culture,0.0025,Business and Economic,0.0023,,all languages combined?
+Culture,0.7346,Science and Technology,0.5935,Business and Economic,0.5853,74.6,74.6
+Culture,0.7107,Business and Economic,0.5371,Science and Technology,0.5353,75.9,75.9
+Business and Economic,0.5667,Culture,0.5598,Healthcare and Medicine,0.441,,lowest quartile
+Business and Economic,0.5667,Culture,0.5598,Healthcare and Medicine,0.441,,lowest quartile
+Culture,0.7443,Science and Technology,0.6599,Business and Economic,0.6392,24.1,24.1
+Culture,0.7112,Business and Economic,0.5604,Art,0.537,,<14.7>\
+Culture,0.6575,Business and Economic,0.5056,Science and Technology,0.5055,46.0,46.0
+Culture,0.7218,Science and Technology,0.5838,Business and Economic,0.5567,17.0,17.0
+Culture,0.6409,Business and Economic,0.6139,Science and Technology,0.578,2.0,2.0
+Culture,0.6611,Society,0.4957,Science and Technology,0.4832,,25
+Culture,0.6569,Science and Technology,0.4703,Society,0.4601,,24
+Culture,0.6864,Art,0.5137,Business and Economic,0.5026,,16
+Culture,0.7002,Business and Economic,0.531,Science and Technology,0.5283,,15
+Culture,0.6736,Business and Economic,0.5156,Warfare and Conflict,0.5044,,12
+Culture,0.6736,Business and Economic,0.5156,Warfare and Conflict,0.5044,,12
+Culture,0.6426,Business and Economic,0.4791,Society,0.4478,,8
+Culture,0.6732,Society,0.4906,Art,0.4803,,35
+Culture,0.6485,Society,0.4639,Science and Technology,0.453,,18
+Culture,0.6611,Society,0.4957,Science and Technology,0.4832,,25
+Culture,0.7002,Business and Economic,0.531,Science and Technology,0.5283,,15
+Culture,0.6426,Business and Economic,0.4791,Society,0.4478,,8
+Culture,0.6564,Business and Economic,0.4882,Healthcare and Medicine,0.4657,,7
+Culture,0.6847,Business and Economic,0.593,Science and Technology,0.5554,8.0,8.0
+Culture,0.6885,Business and Economic,0.6052,Science and Technology,0.5738,6.0,6.0
+Culture,0.6676,Business and Economic,0.5941,Science and Technology,0.5583,5.0,5.0
+Culture,0.6703,Business and Economic,0.6366,Science and Technology,0.616,3.0,3.0
+Political,0.0181,Society,0.0171,Warfare and Conflict,0.0091,,homicide
+Culture,0.6233,Business and Economic,0.5096,Science and Technology,0.4928,448.0,448.0
+Culture,0.5719,Science and Technology,0.4263,Society,0.4143,256.0,256.0
+Culture,0.6276,Business and Economic,0.4744,Science and Technology,0.4529,248.0,248.0
+Culture,0.6978,Science and Technology,0.5559,Society,0.5418,56.0,56.0
+Culture,0.679,Business and Economic,0.5518,Society,0.5386,85.0,85.0
+Culture,0.6858,Business and Economic,0.5591,Science and Technology,0.5314,80.0,80.0
+Culture,0.7118,Business and Economic,0.5619,Society,0.5496,79.0,79.0
+Culture,0.6738,Science and Technology,0.5319,Business and Economic,0.5198,28.0,28.0
+Culture,0.6649,Society,0.5334,Business and Economic,0.5043,0.544,0.544
+Sports,0.9048,Culture,0.3241,Art,0.3017,"154, 1908",born 1908) score while he made 154 appearances for brentford?
+Culture,0.6966,Society,0.6018,Science and Technology,0.5575,2006.0,2006.0
+Culture,0.6839,Science and Technology,0.5325,Business and Economic,0.5316,71.0,71.0
+Culture,0.675,Science and Technology,0.5278,Society,0.5261,67.0,67.0
+Culture,0.6841,Science and Technology,0.5318,Society,0.5314,63.0,63.0
+Culture,0.5935,Media and Entertainment,0.2475,Healthcare and Medicine,0.232,,women
+Culture,0.5935,Media and Entertainment,0.2475,Healthcare and Medicine,0.232,,women
+Culture,0.698,Science and Technology,0.5665,Business and Economic,0.555,43.0,43.0
+Culture,0.7079,Business and Economic,0.5456,Society,0.5375,39.0,39.0
+Culture,0.5846,Business and Economic,0.4739,Science and Technology,0.4334,30.0,30.0
+Culture,0.7093,Science and Technology,0.5957,Business and Economic,0.5682,12.0,12.0
+Culture,0.6764,Business and Economic,0.546,Science and Technology,0.5193,6806.0,6806.0
+Culture,0.6042,Business and Economic,0.5003,Science and Technology,0.4776,10446.0,10446.0
+Culture,0.6963,Society,0.5119,Business and Economic,0.5037,1470.0,1470.0
+Culture,0.5682,Business and Economic,0.4662,Warfare and Conflict,0.4417,921,921
+Culture,0.6292,Business and Economic,0.4575,Warfare and Conflict,0.4412,588,588
+Culture,0.6296,Business and Economic,0.4804,Society,0.4562,1386.0,1386.0
+Culture,0.5825,Business and Economic,0.4831,Warfare and Conflict,0.4381,3784,3784
+Culture,0.5568,Business and Economic,0.4587,Warfare and Conflict,0.4449,2118,2118
+Culture,0.6424,Business and Economic,0.5327,Science and Technology,0.4662,14330.0,14330.0
+Culture,0.6646,Business and Economic,0.5273,Science and Technology,0.5247,11293.0,11293.0
+Culture,0.6136,Business and Economic,0.4568,Warfare and Conflict,0.4429,4472,4472
+Culture,0.5971,Business and Economic,0.4747,Warfare and Conflict,0.4286,3015,3015
+Culture,0.5886,Warfare and Conflict,0.4286,Business and Economic,0.4142,3347,3347
+Culture,0.475,Business and Economic,0.4118,Warfare and Conflict,0.3918,724,724
+Culture,0.679,Art,0.5284,Society,0.5276,1686.0,1686.0
+Culture,0.6642,Society,0.5515,Business and Economic,0.5136,1803.0,1803.0
+Culture,0.5895,Business and Economic,0.4378,Warfare and Conflict,0.4056,3346.0,3346.0
+Culture,0.596,Business and Economic,0.4579,Warfare and Conflict,0.3904,3451.0,3451.0
+Culture,0.7494,Science and Technology,0.619,Society,0.606,64.4,64.4
+Culture,0.7209,Business and Economic,0.5943,Science and Technology,0.5823,61.5,61.5
+Culture,0.6691,Business and Economic,0.5074,Society,0.4992,66.0,66.0
+Culture,0.6526,Business and Economic,0.4655,Science and Technology,0.4553,2.209954,2.209954
+Culture,0.6686,Business and Economic,0.5295,Science and Technology,0.5105,21936.0,21936.0
+Culture,0.6145,Business and Economic,0.4611,Science and Technology,0.4119,9926.0,9926.0
+Science and Technology,0.9705,Business and Economic,0.367,Culture,0.2472,,how many thousand dollars was r&d support?
+Healthcare and Medicine,0.9367,Science and Technology,0.6523,Political,0.5519,,how many percent of total s&e support to hbcus did r&d account for?
+Healthcare and Medicine,0.89,Science and Technology,0.7009,Society,0.3624,,how many percent of total s&e support to total s&e support to hbcus did fttg account for?
+Healthcare and Medicine,0.8331,Science and Technology,0.6797,Society,0.4603,,how many percent of total s&e support to total s&e support to hbcus did other s&e activities account for?
+Culture,0.6527,Business and Economic,0.5179,Society,0.4698,1258.0,1258.0
+Culture,0.7113,Science and Technology,0.5712,Business and Economic,0.556,10.6,10.6
+Culture,0.6409,Business and Economic,0.6139,Science and Technology,0.578,2.0,2.0
+Culture,0.5968,Business and Economic,0.4227,Science and Technology,0.3806,0.876527,0.876527
+Culture,0.6077,Science and Technology,0.4378,Business and Economic,0.4329,0.120201,0.120201
+Culture,0.6148,Business and Economic,0.4409,Science and Technology,0.4191,0.003272,0.003272
+Culture,0.659,Business and Economic,0.4439,Society,0.424,0.687765,0.687765
+Culture,0.6423,Business and Economic,0.4331,Warfare and Conflict,0.4095,0.268741,0.268741
+Culture,0.6716,Business and Economic,0.4713,Science and Technology,0.455,0.041755,0.041755
+Culture,0.7086,Business and Economic,0.6139,Science and Technology,0.6085,73.2,73.2
+Culture,0.6814,Society,0.5344,Business and Economic,0.5245,65.7,65.7
+Culture,0.7025,Society,0.5732,Science and Technology,0.5564,94.5,94.5
+Culture,0.6627,Business and Economic,0.5056,Science and Technology,0.5023,30.9,30.9
+Culture,0.7588,Science and Technology,0.6423,Business and Economic,0.6379,19.1,19.1
+Culture,0.711,Business and Economic,0.5986,Science and Technology,0.5857,12.5,12.5
+Culture,0.7369,Science and Technology,0.6707,Business and Economic,0.6338,31.3,31.3
+Culture,0.7202,Science and Technology,0.6001,Business and Economic,0.5583,24.6,24.6
+Culture,0.7527,Science and Technology,0.6402,Business and Economic,0.6002,10.4,10.4
+Culture,0.6731,Society,0.5253,Business and Economic,0.5209,73.0,73.0
+Sports,0.5385,Culture,0.3019,Society,0.0753,atletico tucuman,atletico tucuman
+Society,0.6321,Business and Economic,0.42,Culture,0.2619,daily,what is the proportion of people who reported that they followed news and current affairs daily was in quebec?
+Society,0.2221,Culture,0.2088,Business and Economic,0.1251,daily,what is the proportion of people who reported that they followed news and current affairs daily was in manitoba?
+Society,0.1855,Political,0.1366,Business and Economic,0.1211,"alberta, daily",what is the proportion of people who reported that they followed news and current affairs daily was in alberta?
+Culture,0.7531,Society,0.2294,Education,0.1436,"15 or older, daily",how many percentge point of aboriginal women aged 15 or older reported disabilities that limited their daily activities?
+Culture,0.6715,Society,0.2306,Business and Economic,0.1828,"15 or older, daily",how many percentge point of aboriginal men aged 15 or older reported disabilities that limited their daily activities?
+Culture,0.628,Business and Economic,0.4747,Science and Technology,0.4171,1.496599,1.496599
+Culture,0.6412,Business and Economic,0.5675,Science and Technology,0.5341,1.168,1.168
+Culture,0.5903,Business and Economic,0.4455,Warfare and Conflict,0.4021,2.340659,2.340659
+Culture,0.5399,Business and Economic,0.4746,Science and Technology,0.4053,1.629808,1.629808
+Culture,0.6114,Business and Economic,0.4845,Science and Technology,0.4414,1.525714,1.525714
+Culture,0.5893,Business and Economic,0.4677,Science and Technology,0.4489,1.590909,1.590909
+Culture,0.6137,Business and Economic,0.4806,Science and Technology,0.4391,1.493827,1.493827
+Culture,0.628,Business and Economic,0.4747,Science and Technology,0.4171,1.496599,1.496599
+Culture,0.653,Business and Economic,0.5779,Science and Technology,0.5744,1.176,1.176
+Culture,0.7535,Society,0.6745,Science and Technology,0.6385,1996.34,1996.34
+Culture,0.6454,Business and Economic,0.4881,Society,0.4708,338.0,338.0
+Culture,0.759,Science and Technology,0.6732,Business and Economic,0.6368,17.3,17.3
+Culture,0.7047,Business and Economic,0.6073,Science and Technology,0.5675,7.1,7.1
+Business and Economic,0.7342,Culture,0.6794,Society,0.6313,2015,what was the percent of aboriginal people in couples were employed in 2015?
+Business and Economic,0.7334,Society,0.6947,Culture,0.4559,2015,what was the percent of non-aboriginal people in couples were employed in 2015?
+Business and Economic,0.3878,Science and Technology,0.3157,Society,0.2726,,what was the percent of employed?
+Business and Economic,0.3878,Science and Technology,0.3157,Society,0.2726,,what was the percent of employed?
+Culture,0.7515,Society,0.5807,Business and Economic,0.5781,78.8,78.8
+Culture,0.6393,Business and Economic,0.486,Healthcare and Medicine,0.4549,,<69.0>\
+Culture,0.7078,Science and Technology,0.6253,Society,0.5799,94.3,94.3
+Culture,0.7584,Science and Technology,0.6467,Business and Economic,0.5962,24.4,24.4
+Culture,0.4706,Society,0.2881,Healthcare and Medicine,0.1836,,senior women or senior men.
+Culture,0.6994,Science and Technology,0.5827,Business and Economic,0.5608,42.0,42.0
+Culture,0.7329,Science and Technology,0.5873,Society,0.563,19.0,19.0
+Culture,0.4181,Society,0.1984,Science and Technology,0.1406,,spouse
+Healthcare and Medicine,0.7081,Society,0.3202,Culture,0.2584,,which were the most commonly reported primary caregivers.
+Culture,0.4181,Society,0.1984,Science and Technology,0.1406,,spouse
+Culture,0.7118,Business and Economic,0.5619,Society,0.5496,79.0,79.0
+Society,0.0051,Business and Economic,0.001,Political,0.0002,,transportation
+Warfare and Conflict,0.3811,Political,0.2435,Culture,0.1809,,men
+Culture,0.7278,Society,0.6241,Science and Technology,0.5943,1996.0,1996.0
+Culture,0.732,Science and Technology,0.5968,Business and Economic,0.5671,18.6,18.6
+Society,0.3938,Culture,0.0188,Healthcare and Medicine,0.0143,,whatwas the percent of adults were in flourishing mental health?
+Society,0.5543,Healthcare and Medicine,0.531,Culture,0.1791,,those with chronic pain or those who were free of chronic pain?
+Culture,0.7018,Healthcare and Medicine,0.4183,Media and Entertainment,0.3969,,female
+Culture,0.6709,Society,0.5076,Business and Economic,0.4933,69.0,69.0
+Culture,0.6787,Society,0.5334,Business and Economic,0.5246,65.0,65.0
+Culture,0.7092,Science and Technology,0.5917,Business and Economic,0.5687,22.0,22.0
+Culture,0.6925,Science and Technology,0.5785,Business and Economic,0.5488,23.0,23.0
+Culture,0.6938,Science and Technology,0.5399,Business and Economic,0.5252,58.0,58.0
+Culture,0.6858,Business and Economic,0.5591,Science and Technology,0.5314,80.0,80.0
+Culture,0.6904,Business and Economic,0.5588,Science and Technology,0.4927,71971736.0,71971736.0
+Society,0.9282,Healthcare and Medicine,0.8657,Culture,0.8413,,welling united
+Society,0.0715,Warfare and Conflict,0.0259,Political,0.0073,canada,how many firearm-related homicides reported in canada?
+Culture,0.6381,Society,0.4938,Business and Economic,0.4585,0.72,0.72
+Warfare and Conflict,0.159,Culture,0.055,Political,0.0186,,how many victims were reported to have been killed by a stranger?
+Culture,0.6801,Science and Technology,0.5315,Business and Economic,0.5284,59.0,59.0
+Warfare and Conflict,0.2061,Culture,0.0273,Political,0.0131,,were killed by someone with whom they had a criminal relationship?
+Culture,0.6766,Business and Economic,0.5012,Society,0.4985,165.0,165.0
+Culture,0.3835,Political,0.3626,Art,0.3065,astana,astana
+Culture,0.6281,Business and Economic,0.471,Society,0.4506,,-0.083
+Culture,0.6079,Business and Economic,0.4601,Warfare and Conflict,0.4476,,-0.551
+Culture,0.5812,Business and Economic,0.4487,Warfare and Conflict,0.417,,-0.605
+Culture,0.5599,Political,0.4198,Business and Economic,0.2447,,kirecburnu spor
+Culture,0.6012,Healthcare and Medicine,0.5532,Business and Economic,0.539,an average of months,what was the total duration combined amounted to an average of months?
+Culture,0.6012,Healthcare and Medicine,0.5532,Business and Economic,0.539,an average of months,what was the total duration combined amounted to an average of months?
+Culture,0.7495,Business and Economic,0.6867,Science and Technology,0.68,15.2,15.2
+Culture,0.632,Business and Economic,0.5379,Science and Technology,0.4943,3.7,3.7
+Culture,0.7131,Business and Economic,0.5982,Science and Technology,0.5925,197163.0,197163.0
+Culture,0.6382,Business and Economic,0.4089,Warfare and Conflict,0.3987,0.706736,0.706736
+Culture,0.3322,Sports,0.2693,Environmental,0.0549,,which club did furuholm make his veikkausliiga debut for?
+Culture,0.6084,Business and Economic,0.49,Media and Entertainment,0.4208,891.0,891.0
+Culture,0.6733,Business and Economic,0.5328,Science and Technology,0.5209,37.0,37.0
+Culture,0.7834,Society,0.7703,Political,0.6534,,union santa fe
+Culture,0.7255,Science and Technology,0.5954,Business and Economic,0.5754,56.1,56.1
+Culture,0.6765,Business and Economic,0.4909,Society,0.4877,67.8,67.8
+Culture,0.7058,Science and Technology,0.5581,Business and Economic,0.5564,61.6,61.6
+Culture,0.7662,Business and Economic,0.6283,Science and Technology,0.6256,14.5,14.5
+Culture,0.6612,Science and Technology,0.5453,Business and Economic,0.5276,10.0,10.0
+Culture,0.7637,Science and Technology,0.6663,Business and Economic,0.6457,13.2,13.2
+Culture,0.7287,Business and Economic,0.632,Science and Technology,0.611,6.1,6.1
+Culture,0.7851,Science and Technology,0.706,Business and Economic,0.6707,14.3,14.3
+Culture,0.7632,Science and Technology,0.6628,Business and Economic,0.6438,11.4,11.4
+Culture,0.7662,Business and Economic,0.6283,Science and Technology,0.6256,14.5,14.5
+Culture,0.6896,Science and Technology,0.5591,Business and Economic,0.5542,25.8,25.8
+Culture,0.7692,Science and Technology,0.6453,Business and Economic,0.6219,16.4,16.4
+Culture,0.6877,Science and Technology,0.5157,Business and Economic,0.4958,17.9,17.9
+Culture,0.7057,Science and Technology,0.5121,Business and Economic,0.5024,19.9,19.9
+Culture,0.6928,Business and Economic,0.5515,Society,0.5182,1435.0,1435.0
+Business and Economic,0.4691,Culture,0.3163,Education,0.3059,"lone, early 2018",lone parents or partners in single-earner couples in early 2018?
+Culture,0.6161,Business and Economic,0.4979,Warfare and Conflict,0.4286,817.0,817.0
+Business and Economic,0.2753,Culture,0.2021,Education,0.169,lone,lone parents or spouses/partners in single-earner couples?
+Culture,0.4523,Science and Technology,0.2514,Healthcare and Medicine,0.2299,51.76,51.76
+Culture,0.3751,Political,0.2717,Environmental,0.2541,cacereno,cacereno
+Society,0.7999,Culture,0.6364,Science and Technology,0.3258,avondale,avondale united
+Culture,0.127,Society,0.077,Warfare and Conflict,0.0116,,non-transmission of inuktut as mother tongue is a factor that negatively affects linguistic vitality?
+Culture,0.7739,Society,0.0809,Warfare and Conflict,0.0263,,how many inuit with inuktut as their mother tongue who never spoke their mother tongue at home?
+Culture,0.0848,Business and Economic,0.0721,Political,0.0222,2.1,what was the percent of the inuit population (negative factor of 2.1 percentage points)?
+Culture,0.5583,Warfare and Conflict,0.426,Society,0.4123,630,630
+Culture,0.3497,Society,0.0164,Business and Economic,0.0106,,how many inuit can still conduct a conversation in inuktut?
+Culture,0.6564,Science and Technology,0.5334,Business and Economic,0.5224,1.6,1.6
+Culture,0.6322,Business and Economic,0.4749,Society,0.452,3445.0,3445.0
+Culture,0.6185,Business and Economic,0.477,Science and Technology,0.4681,450.0,450.0
+Culture,0.5034,Education,0.2269,Science and Technology,0.1975,,since they can use this language outside the home?
+Culture,0.7662,Business and Economic,0.6283,Science and Technology,0.6256,14.5,14.5
+Culture,0.5985,Business and Economic,0.4913,Science and Technology,0.463,2.5,2.5
+Culture,0.6253,Business and Economic,0.4873,Healthcare and Medicine,0.4429,2.285714,2.285714
+Culture,0.6513,Business and Economic,0.6243,Healthcare and Medicine,0.6087,,2
+Culture,0.6327,Business and Economic,0.4612,Art,0.4504,1.454545,1.454545
+Culture,0.6012,Science and Technology,0.4665,Business and Economic,0.4554,1.333333,1.333333
+Culture,0.6012,Science and Technology,0.4665,Business and Economic,0.4554,1.333333,1.333333
+Culture,0.667,Art,0.525,Business and Economic,0.5076,1.153846,1.153846
+Culture,0.6068,Business and Economic,0.4843,Warfare and Conflict,0.4405,833.0,833.0
+Culture,0.7373,Business and Economic,0.434,Political,0.3828,tianjin,tianjin teda
+Culture,0.6106,Society,0.4359,Business and Economic,0.4333,358.0,358.0
+Culture,0.6211,Business and Economic,0.4776,Science and Technology,0.4722,420.0,420.0
+Culture,0.6302,Business and Economic,0.5056,Science and Technology,0.4519,,<89.0>\
+Sports,0.8018,Business and Economic,0.6308,Science and Technology,0.5992,,who spent the least time in this activity?
+Culture,0.6161,Business and Economic,0.4349,Science and Technology,0.4148,,<2.9>\
+Healthcare and Medicine,0.5973,Society,0.5949,Culture,0.2081,many hours,how many hours did the average time spent by those who reported their health as fair or poor more than those who reported their health excellent or ver good?
+Healthcare and Medicine,0.529,Culture,0.5101,Science and Technology,0.4573,,excellent or very good
+Healthcare and Medicine,0.4039,Society,0.3801,Culture,0.0487,,those in fair or poor health or seniors in excellent or very good health?
+Culture,0.6882,Society,0.5025,Business and Economic,0.4827,,39
+Culture,0.6072,Society,0.4386,Business and Economic,0.4309,0.7,0.7
+Culture,0.6713,Business and Economic,0.522,Science and Technology,0.5091,,5
+Culture,0.6005,Science and Technology,0.3874,Healthcare and Medicine,0.3776,5.6,5.6
+Culture,0.3815,Warfare and Conflict,0.2529,Business and Economic,0.1848,0.1,0.1
+Culture,0.5782,Science and Technology,0.4501,Business and Economic,0.4492,3.8,3.8
+Culture,0.7686,Science and Technology,0.6344,Business and Economic,0.6312,5.4,5.4
+Culture,0.7171,Science and Technology,0.6452,Business and Economic,0.6373,9.2,9.2
+Culture,0.7047,Business and Economic,0.608,Science and Technology,0.5997,1.8,1.8
+Culture,0.6482,Business and Economic,0.4894,Science and Technology,0.4558,489.0,489.0
+Healthcare and Medicine,0.6897,Science and Technology,0.6028,Culture,0.353,,how many percent did hhs account of all federally funded obligations?
+Science and Technology,0.6341,Healthcare and Medicine,0.3728,Culture,0.2717,,how many percent did nsf account of all federally funded obligations?
+Science and Technology,0.5416,Healthcare and Medicine,0.4361,Culture,0.3462,,how many percent did dod account of all federally funded obligations?
+Culture,0.7286,Science and Technology,0.5795,Society,0.5652,67.4,67.4
+Culture,0.7165,Science and Technology,0.6114,Healthcare and Medicine,0.5763,68.3,68.3
+Sports,0.4185,Culture,0.3424,Education,0.2582,,which year has a higher participation rate?
+Culture,0.6316,Business and Economic,0.5265,Science and Technology,0.5057,1.7,1.7
+Culture,0.69,Society,0.5275,Business and Economic,0.5025,0.4,0.4
+Culture,0.69,Society,0.5275,Business and Economic,0.5025,0.4,0.4
+Culture,0.7349,Science and Technology,0.5598,Business and Economic,0.525,13.9,13.9
+Culture,0.6621,Business and Economic,0.4866,Science and Technology,0.4842,4.8,4.8
+Culture,0.6946,Business and Economic,0.4918,Society,0.4902,77.8,77.8
+Culture,0.6745,Business and Economic,0.4748,Society,0.4441,348970.0,348970.0
+Science and Technology,0.7242,Healthcare and Medicine,0.6283,Education,0.6079,,how many percent with hhs providing of this funding?
+Science and Technology,0.9104,Culture,0.6364,Society,0.6259,,how many percent of the total funds to all nonprofits did the 10 leading nonprofit institutions for federal s&e funding receive?
+Culture,0.5974,Business and Economic,0.4598,Warfare and Conflict,0.4087,2782.0,2782.0
+Culture,0.7344,Science and Technology,0.6298,Business and Economic,0.5853,23.4,23.4
+Culture,0.732,Science and Technology,0.5968,Business and Economic,0.5671,18.6,18.6
+Culture,0.732,Science and Technology,0.5812,Business and Economic,0.5663,17.6,17.6
+Culture,0.7749,Science and Technology,0.6403,Business and Economic,0.61,17.4,17.4
+Healthcare and Medicine,0.2799,Society,0.1582,Culture,0.0015,,how many percent reported having arthritis?
+Society,0.2657,Healthcare and Medicine,0.0574,Culture,0.051,,how many percent reported having an anxiety disorder?
+Healthcare and Medicine,0.547,Society,0.1905,Culture,0.0055,,how many percent reported having high blood pressure?
+Healthcare and Medicine,0.3369,Society,0.1198,Environmental,0.0038,,how many percent reported having asthma?
+Society,0.2288,Culture,0.0211,Healthcare and Medicine,0.017,,how many percent reported having a mood disorders?
+Healthcare and Medicine,0.7053,Culture,0.2218,Society,0.0469,,how many percent of inuit women had been diagnosed with arthritis while the same percentage had been diagnosed with high blood pressure?
+Healthcare and Medicine,0.3369,Society,0.1198,Environmental,0.0038,,how many percent reported having asthma?
+Society,0.2,Healthcare and Medicine,0.0168,Culture,0.0134,,how many percent reported having a mood disorder?
+Society,0.2657,Healthcare and Medicine,0.0574,Culture,0.051,,how many percent reported having an anxiety disorder?
+Science and Technology,0.8809,Culture,0.3013,Environmental,0.1993,,nasaf
+Culture,0.6185,Warfare and Conflict,0.472,Business and Economic,0.455,21059,21059
+Culture,0.0984,Political,0.0743,Healthcare and Medicine,0.0374,,women or men?
+Culture,0.0595,Political,0.0404,Healthcare and Medicine,0.023,,men or women?
+Culture,0.0984,Political,0.0743,Healthcare and Medicine,0.0374,,women or men?
+Culture,0.7013,Society,0.6292,Science and Technology,0.571,2013.0,2013.0
+Culture,0.7015,Science and Technology,0.5758,Business and Economic,0.5729,142.0,142.0
+Culture,0.6408,Business and Economic,0.4768,Science and Technology,0.4503,8.19,8.19
+Culture,0.6332,Business and Economic,0.4499,Science and Technology,0.4457,6.11194,6.11194
+Society,0.2554,Culture,0.2086,Warfare and Conflict,0.1198,,what was the multiple relationship between the rate of homicide for aboriginal victims and that of non-aboriginal victims?
+Culture,0.7529,Society,0.3217,Political,0.1732,,aboriginal famales or non-aboriginal males?
+Culture,0.7306,Society,0.6532,Art,0.6286,6.6,6.6
+Culture,0.5487,Science and Technology,0.4094,Political,0.3359,saskatchewan,saskatchewan
+Culture,0.7071,Business and Economic,0.5515,Science and Technology,0.542,11.71,11.71
+Culture,0.6469,Business and Economic,0.5395,Science and Technology,0.4938,10.99,10.99
+Culture,0.9121,Business and Economic,0.4045,Science and Technology,0.3925,,new brunswick
+Political,0.3834,Media and Entertainment,0.2288,Culture,0.2288,,<prince edward island>\
+Culture,0.7005,Science and Technology,0.514,Business and Economic,0.5112,18458257.0,18458257.0
+Business and Economic,0.4858,Healthcare and Medicine,0.468,Culture,0.4191,2014,what was an increase from fy 2014?
+Culture,0.5931,Business and Economic,0.4145,Warfare and Conflict,0.3955,0.980439,0.980439
+Culture,0.6694,Business and Economic,0.4953,Society,0.4707,0.044185,0.044185
+Culture,0.7092,Business and Economic,0.5356,Society,0.5013,18097189.0,18097189.0
+Culture,0.6883,Science and Technology,0.5286,Business and Economic,0.5257,49.0,49.0
+Culture,0.6612,Science and Technology,0.5453,Business and Economic,0.5276,10.0,10.0
+Culture,0.6018,Business and Economic,0.4603,Society,0.4375,,-0.2
+Culture,0.6109,Business and Economic,0.5012,Society,0.4531,,<-30.0>\
+Culture,0.7281,Business and Economic,0.5948,Science and Technology,0.576,,-14.4
+Culture,0.6507,Business and Economic,0.5181,Society,0.4602,-29.5,-29.5
+Culture,0.706,Business and Economic,0.6322,Science and Technology,0.6009,7.2,7.2
+Culture,0.7491,Science and Technology,0.598,Art,0.5932,,<14.4>\
+Culture,0.6721,Art,0.5063,Business and Economic,0.4917,,<34.8>\
+Culture,0.6496,Business and Economic,0.51,Society,0.4852,,-29.0
+Culture,0.6523,Business and Economic,0.5793,Science and Technology,0.5317,,-5.2
+Culture,0.6217,Business and Economic,0.4428,Society,0.4386,0.8,0.8
+Culture,0.6728,Business and Economic,0.5975,Science and Technology,0.5514,,-8.2
+Culture,0.7373,Science and Technology,0.6704,Business and Economic,0.6211,26.3,26.3
+Science and Technology,0.9235,Healthcare and Medicine,0.0299,Food and Beverage,0.0052,,science-based
+Culture,0.5935,Business and Economic,0.4712,Science and Technology,0.4329,1076.0,1076.0
+Culture,0.7556,Science and Technology,0.6178,Business and Economic,0.5978,59.4,59.4
+Culture,0.7736,Science and Technology,0.6107,Business and Economic,0.6103,79.4,79.4
+Culture,0.5792,Society,0.37,Science and Technology,0.3597,last 5 years,born last 5 years
+Culture,0.7556,Science and Technology,0.6178,Business and Economic,0.5978,59.4,59.4
+Culture,0.7736,Science and Technology,0.6107,Business and Economic,0.6103,79.4,79.4
+Culture,0.5792,Society,0.37,Science and Technology,0.3597,last 5 years,born last 5 years
+Society,0.3628,Science and Technology,0.0814,Culture,0.0503,,what is the percentage of individuals indicated that their homes had a working smoke detector?
+Society,0.4623,Business and Economic,0.0248,Culture,0.0222,,what is the percentage of individuals indicated that their homes had a working fire extinguisher?
+Environmental,0.6127,Society,0.2694,Science and Technology,0.1306,,what is the percentage of individuals indicated that their homes had a working carbon monoxide detector?
+Society,0.5059,Business and Economic,0.1829,Art,0.1347,"three, 25 to 34",what is the percentage of young adults aged 25 to 34 were the least likely to live in households that had all three fire safety devices? in comparison to individuals from other age groups.
+Culture,0.2795,Healthcare and Medicine,0.1912,Business and Economic,0.0936,,non-indigenous comparison group
+Culture,0.4465,Science and Technology,0.1933,Political,0.1669,first,first nations
+Culture,0.2795,Healthcare and Medicine,0.1912,Business and Economic,0.0936,,non-indigenous comparison group
+Culture,0.4465,Science and Technology,0.1933,Political,0.1669,first,first nations
+Society,0.2071,Business and Economic,0.0874,Culture,0.0377,,what is the percentage of the population's postal codes were matched to a single da?
+Society,0.1321,Business and Economic,0.0669,Healthcare and Medicine,0.017,two,what is the percentage of the population's postal codes were matched to two das?
+Business and Economic,0.2823,Society,0.1676,Culture,0.1664,,what is the percentage of individuals with urban street addresses (dmt=a) matched to a single da?
+Business and Economic,0.2971,Society,0.1742,Culture,0.1416,,what is the percentage of individuals with urban street addresses (dmt=b) matched to a single da?
+Culture,0.5263,Science and Technology,0.3828,Business and Economic,0.3362,62.94,62.94
+Culture,0.7351,Business and Economic,0.5617,Science and Technology,0.5507,13.86,13.86
+Education,0.8073,Culture,0.7695,Business and Economic,0.6961,"2009, 2008",how many percent of undergraduate students who graduated in 2009 earned is less than those who graduated in 2008?
+Sports,0.5201,Food and Beverage,0.0274,Science and Technology,0.0203,tippeligaen,tippeligaen
+Media and Entertainment,0.6151,Sports,0.3347,Culture,0.3082,,how many appearances did he make?
+Sports,0.7956,Society,0.0249,Culture,0.0225,,how many goals did he score?
+Culture,0.7287,Business and Economic,0.632,Science and Technology,0.611,6.1,6.1
+Culture,0.7443,Science and Technology,0.6599,Business and Economic,0.6392,24.1,24.1
+Culture,0.6685,Science and Technology,0.5221,Business and Economic,0.4937,62.9,62.9
+Culture,0.6723,Business and Economic,0.4954,Science and Technology,0.4847,,<62.9>\
+Culture,0.582,Warfare and Conflict,0.4108,Society,0.3931,12 to 17,12 to 17
+Culture,0.582,Warfare and Conflict,0.4108,Society,0.3931,12 to 17,12 to 17
+Culture,0.6206,Business and Economic,0.4467,Warfare and Conflict,0.3922,17.967213,17.967213
+Culture,0.582,Warfare and Conflict,0.4108,Society,0.3931,12 to 17,12 to 17
+Business and Economic,0.0026,Food and Beverage,0.0024,Society,0.0011,,transportation and warehousing
+Society,0.0455,Warfare and Conflict,0.0282,Political,0.0061,manitoba,how many homicides wre recorded in manitoba overall.
+Culture,0.4967,Business and Economic,0.3333,Science and Technology,0.3095,5.8,5.8
+Culture,0.7002,Society,0.5297,Science and Technology,0.5262,104.0,104.0
+Culture,0.7047,Business and Economic,0.608,Science and Technology,0.5997,1.8,1.8
+Culture,0.6607,Art,0.4919,Business and Economic,0.4421,0.153619,0.153619
+Science and Technology,0.8437,Healthcare and Medicine,0.7976,Society,0.0567,new york,how many thousand dollars were state government agency expenditures on health-related r&d in new york?
+Healthcare and Medicine,0.769,Science and Technology,0.7401,Political,0.0342,california,how many thousand dollars were state government agency expenditures on health-related r&d in california?
+Healthcare and Medicine,0.7956,Science and Technology,0.5805,Society,0.0868,texas,how many thousand dollars were state government agency expenditures on health-related r&d in texas?
+Healthcare and Medicine,0.8175,Science and Technology,0.5529,Society,0.049,florida,how many thousand dollars were state government agency expenditures on health-related r&d in florida?
+Healthcare and Medicine,0.7895,Science and Technology,0.5795,Political,0.0486,pennsylvania,how many thousand dollars were state government agency expenditures on health-related r&d in pennsylvania?
+Culture,0.6231,Business and Economic,0.4764,Society,0.4369,1168.0,1168.0
+Culture,0.7133,Science and Technology,0.5486,Business and Economic,0.5479,40.8,40.8
+Culture,0.7275,Science and Technology,0.6144,Business and Economic,0.6033,35.1,35.1
+Culture,0.7274,Science and Technology,0.6591,Business and Economic,0.6299,28.3,28.3
+Culture,0.7661,Science and Technology,0.6708,Business and Economic,0.6379,19.3,19.3
+Culture,0.738,Science and Technology,0.6059,Business and Economic,0.603,21.5,21.5
+Culture,0.6842,Science and Technology,0.575,Business and Economic,0.5588,32.1,32.1
+Culture,0.5132,Society,0.3565,Business and Economic,0.3072,"000, 2016",000 in 2016?
+Culture,0.4062,Society,0.3639,Healthcare and Medicine,0.1688,"000, 2016",000 and over in 2016?
+Culture,0.6137,Business and Economic,0.4451,Society,0.4421,0.5,0.5
+Culture,0.7157,Society,0.5262,Business and Economic,0.5214,77.17,77.17
+Culture,0.7782,Science and Technology,0.6519,Business and Economic,0.6376,76.4,76.4
+Culture,0.7199,Science and Technology,0.5604,Business and Economic,0.5199,51.18,51.18
+Culture,0.7311,Science and Technology,0.6128,Business and Economic,0.5983,21.06,21.06
+Culture,0.6046,Business and Economic,0.4181,Media and Entertainment,0.4096,25.99,25.99
+Culture,0.6402,Society,0.4181,Science and Technology,0.4166,55.34,55.34
+Culture,0.5459,Business and Economic,0.3433,Science and Technology,0.3345,30.64,30.64
+Culture,0.5755,Science and Technology,0.3553,Business and Economic,0.347,31.54,31.54
+Culture,0.5891,Science and Technology,0.4165,Healthcare and Medicine,0.4039,28.56,28.56
+Culture,0.5123,Business and Economic,0.3488,Science and Technology,0.3354,32.88,32.88
+Culture,0.7516,Science and Technology,0.6291,Business and Economic,0.6041,20.04,20.04
+Culture,0.7196,Science and Technology,0.5779,Business and Economic,0.5444,10.42,10.42
+Culture,0.759,Business and Economic,0.6018,Science and Technology,0.594,14.76,14.76
+Culture,0.7034,Science and Technology,0.5504,Business and Economic,0.5215,10.58,10.58
+Art,0.0699,Political,0.0212,Society,0.0158,six,how many initial entries into the adult correctional system in the six reporting jurisdictions?
+Culture,0.6513,Business and Economic,0.6243,Healthcare and Medicine,0.6087,,2
+Culture,0.6885,Business and Economic,0.6052,Science and Technology,0.5738,6.0,6.0
+Culture,0.6713,Business and Economic,0.522,Science and Technology,0.5091,,5
+Society,0.1946,Art,0.0723,Culture,0.0448,,how many percent did aboriginal adults account for of admissions to provincial/territorial correctional services?
+Society,0.0851,Culture,0.076,Political,0.0533,,how many percent did aboriginal adults account for federal correctional services?
+Culture,0.5846,Business and Economic,0.4739,Science and Technology,0.4334,30.0,30.0
+Culture,0.6859,Science and Technology,0.5717,Business and Economic,0.5599,25.0,25.0
+Culture,0.6622,Business and Economic,0.5257,Science and Technology,0.5217,27.0,27.0
+Culture,0.6976,Science and Technology,0.5625,Business and Economic,0.5414,26.0,26.0
+Culture,0.6856,Society,0.5961,Business and Economic,0.5639,2013-14,2013-14
+Culture,0.6625,Business and Economic,0.498,Science and Technology,0.4906,47.0,47.0
+Culture,0.7227,Science and Technology,0.6256,Business and Economic,0.5843,34.2,34.2
+Culture,0.665,Business and Economic,0.5065,Science and Technology,0.5002,48.0,48.0
+Culture,0.7165,Science and Technology,0.5448,Business and Economic,0.5446,17.8,17.8
+Culture,0.5759,Environmental,0.1934,Society,0.0968,10 to 17,which region had the lowest birth rate among mothers aged 10 to 17?
+Business and Economic,0.4975,Education,0.4646,Science and Technology,0.4299,1991,diploma or degree in 1991?
+Education,0.4814,Business and Economic,0.4315,Science and Technology,0.402,2011,diploma or degree in 2011?
+Education,0.447,Business and Economic,0.3072,Science and Technology,0.2513,1991,diploma or degree drop from 1991 to 2011?
+Culture,0.7018,Science and Technology,0.5885,Business and Economic,0.5425,24.0,24.0
+Culture,0.6847,Business and Economic,0.593,Science and Technology,0.5554,8.0,8.0
+Culture,0.6947,Science and Technology,0.5845,Business and Economic,0.5792,9.0,9.0
+Culture,0.6613,Science and Technology,0.5363,Business and Economic,0.523,20.0,20.0
+Culture,0.6093,Healthcare and Medicine,0.5981,Business and Economic,0.5383,,difference
+Culture,0.7152,Science and Technology,0.5997,Business and Economic,0.5964,15.0,15.0
+Culture,0.6543,Science and Technology,0.5073,Business and Economic,0.4977,33.0,33.0
+Culture,0.7231,Science and Technology,0.5932,Business and Economic,0.5515,18.0,18.0
+Culture,0.6852,Science and Technology,0.5316,Business and Economic,0.5246,35.0,35.0
+Culture,0.6368,Business and Economic,0.4788,Science and Technology,0.4553,30898.0,30898.0
+Culture,0.6459,Business and Economic,0.5283,Science and Technology,0.4962,61526.0,61526.0
+Culture,0.6759,Science and Technology,0.5303,Business and Economic,0.5091,34.0,34.0
+Culture,0.6238,Business and Economic,0.5161,Science and Technology,0.4566,4401.0,4401.0
+Culture,0.6835,Science and Technology,0.549,Business and Economic,0.5291,36.0,36.0
+Culture,0.8124,Science and Technology,0.6928,Business and Economic,0.664,14.4,14.4
+Culture,0.6738,Society,0.53,Science and Technology,0.4932,0.16,0.16
+Culture,0.6976,Science and Technology,0.4853,Society,0.4766,17.34,17.34
+Culture,0.6463,Society,0.4665,Business and Economic,0.4465,0.29,0.29
+Sports,0.7175,Political,0.427,Warfare and Conflict,0.2279,jack eccles,which division did jack eccles play for stoke?
+Sports,0.9674,Media and Entertainment,0.4827,Business and Economic,0.2612,villa mitre,which league did gonzalez play of villa mitre?
+Culture,0.7195,Business and Economic,0.6274,Science and Technology,0.2266,2015,which province has the largest revision between the previously-published rate and the revised growth rate in 2015?
+Culture,0.7101,Business and Economic,0.6704,Environmental,0.2195,2017,which province has the largest downward revision between previously-published rate and the revised growth rate in 2017?
+Business and Economic,0.5434,Culture,0.2627,Healthcare and Medicine,0.1232,2017,the previously-published growth rate of which province changed signs in 2017?
+Business and Economic,0.618,Healthcare and Medicine,0.4503,Science and Technology,0.338,40 to 49 hours,who were less likely to work 40 to 49 hours?
+Culture,0.6298,Business and Economic,0.5068,Science and Technology,0.4678,28551.0,28551.0
+Culture,0.6308,Society,0.4403,Business and Economic,0.4353,0.125365,0.125365
+Culture,0.5509,Science and Technology,0.4283,Business and Economic,0.4216,2.9,2.9
+Culture,0.0748,Environmental,0.0707,Society,0.0615,,dopes to infinity
+Culture,0.6946,Business and Economic,0.4918,Society,0.4902,77.8,77.8
+Business and Economic,0.4286,Sports,0.3002,Warfare and Conflict,0.1861,one,league one
+Culture,0.6513,Business and Economic,0.6243,Healthcare and Medicine,0.6087,,2
+Culture,0.6652,Business and Economic,0.5176,Science and Technology,0.4894,,<2548>\
+Culture,0.6935,Education,0.625,Society,0.4468,"20 to 24 years, 30 to 34",respondents aged 20 to 24 years or those aged 30 to 34?
+Culture,0.6658,Education,0.5569,Society,0.4631,"25 to 29 years, 30 to 34",respondents aged 25 to 29 years or those aged 30 to 34?
+Culture,0.7291,Society,0.4779,Art,0.2855,first,nprs whose temporary residence permit was their first permit or nprs who had obtained other permits in the past?
+Sports,0.9238,Business and Economic,0.6734,Political,0.6211,america de cali,which league did garcia join in categoria for america de cali?
+Culture,0.6963,Business and Economic,0.5412,Science and Technology,0.5269,,<9.5>\
+Science and Technology,0.7571,Political,0.344,Warfare and Conflict,0.2148,nvt,nvt
+Culture,0.632,Business and Economic,0.5379,Science and Technology,0.4943,3.7,3.7
+Sports,0.8545,Business and Economic,0.0335,Society,0.0284,,how many yards did jacoby brissett pass for?
+Sports,0.9682,Culture,0.0701,Media and Entertainment,0.0407,,how many touchdowns did jacoby brissett pass for?
+Sports,0.926,Culture,0.0685,Society,0.0429,,how many interceptions did jacoby brissett pass for?
+Society,0.9762,Culture,0.6532,Science and Technology,0.5952,,<sask>\
+Culture,0.5844,Business and Economic,0.4896,Science and Technology,0.4785,,<p.e.i>\
+Business and Economic,0.5463,Political,0.4076,Healthcare and Medicine,0.2632,,p.e.i
+Culture,0.6544,Business and Economic,0.5047,Science and Technology,0.4322,11.944785,11.944785
+Culture,0.6236,Business and Economic,0.4457,Science and Technology,0.4147,52.931034,52.931034
+Culture,0.6699,Science and Technology,0.5509,Business and Economic,0.5341,1.9,1.9
+Culture,0.6836,Society,0.524,Business and Economic,0.5165,,<-59.9>\
+Culture,0.6884,Business and Economic,0.5177,Society,0.4896,,-58.7
+Culture,0.6563,Society,0.5007,Business and Economic,0.4925,,<-61.8>\
+Culture,0.6765,Business and Economic,0.5824,Science and Technology,0.5344,,-84.1
+Culture,0.6832,Business and Economic,0.606,Science and Technology,0.5602,,-83.2
+Culture,0.6675,Business and Economic,0.5628,Science and Technology,0.5227,,-86.1
+Culture,0.6667,Business and Economic,0.5033,Society,0.4873,,-49.0
+Culture,0.6463,Business and Economic,0.481,Society,0.4288,,-38.9
+Culture,0.6437,Business and Economic,0.4609,Healthcare and Medicine,0.4256,,-57.9
+Culture,0.6887,Business and Economic,0.5729,Science and Technology,0.5679,,-34.1
+Culture,0.6343,Business and Economic,0.573,Science and Technology,0.5257,,-3.2
+Culture,0.655,Business and Economic,0.5025,Society,0.4993,,-53.0
+Culture,0.7606,Science and Technology,0.6259,Business and Economic,0.6145,80.4,80.4
+Culture,0.6946,Business and Economic,0.4918,Society,0.4902,77.8,77.8
+Culture,0.7222,Science and Technology,0.5463,Society,0.539,69.4,69.4
+Culture,0.6515,Society,0.4856,Business and Economic,0.4478,,67
+Culture,0.728,Science and Technology,0.653,Business and Economic,0.6332,64.2,64.2
+Culture,0.745,Science and Technology,0.6529,Business and Economic,0.6226,59.3,59.3
+Culture,0.6516,Society,0.4737,Business and Economic,0.4273,,68
+Culture,0.7524,Society,0.5934,Science and Technology,0.5864,70.4,70.4
+Culture,0.7317,Business and Economic,0.6015,Science and Technology,0.5855,85.4,85.4
+Culture,0.7405,Science and Technology,0.6717,Business and Economic,0.6563,22.2,22.2
+Culture,0.6427,Business and Economic,0.5602,Science and Technology,0.5331,2.8,2.8
+Culture,0.6843,Society,0.6111,Art,0.6017,2.2,2.2
+Culture,0.7348,Science and Technology,0.6381,Business and Economic,0.6346,74.1,74.1
+Culture,0.7003,Business and Economic,0.5245,Science and Technology,0.5223,71.8,71.8
+Culture,0.6703,Business and Economic,0.6366,Science and Technology,0.616,3.0,3.0
+Society,0.9506,Culture,0.9037,Political,0.5978,syria,syria
+Political,0.8067,Culture,0.0666,Society,0.0582,democratic,democratic republic of the congo
+Culture,0.7497,Science and Technology,0.6675,Business and Economic,0.662,4.2,4.2
+Culture,0.5796,Science and Technology,0.452,Business and Economic,0.4364,3.6,3.6
+Culture,0.7093,Science and Technology,0.5957,Business and Economic,0.5682,12.0,12.0
+Culture,0.6208,Education,0.4988,Science and Technology,0.465,"15 or older, three, past 12-month",how many percent of canadians aged 15 or older met all three criteria for past 12-month gad?
+Culture,0.6393,Science and Technology,0.4327,Education,0.4017,"15 or older, three, past 12-month",how many canadians aged 15 or older met all three criteria for past 12-month gad?
+Culture,0.7158,Society,0.5401,Business and Economic,0.5245,77.7,77.7
+Culture,0.7352,Business and Economic,0.6027,Science and Technology,0.5887,78.1,78.1
+Culture,0.7384,Science and Technology,0.6424,Business and Economic,0.5874,34.3,34.3
+Culture,0.6478,Business and Economic,0.4949,Science and Technology,0.4701,,<68.0>\
+Culture,0.7163,Science and Technology,0.6057,Business and Economic,0.5807,93.4,93.4
+Culture,0.7008,Business and Economic,0.5684,Society,0.5292,85.8,85.8
+Culture,0.7686,Science and Technology,0.6344,Business and Economic,0.6312,5.4,5.4
+Culture,0.6775,Business and Economic,0.5088,Science and Technology,0.4958,46.5,46.5
+Culture,0.7293,Society,0.5784,Business and Economic,0.5715,76.7,76.7
+Culture,0.6871,Society,0.5569,Science and Technology,0.5349,94.7,94.7
+Culture,0.6769,Business and Economic,0.5329,Science and Technology,0.5188,28.7,28.7
+Culture,0.8022,Political,0.6473,Business and Economic,0.371,british columbia,british columbia
+Political,0.3834,Media and Entertainment,0.2288,Culture,0.2288,,<prince edward island>\
+Culture,0.8022,Political,0.6473,Business and Economic,0.371,british columbia,british columbia
+Warfare and Conflict,0.0577,Culture,0.0567,Food and Beverage,0.0269,nunavut,nunavut
+Culture,0.6787,Business and Economic,0.5117,Society,0.5104,77.0,77.0
+Culture,0.6787,Science and Technology,0.5475,Business and Economic,0.5357,62.0,62.0
+Society,0.4821,Culture,0.2046,Art,0.0358,,how many percent of people helped a friend or neighbour?
+Culture,0.7218,Science and Technology,0.5838,Business and Economic,0.5567,17.0,17.0
+Culture,0.6409,Business and Economic,0.6139,Science and Technology,0.578,2.0,2.0
+Culture,0.6839,Science and Technology,0.5138,Society,0.5123,29.0,29.0
+Sports,0.8532,Political,0.5706,Culture,0.5311,michael crabtree,how many receptions did michael crabtree finish with?
+Sports,0.8472,Culture,0.1371,Society,0.0867,michael crabtree,how many receiving yards did michael crabtree finish with?
+Sports,0.4321,Science and Technology,0.1196,Business and Economic,0.0247,davis,how many yards did davis record?
+Sports,0.8629,Culture,0.0446,Art,0.0223,davis,how many rushing touchdowns did davis record?
+Media and Entertainment,0.845,Sports,0.7438,Culture,0.6343,,where did milad jalali make his debut for?
+Sports,0.3372,Business and Economic,0.2102,Culture,0.0612,,which club did bergin play in the national league division 2?
+Culture,0.6338,Society,0.4903,Business and Economic,0.4465,0.66,0.66
+Culture,0.612,Business and Economic,0.4755,Society,0.4571,0.61,0.61
+Education,0.8378,Society,0.1059,Culture,0.0985,,less than high school education
+Culture,0.6681,Society,0.5003,Business and Economic,0.4741,0.26,0.26
+Culture,0.677,Society,0.4891,Business and Economic,0.4834,0.21,0.21
+Education,0.8378,Society,0.1059,Culture,0.0985,,less than high school education
+Culture,0.647,Society,0.4888,Business and Economic,0.4882,0.15,0.15
+Culture,0.6665,Society,0.5062,Business and Economic,0.4715,0.13,0.13
+Education,0.8378,Society,0.1059,Culture,0.0985,,less than high school education
+Society,0.0073,Warfare and Conflict,0.006,Culture,0.0027,,what is the number of cases completed in adult criminal court?
+Society,0.1095,Art,0.0373,Warfare and Conflict,0.0134,,what is the number of charges related to criminal code and other federal statute offences?
+Culture,0.6584,Business and Economic,0.47,Science and Technology,0.4532,48.8,48.8
+Culture,0.6935,Business and Economic,0.563,Science and Technology,0.5532,12.7,12.7
+Culture,0.7286,Science and Technology,0.5795,Society,0.5652,67.4,67.4
+Culture,0.7024,Science and Technology,0.5885,Business and Economic,0.5632,24.5,24.5
+Culture,0.5846,Business and Economic,0.4739,Science and Technology,0.4334,30.0,30.0
+Culture,0.6613,Science and Technology,0.5363,Business and Economic,0.523,20.0,20.0
+Culture,0.7522,Science and Technology,0.6252,Business and Economic,0.5953,14.0,14.0
+Culture,0.6835,Science and Technology,0.549,Business and Economic,0.5291,36.0,36.0
+Culture,0.6612,Science and Technology,0.5453,Business and Economic,0.5276,10.0,10.0
+Culture,0.6895,Science and Technology,0.5533,Business and Economic,0.528,51.0,51.0
+Culture,0.6759,Science and Technology,0.5303,Business and Economic,0.5091,34.0,34.0
+Culture,0.6976,Science and Technology,0.5625,Business and Economic,0.5414,26.0,26.0
+Culture,0.6921,Science and Technology,0.5444,Society,0.5302,54.0,54.0
+Culture,0.7522,Science and Technology,0.6252,Business and Economic,0.5953,14.0,14.0
+Culture,0.6847,Business and Economic,0.593,Science and Technology,0.5554,8.0,8.0
+Culture,0.6028,Business and Economic,0.4854,Warfare and Conflict,0.4303,5228.0,5228.0
+Culture,0.6915,Science and Technology,0.5659,Business and Economic,0.5616,41.0,41.0
+Media and Entertainment,0.9629,Sports,0.1338,Culture,0.1081,,which club did tiago cameta appear for the serie a club?
+Culture,0.6588,Business and Economic,0.5051,Society,0.4863,135.0,135.0
+Sports,0.2137,Culture,0.0815,Art,0.0374,romero,which club did romero play in primera division?
+Culture,0.7142,Business and Economic,0.5468,Art,0.4908,149641672.0,149641672.0
+Culture,0.7347,Business and Economic,0.6644,Science and Technology,0.6469,6.2,6.2
+Culture,0.7228,Business and Economic,0.5794,Science and Technology,0.5609,7.4,7.4
+Culture,0.669,Business and Economic,0.5025,Warfare and Conflict,0.4739,1313376.0,1313376.0
+Culture,0.5796,Society,0.4828,Art,0.4003,0.0,0.0
+Culture,0.6882,Science and Technology,0.5428,Business and Economic,0.5258,72.0,72.0
+Political,0.6787,Healthcare and Medicine,0.1999,Business and Economic,0.186,,probation
+Culture,0.7026,Business and Economic,0.556,Science and Technology,0.5545,40.0,40.0
+Culture,0.613,Science and Technology,0.5002,Business and Economic,0.4789,128.0,128.0
+Business and Economic,0.5124,Culture,0.471,Healthcare and Medicine,0.3628,2009,how many individuals were hired in 2009?
+Business and Economic,0.825,Society,0.5048,Culture,0.3682,18 to 64,how many individuals were laid off among employees aged 18 to 64?
+Business and Economic,0.8146,Society,0.4974,Culture,0.4425,,middle- and bottom-third of the layoff rate distribution.
+Culture,0.6925,Science and Technology,0.5785,Business and Economic,0.5488,23.0,23.0
+Culture,0.6409,Healthcare and Medicine,0.5266,Science and Technology,0.486,,upper
+Culture,0.6667,Business and Economic,0.5431,Science and Technology,0.5121,37602.0,37602.0
+Culture,0.6882,Science and Technology,0.5428,Business and Economic,0.5258,72.0,72.0
+Political,0.6354,Healthcare and Medicine,0.5555,Warfare and Conflict,0.5193,,what percent of university educated canadians felt that the rcmp was a very important national symbol?
+Sports,0.9552,Culture,0.4275,Political,0.2453,000,000 or more said that hockey's influence on the national identity was very important?
+Culture,0.6965,Business and Economic,0.5727,Society,0.5458,75.0,75.0
+Warfare and Conflict,0.3347,Sports,0.2107,Political,0.1607,jack del rio,jack del rio
+Culture,0.6508,Business and Economic,0.5347,Science and Technology,0.4617,4450.0,4450.0
+Culture,0.4062,Political,0.1245,Warfare and Conflict,0.083,,visible minority
+Culture,0.293,Healthcare and Medicine,0.2519,Art,0.1547,,non-aboriginal
+Culture,0.5327,Business and Economic,0.3847,Environmental,0.3155,,quebec
+Culture,0.8022,Political,0.6473,Business and Economic,0.371,british columbia,british columbia
+Business and Economic,0.8169,Culture,0.6617,Society,0.5183,british columbia,what percent of british columbia employed population worked as self-employed in their main job?
+Culture,0.7093,Science and Technology,0.5957,Business and Economic,0.5682,12.0,12.0
+Culture,0.5487,Science and Technology,0.4094,Political,0.3359,saskatchewan,saskatchewan
+Culture,0.6953,Science and Technology,0.5577,Business and Economic,0.555,11.8,11.8
+Culture,0.6018,Warfare and Conflict,0.4362,Art,0.4335,354,354
+Culture,0.701,Society,0.5522,Science and Technology,0.5415,64.7,64.7
+Culture,0.675,Business and Economic,0.6367,Science and Technology,0.2427,"2 years, 3 years",employees who were in a company for 2 years or less or employees who have been with the company for 3 years or more?
+Business and Economic,0.1569,Society,0.0507,Culture,0.0103,,employees in trades and manufacturing occupations or those those in management or professional occupations?
+Culture,0.676,Science and Technology,0.5038,Business and Economic,0.4911,35.9,35.9
+Culture,0.4662,Healthcare and Medicine,0.2756,Science and Technology,0.2743,7.9,7.9
+Culture,0.6856,Business and Economic,0.5442,Science and Technology,0.5388,9.6,9.6
+Culture,0.7372,Business and Economic,0.593,Healthcare and Medicine,0.5767,8.7,8.7
+Business and Economic,0.7213,Society,0.4437,Political,0.1685,canadian,what percentage is the the average assessment value of single-detached houses owned by resettled refugees lower than the corresponding average among canadian-born owners?
+Business and Economic,0.8336,Society,0.4368,Political,0.1523,canadian,what percentage is the the average assessment value of condominium apartments owned by resettled refugees lower than the corresponding average among canadian-born owners?
+Business and Economic,0.7113,Society,0.4073,Political,0.1,canadian,what percentage is the the average assessment value of single-detached properties owned by resettled refugees lower than the corresponding average among canadian-born owners?
+Business and Economic,0.8336,Society,0.4368,Political,0.1523,canadian,what percentage is the the average assessment value of condominium apartments owned by resettled refugees lower than the corresponding average among canadian-born owners?
+Political,0.9898,Culture,0.9534,Science and Technology,0.6363,poland,poland
+Culture,0.6448,Business and Economic,0.501,Science and Technology,0.4816,649.0,649.0
+Science and Technology,0.8862,Business and Economic,0.7828,Healthcare and Medicine,0.705,the united states,how many students enrolled in s&e graduate programs in the united states?
+Culture,0.601,Science and Technology,0.5059,Healthcare and Medicine,0.4946,2.4,2.4
+Culture,0.6831,Business and Economic,0.5402,Science and Technology,0.5259,424508.0,424508.0
+Culture,0.437,Art,0.1921,Warfare and Conflict,0.1581,godoy cruz,godoy cruz
+Culture,0.6766,Business and Economic,0.5012,Society,0.4985,165.0,165.0
+Society,0.3669,Culture,0.2154,Political,0.1347,,homosexual and bisexual population or those heterosexual?
+Culture,0.3869,Society,0.2931,Media and Entertainment,0.1633,,homosexual and bisexual internet user population or their heterosexual counterparts?
+Culture,0.0984,Political,0.0743,Healthcare and Medicine,0.0374,,women or men?
+Culture,0.6934,Art,0.5536,Business and Economic,0.544,,<6.6>\
+Culture,0.6434,Business and Economic,0.5265,Science and Technology,0.5181,,<6.0>\
+Culture,0.6499,Business and Economic,0.4692,Warfare and Conflict,0.4549,15 to 17,15 to 17
+Culture,0.6986,Business and Economic,0.5831,Science and Technology,0.5748,,<19.1>\
+Society,0.349,Culture,0.2289,Art,0.022,"000, the last five years",000 who said they were a victim of cyberstalking in the last five years?
+Culture,0.5508,Science and Technology,0.4568,Business and Economic,0.4078,1.3,1.3
+Culture,0.6346,Business and Economic,0.446,Society,0.4308,6 to 8,6 to 8
+Culture,0.5408,Business and Economic,0.3729,Society,0.3596,,low/lower-middle
+Culture,0.6183,Business and Economic,0.4977,Warfare and Conflict,0.435,1228.0,1228.0
+Culture,0.6884,Business and Economic,0.5563,Science and Technology,0.5421,,<14.0>\
+Culture,0.6192,Science and Technology,0.4589,Business and Economic,0.4579,27.9,27.9
+Culture,0.602,Business and Economic,0.5365,Science and Technology,0.4571,42200.0,42200.0
+Culture,0.7312,Business and Economic,0.5522,Science and Technology,0.5516,13.7,13.7
+Culture,0.6895,Science and Technology,0.5533,Business and Economic,0.528,51.0,51.0
+Culture,0.732,Science and Technology,0.5968,Business and Economic,0.5671,18.6,18.6
+Culture,0.618,Business and Economic,0.4555,Science and Technology,0.421,,<28.9>\
+Culture,0.6183,Art,0.4655,Business and Economic,0.4628,,<0.0>\
+Business and Economic,0.6347,Science and Technology,0.5029,Culture,0.4057,,which sector had the largest share?
+Culture,0.7637,Science and Technology,0.6663,Business and Economic,0.6457,13.2,13.2
+Sports,0.6974,Business and Economic,0.3023,Political,0.0561,kazakhstan,which club in kazakhstan premier league did shitov appear for?
+Culture,0.1239,Political,0.0891,Society,0.0462,shaoyang,wht was shaoyang's permanent resident population?
+Culture,0.7046,Science and Technology,0.5507,Society,0.5488,52.5,52.5
+Culture,0.745,Science and Technology,0.6759,Business and Economic,0.6316,18.3,18.3
+Culture,0.5651,Business and Economic,0.4596,Education,0.4263,5-11,5-11 or 12-17?
+Culture,0.6815,Business and Economic,0.589,Science and Technology,0.5426,7.0,7.0
+Culture,0.6709,Society,0.5076,Business and Economic,0.4933,69.0,69.0
+Culture,0.7134,Science and Technology,0.58,Business and Economic,0.5673,44.0,44.0
+Culture,0.6882,Science and Technology,0.5428,Business and Economic,0.5258,72.0,72.0
+Culture,0.7079,Business and Economic,0.5456,Society,0.5375,39.0,39.0
+Political,0.0813,Society,0.0596,Culture,0.0546,000,000 population?
+Political,0.0813,Society,0.0596,Culture,0.0546,000,000 population?
+Political,0.0813,Society,0.0596,Culture,0.0546,000,000 population?
+Political,0.0813,Society,0.0596,Culture,0.0546,000,000 population?
+Culture,0.583,Warfare and Conflict,0.3094,Healthcare and Medicine,0.287,,male
+Warfare and Conflict,0.0238,Political,0.0027,Business and Economic,0.0023,,what percentage of criminals are under 45?
+Culture,0.6841,Science and Technology,0.5318,Society,0.5314,63.0,63.0
+Culture,0.6463,Science and Technology,0.5158,Business and Economic,0.5155,93.0,93.0
+Culture,0.6731,Society,0.5253,Business and Economic,0.5209,73.0,73.0
+Culture,0.7165,Society,0.5605,Business and Economic,0.5597,78.0,78.0
+Culture,0.6876,Society,0.5428,Science and Technology,0.5049,70.0,70.0
+Culture,0.6947,Society,0.5332,Science and Technology,0.5279,68.0,68.0
+Culture,0.6397,Business and Economic,0.5069,Science and Technology,0.475,50.0,50.0
+Culture,0.6883,Science and Technology,0.5286,Business and Economic,0.5257,49.0,49.0
+Culture,0.6625,Business and Economic,0.498,Science and Technology,0.4906,47.0,47.0
+Culture,0.6575,Business and Economic,0.5056,Science and Technology,0.5055,46.0,46.0
+Political,0.2926,Warfare and Conflict,0.2124,Culture,0.2086,,catania
+Culture,0.5327,Business and Economic,0.3847,Environmental,0.3155,,quebec
+Culture,0.6266,Business and Economic,0.4625,Society,0.4308,,-15
+Culture,0.6019,Business and Economic,0.4172,Society,0.4132,,-9
+Culture,0.6334,Business and Economic,0.4501,Society,0.4393,,-8
+Culture,0.6859,Business and Economic,0.5238,Science and Technology,0.5105,,6
+Culture,0.6263,Society,0.4146,Science and Technology,0.4014,,0
+Culture,0.6956,Healthcare and Medicine,0.5887,Science and Technology,0.5823,,1
+Culture,0.6035,Business and Economic,0.5221,Warfare and Conflict,0.4518,5352.0,5352.0
+Sports,0.9294,Culture,0.6013,Political,0.3296,"the uruguayan primera, nicolas silva",which club of the uruguayan primera division nicolas silva did join with?
+Sports,0.6087,Business and Economic,0.1183,Culture,0.0642,malaysia,which club did farizal play in malaysia premier league?
+Education,0.8239,Business and Economic,0.6854,Society,0.6533,1999,what was the proportion of economic families with school-age children that held an resp in 1999?
+Business and Economic,0.6888,Culture,0.5,Education,0.4373,,how many dollars did families hold in resps including families who did not hold an resp?
+Culture,0.5881,Society,0.4757,Business and Economic,0.4157,0.318,0.318
+Culture,0.6011,Business and Economic,0.4563,Society,0.4284,0.098,0.098
+Culture,0.671,Business and Economic,0.5353,Science and Technology,0.4977,4.201072,4.201072
+Culture,0.419,Society,0.2842,Art,0.0637,,married or common-law couple
+Warfare and Conflict,0.1505,Culture,0.1404,Healthcare and Medicine,0.0518,,urban
+Culture,0.6919,Science and Technology,0.5933,Society,0.5908,2012.0,2012.0
+Culture,0.6919,Science and Technology,0.5933,Society,0.5908,2012.0,2012.0
+Culture,0.611,Business and Economic,0.4501,Society,0.4429,2388,2388
+Culture,0.648,Business and Economic,0.5154,Warfare and Conflict,0.4721,13843,13843
+Culture,0.671,Business and Economic,0.5353,Science and Technology,0.4977,4.201072,4.201072
+Culture,0.6317,Business and Economic,0.4684,Science and Technology,0.4181,7.680985,7.680985
+Sports,0.5396,Society,0.047,Culture,0.0225,,how many yards did he rush for?
+Media and Entertainment,0.8539,Sports,0.7244,Business and Economic,0.0981,,how many appearances did franco ferrari make?
+Media and Entertainment,0.7777,Sports,0.195,Business and Economic,0.0906,,which club did arao sign in serie b?
+Culture,0.6483,Business and Economic,0.5345,Science and Technology,0.5013,1143.0,1143.0
+Society,0.2947,Culture,0.1022,Political,0.0586,between 1996 and 2016,how much did citizenship rate decline between 1996 and 2016?
+Society,0.2947,Culture,0.1022,Political,0.0586,between 1996 and 2016,how much did citizenship rate decline between 1996 and 2016?
+Education,0.6122,Society,0.3697,Culture,0.3012,,how many immigrants with less than a high school education became naturalized?
+Education,0.767,Science and Technology,0.6774,Business and Economic,0.677,,how many immigrants with university degrees became naturalized?
+Culture,0.6837,Business and Economic,0.5659,Science and Technology,0.5622,22.5,22.5
+Culture,0.725,Science and Technology,0.5453,Business and Economic,0.5397,13.8,13.8
+Culture,0.7295,Science and Technology,0.5939,Business and Economic,0.5699,13.0,13.0
+Political,0.297,Business and Economic,0.2899,Science and Technology,0.2183,,brentford
+Culture,0.5985,Society,0.4322,Business and Economic,0.4177,296.0,296.0
+Sports,0.5571,Business and Economic,0.2004,Culture,0.1044,max,which club did max appear in primera b nacional?
+Sports,0.9297,Media and Entertainment,0.2213,Business and Economic,0.1854,,how many league games did steinar strømnes play for strømmen?
+Culture,0.6815,Business and Economic,0.589,Science and Technology,0.5426,7.0,7.0
+Political,0.297,Business and Economic,0.2899,Science and Technology,0.2183,,brentford
+Culture,0.6604,Science and Technology,0.5127,Business and Economic,0.4989,182.0,182.0
+Culture,0.7329,Science and Technology,0.5873,Society,0.563,19.0,19.0
+Culture,0.4401,Science and Technology,0.3809,Political,0.2871,,watford
+Culture,0.6392,Business and Economic,0.5296,Science and Technology,0.4942,2176.0,2176.0
+Culture,0.6585,Society,0.5649,Science and Technology,0.5107,2016.0,2016.0
+Culture,0.667,Business and Economic,0.5081,Art,0.4849,1486.0,1486.0
+Business and Economic,0.4086,Media and Entertainment,0.257,Science and Technology,0.2166,,bromley
+Culture,0.7018,Science and Technology,0.5885,Business and Economic,0.5425,24.0,24.0
+Culture,0.6034,Business and Economic,0.482,Science and Technology,0.4545,352.0,352.0
+Political,0.1969,Business and Economic,0.1623,Warfare and Conflict,0.1484,,tobol
+Society,0.3797,Culture,0.1481,Healthcare and Medicine,0.0478,,heavy smokers or non-smokers?
+Society,0.3693,Culture,0.2208,Environmental,0.1213,,light smokers or non-smokers?
+Culture,0.3698,Business and Economic,0.2456,Environmental,0.2322,,<underweight>\
+Society,0.2997,Food and Beverage,0.2516,Culture,0.2456,,formal drinkers or moderate drinkers?
+Society,0.4994,Business and Economic,0.2499,Healthcare and Medicine,0.1302,60 or more minutes,reporting no physical activity or reporting 60 or more minutes a day?
+Society,0.5962,Culture,0.4071,Business and Economic,0.2114,"more than five, fewer than five",eating fewer than five servings of fruit and vegetables per day or more than five servings?
+Culture,0.6733,Business and Economic,0.5734,Science and Technology,0.5494,30.1,30.1
+Culture,0.6755,Science and Technology,0.5179,Society,0.4871,52.9,52.9
+Culture,0.6622,Business and Economic,0.5334,Science and Technology,0.5229,92.0,92.0
+Culture,0.5993,Science and Technology,0.4863,Business and Economic,0.4858,333.0,333.0
+Culture,0.6935,Business and Economic,0.5354,Science and Technology,0.5229,8.68,8.68
+Culture,0.6522,Science and Technology,0.522,Business and Economic,0.5083,32.0,32.0
+Culture,0.6886,Society,0.5489,Business and Economic,0.5457,145.0,145.0
+Culture,0.6733,Business and Economic,0.5328,Science and Technology,0.5209,37.0,37.0
+Healthcare and Medicine,0.855,Culture,0.0012,Environmental,0.0007,,medical park antalyaspor
+Culture,0.6857,Society,0.5952,Science and Technology,0.5415,2012-2014,2012-2014
+Art,0.7368,Culture,0.668,Political,0.4187,,alexis pinturault
+Culture,0.0984,Political,0.0743,Healthcare and Medicine,0.0374,,women or men?
+Society,0.1574,Culture,0.023,Healthcare and Medicine,0.0052,,physical assault or sexual assault?
+Society,0.0022,Warfare and Conflict,0.001,Business and Economic,0.0009,,robbery
+Society,0.0172,Political,0.0044,Warfare and Conflict,0.0024,,physical assault or robbery?
+Society,0.0339,Culture,0.013,Media and Entertainment,0.004,,sexual assault
+Culture,0.0595,Political,0.0404,Healthcare and Medicine,0.023,,men or women?
+Science and Technology,0.1916,Business and Economic,0.1916,Healthcare and Medicine,0.1532,,shelbourne
+Culture,0.6817,Business and Economic,0.5132,Science and Technology,0.5044,5.31,5.31
+Environmental,0.7031,Science and Technology,0.4302,Political,0.3052,afc eskilstuna,afc eskilstuna
+Culture,0.6537,Business and Economic,0.5149,Science and Technology,0.4949,,<522.0>\
+Political,0.8553,Culture,0.6612,Business and Economic,0.5886,empoli,empoli
+Political,0.4426,Science and Technology,0.4273,Culture,0.3706,kalmar,kalmar
+Culture,0.584,Science and Technology,0.3805,Art,0.3469,54.94,54.94
+Culture,0.7178,Society,0.6196,Art,0.5905,1840.0,1840.0
+Culture,0.7473,Business and Economic,0.595,Science and Technology,0.5336,guangzhou,guangzhou evergrande
+Environmental,0.9176,Political,0.4329,Business and Economic,0.4278,,esmee visser
+Culture,0.2144,Society,0.1777,Warfare and Conflict,0.0418,2014/2015,how many female youth was admitted to youth correctional services in 2014/2015?
+Culture,0.6925,Science and Technology,0.5785,Business and Economic,0.5488,23.0,23.0
+Culture,0.5186,Society,0.4544,Science and Technology,0.2494,,secure custody
+Culture,0.7131,Science and Technology,0.5764,Business and Economic,0.5617,16.0,16.0
+Culture,0.7522,Science and Technology,0.6252,Business and Economic,0.5953,14.0,14.0
+Culture,0.6835,Science and Technology,0.549,Business and Economic,0.5291,36.0,36.0
+Culture,0.7092,Science and Technology,0.5917,Business and Economic,0.5687,22.0,22.0
+Culture,0.6522,Science and Technology,0.522,Business and Economic,0.5083,32.0,32.0
+Culture,0.6622,Business and Economic,0.5257,Science and Technology,0.5217,27.0,27.0
+Culture,0.6994,Science and Technology,0.5827,Business and Economic,0.5608,42.0,42.0
+Culture,0.6397,Business and Economic,0.5069,Science and Technology,0.475,50.0,50.0
+Culture,0.7517,Society,0.6637,Science and Technology,0.6402,1991.0,1991.0
+Culture,0.6787,Society,0.5334,Business and Economic,0.5246,65.0,65.0
+Culture,0.679,Business and Economic,0.5518,Society,0.5386,85.0,85.0
+Healthcare and Medicine,0.501,Society,0.3508,Culture,0.0311,,what was the percentage of seniors got a flu vaccination?
+Healthcare and Medicine,0.501,Society,0.3508,Culture,0.0311,,what was the percentage of seniors got a flu vaccination?
+Culture,0.6811,Society,0.5539,Healthcare and Medicine,0.4562,"2003, 2013-2014",in 2003 or in 2013-2014?
+Society,0.397,Healthcare and Medicine,0.3617,Culture,0.1523,12 to 44 years,what was the percentage of younger canadians (12 to 44 years) who got a flu vaccination?
+Society,0.397,Healthcare and Medicine,0.3617,Culture,0.1523,12 to 44 years,what was the percentage of younger canadians (12 to 44 years) who got a flu vaccination?
+Culture,0.6986,Society,0.5463,Healthcare and Medicine,0.4707,"2003, 2013/2014",in 2003 or in 2013/2014?
+Culture,0.433,Science and Technology,0.2951,Business and Economic,0.282,,delta\
+Culture,0.8224,Business and Economic,0.7141,Society,0.5868,"2016, british columbia",british columbia increase in 2016?
+Business and Economic,0.515,Culture,0.4298,Political,0.258,"2016, alberta increase",alberta increase in 2016?
+Business and Economic,0.6712,Healthcare and Medicine,0.5223,Culture,0.5018,2016,ontario increase in 2016?
+Culture,0.3202,Business and Economic,0.1927,Warfare and Conflict,0.0736,codiac region,codiac region (moncton)\
+Business and Economic,0.6293,Culture,0.6108,Sports,0.1868,2016,new brunswick increase in 2016?
+Culture,0.8224,Business and Economic,0.7141,Society,0.5868,"2016, british columbia",british columbia increase in 2016?
+Business and Economic,0.6712,Healthcare and Medicine,0.5223,Culture,0.5018,2016,ontario increase in 2016?
+Culture,0.6155,Business and Economic,0.4657,Society,0.4642,233.0,233.0
+Culture,0.5908,Business and Economic,0.4249,Warfare and Conflict,0.4234,228.0,228.0
+Culture,0.6172,Science and Technology,0.4548,Business and Economic,0.4525,223.0,223.0
+Culture,0.6974,Science and Technology,0.5576,Business and Economic,0.5225,197.0,197.0
+Culture,0.692,Society,0.5213,Business and Economic,0.5126,196.0,196.0
+Culture,0.6936,Science and Technology,0.5162,Society,0.5081,193.0,193.0
+Culture,0.6196,Science and Technology,0.4927,Business and Economic,0.4639,192.0,192.0
+Culture,0.6589,Society,0.5214,Science and Technology,0.4984,183.0,183.0
+Culture,0.6882,Business and Economic,0.537,Science and Technology,0.5091,180.0,180.0
+Culture,0.6677,Business and Economic,0.5054,Science and Technology,0.4806,178.0,178.0
+Political,0.3509,Society,0.1633,Warfare and Conflict,0.0164,"richmond, british columbia's",what was the rate of police strength in british columbia's municipality of richmond?
+Political,0.3691,Society,0.2734,Culture,0.0409,"quebec, richelieu saint-laurent",what was the rate of police strength in quebec's municipality of richelieu saint-laurent?
+Political,0.2266,Society,0.1209,Warfare and Conflict,0.026,quebec,what was the rate of police strength in quebec's municipality of levis?
+Culture,0.6238,Business and Economic,0.4691,Warfare and Conflict,0.4601,433.0,433.0
+Culture,0.6426,Business and Economic,0.4791,Society,0.4478,,8
+Political,0.6026,Business and Economic,0.4877,Warfare and Conflict,0.3171,steve fox,which division did steve fox join port vale in?
+Society,0.4581,Culture,0.1343,Business and Economic,0.0499,"first, age 1",what was the life expectancy for the first nations household males at age 1?
+Society,0.4881,Culture,0.1735,Business and Economic,0.0471,"first, age 1",what was the life expectancy for the first nations household females at age 1?
+Society,0.0919,Culture,0.0345,Political,0.0162,"first, 2011",what was the gap in life expectancy between first nations and non-indigenous males in 2011?
+Society,0.137,Culture,0.05,Political,0.0188,"first, 2011",what was the gap in life expectancy between first nations and non-indigenous females in 2011?
+Society,0.1711,Healthcare and Medicine,0.0573,Business and Economic,0.0257,age 1,what was the life expectancy at age 1 for males?
+Society,0.1951,Healthcare and Medicine,0.0687,Culture,0.0306,age 1,what was the life expectancy at age 1 for females?
+Culture,0.3454,Society,0.1266,Healthcare and Medicine,0.0162,age 1,how many years was the life expectancy at age 1 for males shorter than that for non-indigenous ones?
+Culture,0.3418,Society,0.1159,Healthcare and Medicine,0.0178,age 1,how many years was the life expectancy at age 1 for females shorter than that for non-indigenous ones?
+Society,0.2613,Culture,0.0462,Business and Economic,0.0337,2011,what was the gap in life expectancy between metis and non-indigenous males in 2011?
+Society,0.2877,Culture,0.0583,Business and Economic,0.0299,2011,what was the gap in life expectancy between metis and non-indigenous females in 2011?
+Culture,0.6876,Society,0.5428,Science and Technology,0.5049,70.0,70.0
+Culture,0.7314,Business and Economic,0.6124,Science and Technology,0.6115,76.1,76.1
+Culture,0.7632,Science and Technology,0.6628,Business and Economic,0.6438,11.4,11.4
+Culture,0.7389,Science and Technology,0.6796,Business and Economic,0.6745,11.2,11.2
+Culture,0.3173,Society,0.1928,Business and Economic,0.0733,2011,how many years was the life expectancy for inuit men shorter than that for non-indigenous men in 2011?
+Culture,0.3138,Society,0.1656,Political,0.0452,2011,how many years was the life expectancy for inuit women shorter than that for non-indigenous women in 2011?
+Sports,0.9837,Business and Economic,0.521,Media and Entertainment,0.3521,,which league did montgomery participate in the national leagues nsw for wollongong wolves?
+Media and Entertainment,0.8945,Culture,0.6245,Political,0.5217,george warren mccrae,which single did george warren mccrae release his single?
+Culture,0.6093,Society,0.4546,Science and Technology,0.2442,326 days,326 days
+Business and Economic,0.5549,Healthcare and Medicine,0.4591,Culture,0.3697,second,second division
+Sports,0.8697,Media and Entertainment,0.4956,Business and Economic,0.3631,"gerson vieira appear, indian, mumbai",which league did gerson vieira appear for mumbai city in indian super league?
+Culture,0.6936,Science and Technology,0.5162,Society,0.5081,193.0,193.0
+Culture,0.6409,Business and Economic,0.6139,Science and Technology,0.578,2.0,2.0
+Culture,0.6992,Business and Economic,0.6321,Science and Technology,0.6152,1.91,1.91
+Culture,0.7178,Business and Economic,0.5553,Society,0.5541,1613.0,1613.0
+Culture,0.7295,Science and Technology,0.5939,Business and Economic,0.5699,13.0,13.0
+Sports,0.9816,Business and Economic,0.4339,Science and Technology,0.3943,canada,which competition did canada participate in the gold cup?
+Sports,0.544,Business and Economic,0.42,Political,0.3173,molde,which league did elyounoussi join side molde fk?
+Business and Economic,0.5506,Healthcare and Medicine,0.4495,Society,0.3636,third,third division
+Culture,0.6365,Society,0.4575,Business and Economic,0.4531,129.0,129.0
+Culture,0.5973,Society,0.4366,Political,0.4066,,how many percent was final ballot with of the votes?
+Culture,0.6733,Business and Economic,0.5351,Science and Technology,0.503,540.0,540.0
+Culture,0.6122,Business and Economic,0.4502,Society,0.4125,2754.0,2754.0
+Culture,0.0595,Political,0.0404,Healthcare and Medicine,0.023,,men or women?
+Education,0.7769,Society,0.5582,Culture,0.5039,,those with a university degree or those with a high school diploma or less?
+Education,0.7769,Society,0.5582,Culture,0.5039,,those with a university degree or those with a high school diploma or less?
+Culture,0.4316,Healthcare and Medicine,0.2649,Warfare and Conflict,0.1973,,<non-aboriginal>\
+Culture,0.5907,Society,0.4371,Business and Economic,0.4182,0.658,0.658
+Culture,0.6535,Society,0.5077,Business and Economic,0.4845,0.588,0.588
+Culture,0.5979,Society,0.4446,Warfare and Conflict,0.428,0.462,0.462
+Culture,0.6133,Business and Economic,0.4675,Society,0.4599,0.483,0.483
+Culture,0.5585,Business and Economic,0.4066,Warfare and Conflict,0.3917,0.534,0.534
+Environmental,0.6249,Culture,0.5895,Business and Economic,0.3033,,undressed
+Sports,0.7504,Society,0.0289,Art,0.0222,,how many rushing yards did alexander finish with?
+Sports,0.9359,Culture,0.0548,Art,0.032,,how many rushing touchdowns did alexander finish with?
+Culture,0.7144,Business and Economic,0.6584,Science and Technology,0.6334,8.2,8.2
+Sports,0.96,Warfare and Conflict,0.0137,Culture,0.0084,serbian,serbian superliga
+Business and Economic,0.0028,Environmental,0.0016,Art,0.0007,,transport and equipment operators and related occupations?
+Culture,0.6506,Science and Technology,0.4646,Business and Economic,0.4595,,10
+Culture,0.6517,Science and Technology,0.5307,Healthcare and Medicine,0.4976,24.7,24.7
+Healthcare and Medicine,0.5117,Science and Technology,0.4892,Art,0.3549,,<professional>\
+Culture,0.0805,Society,0.0733,Religion and Philosophy,0.0582,,the soul sessions
+Culture,0.7008,Science and Technology,0.543,Business and Economic,0.5419,125.0,125.0
+Sports,0.6215,Political,0.535,Business and Economic,0.5334,2018,which league did maldonado join central cordoba in 2018?
+Culture,0.7018,Science and Technology,0.5885,Business and Economic,0.5425,24.0,24.0
+Culture,0.6676,Business and Economic,0.5941,Science and Technology,0.5583,5.0,5.0
+Sports,0.8681,Business and Economic,0.4196,Science and Technology,0.2518,,which league did susvielles join olimpo of?
+Culture,0.698,Science and Technology,0.5101,Society,0.4938,1:54.25,1:54.25
+Culture,0.6847,Business and Economic,0.593,Science and Technology,0.5554,8.0,8.0
+Sports,0.9558,Business and Economic,0.1538,Warfare and Conflict,0.0474,"changchun yatai, adrian",which league did adrian mierzejewski play for changchun yatai?
+Political,0.4052,Culture,0.4005,Art,0.3671,,cruz azul
+Culture,0.6448,Business and Economic,0.432,Science and Technology,0.4253,55.8,55.8
+Sports,0.8479,Culture,0.0572,Science and Technology,0.0515,dan,how many yards did dan raudabaugh throw for?
+Sports,0.9693,Culture,0.0488,Art,0.0208,dan,how many touchdowns did dan raudabaugh throw for?
+Society,0.9717,Media and Entertainment,0.8044,Education,0.7625,,serie a
+Culture,0.7015,Science and Technology,0.5758,Business and Economic,0.5729,142.0,142.0
+Culture,0.6499,Society,0.5023,Science and Technology,0.5003,45.0,45.0
+Culture,0.6921,Science and Technology,0.5444,Society,0.5302,54.0,54.0
+Culture,0.6622,Business and Economic,0.5257,Science and Technology,0.5217,27.0,27.0
+Culture,0.698,Science and Technology,0.5665,Business and Economic,0.555,43.0,43.0
+Culture,0.6857,Science and Technology,0.56,Business and Economic,0.5401,31.0,31.0
+Culture,0.6976,Science and Technology,0.5625,Business and Economic,0.5414,26.0,26.0
+Society,0.6227,Culture,0.5576,Business and Economic,0.3454,more than 70%,what is the percentage of the survey respondents living in a neighbourhood where the share of the population with an immigrant background was more than 70%?
+Society,0.6227,Culture,0.5576,Business and Economic,0.3454,more than 70%,what is the percentage of the survey respondents living in a neighbourhood where the share of the population with an immigrant background was more than 70%?
+Society,0.6227,Culture,0.5576,Business and Economic,0.3454,more than 70%,what is the percentage of the survey respondents living in a neighbourhood where the share of the population with an immigrant background was more than 70%?
+Business and Economic,0.6309,Political,0.6116,Healthcare and Medicine,0.5975,,conference premier
+Sports,0.3799,Business and Economic,0.3671,Political,0.1419,astana,which league did mokin appear for astana?
+Culture,0.6351,Business and Economic,0.4637,Art,0.4252,0.003885,0.003885
+Sports,0.8307,Culture,0.0429,Business and Economic,0.0322,"juan manuel, 2016-17",how many goals did juan manuel vazquez have over the course of the 2016-17 primera b nacional?
+Culture,0.6759,Business and Economic,0.5243,Science and Technology,0.5106,9.7,9.7
+Culture,0.7101,Business and Economic,0.5397,Science and Technology,0.5297,6.51,6.51
+Business and Economic,0.6375,Society,0.2642,Culture,0.2322,mush,how mush was the average price of illegal cannabis lower than the price of legal cannabis?
+Culture,0.698,Science and Technology,0.5665,Business and Economic,0.555,43.0,43.0
+Media and Entertainment,0.8756,Sports,0.8685,Political,0.6607,,how many appearances did he make for stoke?
+Society,0.3038,Culture,0.0757,Media and Entertainment,0.015,the 12 months,what is the number of women being sexually assaulted in the 12 months preceding the survey?
+Society,0.3929,Culture,0.1335,Healthcare and Medicine,0.0179,the 12 months,what was the proportion of women being sexually assaulted in the 12 months preceding the survey?
+Warfare and Conflict,0.4285,Culture,0.0575,Political,0.0113,the past 12 months,what was the proportion of men reporting that they had been sexually assaulted in the military workplace in the past 12 months?
+Warfare and Conflict,0.1148,Society,0.0937,Culture,0.0473,,what was the most common type of sexual assault experienced by regular force members?
+Society,0.4686,Culture,0.2734,Political,0.0465,the previous 12 months,how many times is the proportion of indigenous members being sexually assaulted in the previous 12 months than that of non-indigenous members?
+Society,0.6531,Culture,0.2158,Political,0.0466,the previous 12 months,how many times is the proportion of indigenous members being sexually assaulted in the previous 12 months than that of members without disabilities?
+Society,0.6839,Culture,0.2946,Healthcare and Medicine,0.2023,the previous 12 months,how many times is the proportion of members with disabilities being sexually assaulted in the previous 12 months than that of members without disabilities?
+Society,0.5819,Culture,0.099,Political,0.0526,the previous 12 months,how many times is the proportion of members with disabilities being sexually assaulted in the previous 12 months than that of non-indigenous members?
+Society,0.3972,Culture,0.0897,Healthcare and Medicine,0.0276,"the past 12 months, 24 years of age",what is the percentage of those 24 years of age or younger having been sexually assaulted in the past 12 months?
+Society,0.3736,Culture,0.0795,Healthcare and Medicine,0.0075,"the past 12 months, 45 to 49 years of age",what is the percentage of those 45 to 49 years of age having been sexually assaulted in the past 12 months?
+Society,0.3827,Culture,0.0883,Healthcare and Medicine,0.0317,"the past 12 months, 50 years",what is the percentage of those 50 years and older having been sexually assaulted in the past 12 months?
+Sports,0.4372,Business and Economic,0.2031,Science and Technology,0.1591,,which leage division did grainger play in?
+Culture,0.659,Business and Economic,0.5105,Society,0.4806,,88
+Culture,0.6762,Society,0.5113,Business and Economic,0.4929,,52
+Culture,0.6544,Society,0.5578,Art,0.5218,1781.0,1781.0
+Society,0.5855,Culture,0.5062,Warfare and Conflict,0.2894,,junior non-commissioned members or senior non-commissioned members?
+Society,0.4925,Art,0.4791,Culture,0.383,,junior officers or senior non-commissioned members?
+Society,0.4239,Art,0.4131,Warfare and Conflict,0.2745,,junior non-commissioned members or senior officers?
+Art,0.3935,Warfare and Conflict,0.2074,Society,0.1467,,junior officers or senior officers?
+Culture,0.7467,Business and Economic,0.6391,Science and Technology,0.6385,21.1,21.1
+Culture,0.7314,Science and Technology,0.6019,Business and Economic,0.5809,21.6,21.6
+Culture,0.6423,Business and Economic,0.5065,Science and Technology,0.4652,2.851351,2.851351
+Culture,0.6281,Business and Economic,0.4646,Warfare and Conflict,0.4167,2.918919,2.918919
+Culture,0.6482,Business and Economic,0.5096,Science and Technology,0.5073,231.0,231.0
+Culture,0.6409,Business and Economic,0.6139,Science and Technology,0.578,2.0,2.0
+Culture,0.5658,Healthcare and Medicine,0.3435,Science and Technology,0.3346,17.18,17.18
+Culture,0.5963,Warfare and Conflict,0.4559,Business and Economic,0.4555,423.0,423.0
+Culture,0.7002,Science and Technology,0.5569,Business and Economic,0.556,41.6,41.6
+Culture,0.6943,Business and Economic,0.5399,Society,0.5314,65.6,65.6
+Culture,0.7376,Science and Technology,0.5682,Society,0.5632,66.4,66.4
+Culture,0.69,Society,0.5275,Business and Economic,0.5025,0.4,0.4
+Culture,0.6463,Business and Economic,0.5004,Science and Technology,0.4826,49200.0,49200.0
+Culture,0.5989,Business and Economic,0.5033,Warfare and Conflict,0.4277,9150.0,9150.0
+Culture,0.6901,Business and Economic,0.6299,Science and Technology,0.6206,,3
+Science and Technology,0.6456,Culture,0.4491,Business and Economic,0.345,,strømsgodset
+Culture,0.7516,Society,0.6355,Science and Technology,0.5637,1 january 2006,1 january 2006
+Culture,0.6843,Society,0.5939,Science and Technology,0.5525,2008.0,2008.0
+Culture,0.6535,Business and Economic,0.5323,Science and Technology,0.5159,1.5,1.5
+Culture,0.6965,Business and Economic,0.6167,Science and Technology,0.5844,2.08,2.08
+Society,0.2344,Culture,0.1398,Warfare and Conflict,0.1328,first,how much had the hazard ratio risen to for first nations cohort men?
+Society,0.3333,Culture,0.2414,Healthcare and Medicine,0.1722,first,how much had the hazard ratio risen to for first nations cohort women?
+Culture,0.6843,Society,0.5939,Science and Technology,0.5525,2008.0,2008.0
+Society,0.4121,Healthcare and Medicine,0.1305,Education,0.069,,a mental-cognitive disability or a physical-sensory disability?
+Society,0.2468,Healthcare and Medicine,0.1265,Culture,0.0388,,combined disabilities or a physical-sensory disability?
+Society,0.4121,Healthcare and Medicine,0.1305,Education,0.069,,a mental-cognitive disability or a physical-sensory disability?
+Society,0.2468,Healthcare and Medicine,0.1265,Culture,0.0388,,combined disabilities or a physical-sensory disability?
+Society,0.4121,Healthcare and Medicine,0.1305,Education,0.069,,a mental-cognitive disability or a physical-sensory disability?
+Society,0.2468,Healthcare and Medicine,0.1265,Culture,0.0388,,combined disabilities or a physical-sensory disability?
+Culture,0.5171,Society,0.3389,Warfare and Conflict,0.3042,,more severe or mild?
+Sports,0.8691,Culture,0.792,Business and Economic,0.4842,,barcelona
+Culture,0.6209,Business and Economic,0.4902,Warfare and Conflict,0.4409,4267.0,4267.0
+Culture,0.6947,Science and Technology,0.5845,Business and Economic,0.5792,9.0,9.0
+Healthcare and Medicine,0.3213,Culture,0.3155,Media and Entertainment,0.0364,,melbourne heart
+Culture,0.698,Science and Technology,0.5665,Business and Economic,0.555,43.0,43.0
+Culture,0.6858,Business and Economic,0.5477,Science and Technology,0.5194,12013.0,12013.0
+Culture,0.8022,Political,0.6473,Business and Economic,0.371,british columbia,british columbia
+Culture,0.6937,Science and Technology,0.635,Society,0.5857,2001.0,2001.0
+Culture,0.601,Science and Technology,0.5059,Healthcare and Medicine,0.4946,2.4,2.4
+Culture,0.6316,Business and Economic,0.5265,Science and Technology,0.5057,1.7,1.7
+Culture,0.7042,Science and Technology,0.6323,Business and Economic,0.6296,1.1,1.1
+Culture,0.6318,Business and Economic,0.4615,Media and Entertainment,0.4393,,<0.7>\
+Media and Entertainment,0.1443,Culture,0.1441,Business and Economic,0.1433,,<skin>\
+Culture,0.7142,Science and Technology,0.5567,Business and Economic,0.5233,44.9,44.9
+Culture,0.7439,Business and Economic,0.5975,Science and Technology,0.5734,49.5,49.5
+Culture,0.7317,Science and Technology,0.6535,Business and Economic,0.6241,41.3,41.3
+Culture,0.7313,Science and Technology,0.6155,Business and Economic,0.6129,59.1,59.1
+Culture,0.6548,Science and Technology,0.4667,Business and Economic,0.4511,63.9,63.9
+Culture,0.6759,Science and Technology,0.5303,Business and Economic,0.5091,34.0,34.0
+Society,0.0649,Culture,0.0026,Healthcare and Medicine,0.0011,,cosmetic treatments
+Culture,0.7373,Science and Technology,0.6704,Business and Economic,0.6211,26.3,26.3
+Culture,0.7104,Science and Technology,0.5664,Society,0.5321,74.9,74.9
+Culture,0.6859,Science and Technology,0.5717,Business and Economic,0.5599,25.0,25.0
+Culture,0.637,Business and Economic,0.5251,Science and Technology,0.4588,4275.0,4275.0
+Business and Economic,0.6936,Culture,0.3267,Healthcare and Medicine,0.2704,,moderate-growth enterprises or total avervage?
+Business and Economic,0.5334,Society,0.134,Culture,0.1284,,experienced enterprises targeting emerging markets or total avervage?
+Business and Economic,0.6936,Culture,0.3267,Healthcare and Medicine,0.2704,,moderate-growth enterprises or total avervage?
+Business and Economic,0.5334,Society,0.134,Culture,0.1284,,experienced enterprises targeting emerging markets or total avervage?
+Business and Economic,0.6936,Culture,0.3267,Healthcare and Medicine,0.2704,,moderate-growth enterprises or total avervage?
+Business and Economic,0.5334,Society,0.134,Culture,0.1284,,experienced enterprises targeting emerging markets or total avervage?
+Business and Economic,0.6936,Culture,0.3267,Healthcare and Medicine,0.2704,,moderate-growth enterprises or total avervage?
+Business and Economic,0.5334,Society,0.134,Culture,0.1284,,experienced enterprises targeting emerging markets or total avervage?
+Culture,0.5339,Science and Technology,0.3673,Business and Economic,0.3662,,nf_nex
+Culture,0.4111,Business and Economic,0.2954,Healthcare and Medicine,0.2425,"0.441, 0.878",0.878 (0.441
+Business and Economic,0.6389,Society,0.2732,Culture,0.2403,,low-growth enterprises or high-growth enterprises?
+Business and Economic,0.712,Society,0.3406,Culture,0.3311,,low-growth enterprises or moderate-growth enterprises?
+Culture,0.3395,Healthcare and Medicine,0.1617,Business and Economic,0.1598,"1.388, 0.495",1.388 (0.495
+Culture,0.7246,Science and Technology,0.5883,Business and Economic,0.5868,21.09,21.09
+Culture,0.6721,Business and Economic,0.5068,Society,0.4898,2:16.64,2:16.64
+Culture,0.5887,Business and Economic,0.3584,Society,0.3353,30 to 34,30 to 34 or 25 to 29?
+Culture,0.5887,Business and Economic,0.3584,Society,0.3353,30 to 34,30 to 34 or 25 to 29?
+Culture,0.5887,Business and Economic,0.3584,Society,0.3353,30 to 34,30 to 34 or 25 to 29?
+Culture,0.5887,Business and Economic,0.3584,Society,0.3353,30 to 34,30 to 34 or 25 to 29?
+Culture,0.5887,Business and Economic,0.3584,Society,0.3353,30 to 34,30 to 34 or 25 to 29?
+Culture,0.2633,Political,0.1228,Society,0.0601,000,000 women?
+Culture,0.2633,Political,0.1228,Society,0.0601,000,000 women?
+Culture,0.2633,Political,0.1228,Society,0.0601,000,000 women?
+Culture,0.2633,Political,0.1228,Society,0.0601,000,000 women?
+Political,0.508,Culture,0.2589,Business and Economic,0.2404,,quebec or ontario?
+Political,0.508,Culture,0.2589,Business and Economic,0.2404,,quebec or ontario?
+Political,0.508,Culture,0.2589,Business and Economic,0.2404,,quebec or ontario?
+Political,0.508,Culture,0.2589,Business and Economic,0.2404,,quebec or ontario?
+Political,0.6934,Culture,0.6924,Business and Economic,0.2449,british columbia,british columbia or ontario?
+Business and Economic,0.5489,Political,0.4045,Healthcare and Medicine,0.3693,,conference south
+Culture,0.6859,Science and Technology,0.5586,Society,0.5437,64.0,64.0
+Culture,0.5818,Business and Economic,0.4775,Society,0.4075,865.0,865.0
+Sports,0.909,Business and Economic,0.618,Political,0.2515,guangdong hongyuan,which league did jones participate for guangdong hongyuan?
+Culture,0.6902,Society,0.5276,Business and Economic,0.495,139.0,139.0
+Culture,0.6917,Business and Economic,0.4997,Science and Technology,0.4615,578858,578858
+Business and Economic,0.5738,Society,0.5115,Healthcare and Medicine,0.3732,,how many percent was the labor force participation rate among seh doctorate holders for women?
+Business and Economic,0.6083,Society,0.5151,Healthcare and Medicine,0.3257,,how many percent was the labor force participation rate among seh doctorate holders for men?
+Culture,0.1722,Healthcare and Medicine,0.0738,Media and Entertainment,0.0724,,male or female?
+Culture,0.7018,Healthcare and Medicine,0.4183,Media and Entertainment,0.3969,,female
+Culture,0.5796,Business and Economic,0.4612,Warfare and Conflict,0.3979,,6 q
+Sports,0.5554,Business and Economic,0.3241,Political,0.1277,william robertson,which league did william robertson play in side reading?
+Culture,0.7187,Society,0.5514,Business and Economic,0.5496,6:14.60,6:14.60 or
+Healthcare and Medicine,0.433,Business and Economic,0.4019,Sports,0.2764,,premier league
+Culture,0.6856,Society,0.5961,Business and Economic,0.5639,2013-14,2013-14
+Culture,0.7515,Society,0.5116,Education,0.4365,65 years,65 years and older
+Culture,0.583,Warfare and Conflict,0.3094,Healthcare and Medicine,0.287,,male
+Culture,0.6502,Society,0.5217,Business and Economic,0.5181,2009 to 2013,2009 to 2013
+Culture,0.6232,Healthcare and Medicine,0.4291,Media and Entertainment,0.4218,,high
+Culture,0.8577,Science and Technology,0.5768,Healthcare and Medicine,0.4281,ethiopia,ethiopia
+Environmental,0.0446,Religion and Philosophy,0.009,Art,0.005,,refugee
+Political,0.6777,Religion and Philosophy,0.604,Environmental,0.5594,,prairies
+Culture,0.5974,Science and Technology,0.465,Business and Economic,0.4284,123.0,123.0
+Business and Economic,0.5922,Science and Technology,0.2068,Culture,0.1992,,what was the rank of forbes mittal as wealthiest billionaire?
+Political,0.7215,Sports,0.5552,Business and Economic,0.4628,,which league did gary pollard move to peterborough united?
+Culture,0.0595,Political,0.0404,Healthcare and Medicine,0.023,,men or women?
+Culture,0.6141,Society,0.351,Education,0.3194,,75 and over
+Culture,0.6253,Society,0.4334,Business and Economic,0.4247,15 to 19,15 to 19
+Culture,0.665,Business and Economic,0.5065,Science and Technology,0.5002,48.0,48.0
+Culture,0.5849,Business and Economic,0.4213,Science and Technology,0.4106,43.625,43.625
+Culture,0.6859,Business and Economic,0.5238,Science and Technology,0.5105,,6
+Culture,0.6915,Science and Technology,0.5659,Business and Economic,0.5616,41.0,41.0
+Culture,0.6915,Science and Technology,0.5659,Business and Economic,0.5616,41.0,41.0
+Culture,0.6591,Business and Economic,0.5279,Science and Technology,0.4851,2520.0,2520.0
+Culture,0.6839,Science and Technology,0.5138,Society,0.5123,29.0,29.0
+Culture,0.5487,Science and Technology,0.4094,Political,0.3359,saskatchewan,saskatchewan
+Culture,0.5327,Business and Economic,0.3847,Environmental,0.3155,,quebec
+Culture,0.5327,Business and Economic,0.3847,Environmental,0.3155,,quebec
+Sports,0.8602,Business and Economic,0.0986,Warfare and Conflict,0.0884,national league north,national league north
+Culture,0.6515,Business and Economic,0.4849,Society,0.4771,279.0,279.0
+Culture,0.6224,Business and Economic,0.5105,Science and Technology,0.4938,387.0,387.0
+Culture,0.6236,Business and Economic,0.5234,Science and Technology,0.5121,2.6,2.6
+Business and Economic,0.5506,Healthcare and Medicine,0.4495,Society,0.3636,third,third division
+Sports,0.9439,Science and Technology,0.691,Warfare and Conflict,0.644,,how many receptions did bruce have with a team stl?
+Sports,0.9011,Warfare and Conflict,0.1566,Business and Economic,0.0918,,how many yards did bruce have with a team stl?
+Culture,0.2299,Business and Economic,0.1627,Healthcare and Medicine,0.1518,,single or multiple?
+Culture,0.6756,Science and Technology,0.5063,Society,0.5017,98.6,98.6
+Culture,0.7289,Art,0.6418,Society,0.6396,8.8,8.8
+Culture,0.7116,Science and Technology,0.596,Business and Economic,0.5777,69.3,69.3
+Culture,0.7049,Business and Economic,0.6421,Science and Technology,0.6143,85.2,85.2
+Culture,0.6814,Society,0.5344,Business and Economic,0.5245,65.7,65.7
+Culture,0.7086,Science and Technology,0.61,Business and Economic,0.5641,33.3,33.3
+Culture,0.6901,Society,0.5117,Science and Technology,0.503,53.37,53.37
+Culture,0.6779,Science and Technology,0.5572,Business and Economic,0.5534,2.54,2.54
+Culture,0.6865,Science and Technology,0.592,Business and Economic,0.5878,1.25,1.25
+Culture,0.5508,Science and Technology,0.4568,Business and Economic,0.4078,1.3,1.3
+Sports,0.4901,Warfare and Conflict,0.3203,Business and Economic,0.0896,,which league did bicaj play in side flamurtari vlore?
+Business and Economic,0.3007,Society,0.2751,Education,0.2263,,get base tan
+Culture,0.6374,Business and Economic,0.5213,Healthcare and Medicine,0.4947,"fewer than 10, 10 or",fewer than 10 sessions or 10 or more sessions?
+Culture,0.7088,Science and Technology,0.5959,Business and Economic,0.5393,24.9,24.9
+Culture,0.7437,Business and Economic,0.6171,Science and Technology,0.6098,84.5,84.5
+Culture,0.682,Science and Technology,0.5105,Business and Economic,0.489,51.7,51.7
+Culture,0.7357,Business and Economic,0.6467,Science and Technology,0.6363,80.2,80.2
+Culture,0.763,Science and Technology,0.6421,Business and Economic,0.5996,18.4,18.4
+Culture,0.6801,Science and Technology,0.5489,Business and Economic,0.5225,23.8,23.8
+Culture,0.7309,Science and Technology,0.6768,Business and Economic,0.6447,22.3,22.3
+Culture,0.7487,Science and Technology,0.6546,Business and Economic,0.6059,56.3,56.3
+Culture,0.6847,Society,0.5112,Business and Economic,0.4936,69.7,69.7
+Business and Economic,0.4286,Sports,0.3002,Warfare and Conflict,0.1861,one,league one
+Business and Economic,0.54,Healthcare and Medicine,0.5232,Culture,0.4996,2012,how many percent of total expenditures in fy 2012?
+Business and Economic,0.54,Healthcare and Medicine,0.5232,Culture,0.4996,2012,how many percent of total expenditures in fy 2012?
+Business and Economic,0.54,Healthcare and Medicine,0.5232,Culture,0.4996,2012,how many percent of total expenditures in fy 2012?
+Culture,0.7224,Business and Economic,0.5899,Science and Technology,0.5851,76.0,76.0
+Culture,0.6947,Science and Technology,0.5845,Business and Economic,0.5792,9.0,9.0
+Culture,0.6355,Business and Economic,0.5828,Science and Technology,0.5487,1.0,1.0
+Culture,0.7113,Science and Technology,0.5823,Business and Economic,0.5521,34.1,34.1
+Culture,0.7314,Science and Technology,0.6346,Society,0.5997,53.3,53.3
+Culture,0.7528,Science and Technology,0.6979,Business and Economic,0.678,11.3,11.3
+Culture,0.6847,Business and Economic,0.593,Science and Technology,0.5554,8.0,8.0
+Culture,0.6334,Business and Economic,0.4964,Science and Technology,0.4754,27.8,27.8
+Culture,0.6775,Business and Economic,0.5088,Science and Technology,0.4958,46.5,46.5
+Culture,0.6196,Science and Technology,0.4927,Business and Economic,0.4639,192.0,192.0
+Culture,0.6424,Business and Economic,0.4684,Science and Technology,0.4473,101,101
+Culture,0.6114,Business and Economic,0.5145,Warfare and Conflict,0.4572,3282.0,3282.0
+Culture,0.6174,Business and Economic,0.4215,Warfare and Conflict,0.4164,179,179
+Culture,0.6228,Business and Economic,0.5012,Science and Technology,0.4482,4033.0,4033.0
+Culture,0.6053,Business and Economic,0.4779,Science and Technology,0.424,3853.0,3853.0
+Culture,0.6089,Business and Economic,0.4997,Science and Technology,0.4542,3704.0,3704.0
+Culture,0.6749,Society,0.5184,Business and Economic,0.5115,164.0,164.0
+Culture,0.6842,Science and Technology,0.575,Business and Economic,0.5588,32.1,32.1
+Culture,0.731,Science and Technology,0.5967,Business and Economic,0.5778,18.5,18.5
+Business and Economic,0.3688,Sports,0.3231,Political,0.1731,,which league did sarsenov join side kairat?
+Culture,0.6759,Science and Technology,0.5303,Business and Economic,0.5091,34.0,34.0
+Warfare and Conflict,0.5144,Business and Economic,0.425,Sports,0.3191,,which league did sellers join side wealdstone?
+Culture,0.6084,Business and Economic,0.4612,Science and Technology,0.455,216.0,216.0
+Sports,0.9586,Culture,0.2442,Business and Economic,0.1855,2015,which league was sena ralte drafted to play for chennaiyin fc in the 2015?
+Political,0.6217,Art,0.3851,Healthcare and Medicine,0.3579,primera,primera division
+Sports,0.7818,Political,0.7303,Warfare and Conflict,0.3013,"bert gosnell, newcastle",which division did bert gosnell play for newcastle united in?
+Culture,0.7131,Business and Economic,0.5281,Science and Technology,0.4996,27959253.0,27959253.0
+Culture,0.679,Business and Economic,0.5518,Society,0.5386,85.0,85.0
+Culture,0.5978,Business and Economic,0.4776,Science and Technology,0.4551,1153.0,1153.0
+Culture,0.6844,Science and Technology,0.5712,Business and Economic,0.5618,11.0,11.0
+Culture,0.6647,Business and Economic,0.5494,Society,0.5132,162.0,162.0
+Sports,0.8033,Art,0.0226,Culture,0.0221,,how many apperances did adamyan made with 16 goals in regionalliga sudwest matches for steinbach?
+Environmental,0.0004,Culture,0.0003,Food and Beverage,0.0003,,agricultural region 3
+Culture,0.0005,Environmental,0.0003,Food and Beverage,0.0002,,agricultural region 1
+Culture,0.0005,Environmental,0.0003,Food and Beverage,0.0002,,agricultural region 1
+Business and Economic,0.4687,Environmental,0.2445,Culture,0.0349,,compared with all the farms in new brunswick?
+Business and Economic,0.2758,Environmental,0.0717,Political,0.0177,,compared with all the farms in new brunswick.
+Culture,0.6855,Business and Economic,0.623,Science and Technology,0.6162,95.2,95.2
+Culture,0.6916,Business and Economic,0.5218,Society,0.5135,63.5,63.5
+Business and Economic,0.3499,Culture,0.3078,Art,0.1367,,quartile 4 highest household income
+Culture,0.6892,Business and Economic,0.5686,Science and Technology,0.5603,93.5,93.5
+Culture,0.7191,Science and Technology,0.6014,Business and Economic,0.5855,70.2,70.2
+Business and Economic,0.7608,Education,0.6975,Society,0.3686,,what is the percentage change in the median employment income of high school graduates versus non-completers?
+Business and Economic,0.7608,Education,0.6975,Society,0.3686,,what is the percentage change in the median employment income of high school graduates versus non-completers?
+Culture,0.6523,Business and Economic,0.4545,Science and Technology,0.4113,0.284091,0.284091
+Culture,0.6054,Business and Economic,0.4441,Warfare and Conflict,0.4056,0.440945,0.440945
+Culture,0.6398,Business and Economic,0.4592,Warfare and Conflict,0.4555,1735620,1735620
+Culture,0.6123,Business and Economic,0.4309,Warfare and Conflict,0.4225,3468405,3468405
+Culture,0.7782,Science and Technology,0.6519,Business and Economic,0.6376,76.4,76.4
+Culture,0.6963,Science and Technology,0.556,Business and Economic,0.5538,,<1>\
+Culture,0.6535,Society,0.5077,Business and Economic,0.4845,0.588,0.588
+Sports,0.1571,Business and Economic,0.0607,Warfare and Conflict,0.0215,"one, southern league division",southern league division one central
+Culture,0.6759,Business and Economic,0.5379,Science and Technology,0.4775,441036.0,441036.0
+Healthcare and Medicine,0.4609,Culture,0.4563,Business and Economic,0.4135,2017,how many percent of increase from 2017?
+Culture,0.6951,Business and Economic,0.5559,Warfare and Conflict,0.5312,377806.0,377806.0
+Healthcare and Medicine,0.4609,Culture,0.4563,Business and Economic,0.4135,2017,how many percent of increase from 2017?
+Culture,0.5959,Business and Economic,0.4887,Science and Technology,0.4074,63230.0,63230.0
+Culture,0.6823,Business and Economic,0.547,Science and Technology,0.5268,61065.0,61065.0
+Culture,0.4779,Society,0.4193,Business and Economic,0.2982,,how many percent of ce immigrant men is belonged to a visible minority?
+Business and Economic,0.7692,Culture,0.6523,Society,0.5526,"the base year, canada",how many percent of ce immigrant men had high earnings in canada before the base year?
+Culture,0.6131,Society,0.4622,Business and Economic,0.453,0.177,0.177
+Culture,0.559,Society,0.4002,Business and Economic,0.3984,,-0.208
+Culture,0.5583,Business and Economic,0.455,Warfare and Conflict,0.4153,0.072,0.072
+Culture,0.6419,Society,0.4676,Business and Economic,0.461,0.25,0.25
+Society,0.1921,Business and Economic,0.0903,Culture,0.0133,2015,how many people were in poverty in 2015?
+Society,0.1738,Business and Economic,0.0937,Culture,0.0129,2018,how many people were in poverty in 2018?
+Society,0.5944,Business and Economic,0.2791,Culture,0.1427,2015 to 2018,how many numbers of people in poverty have declined from 2015 to 2018?
+Society,0.1921,Business and Economic,0.0903,Culture,0.0133,2015,how many people were in poverty in 2015?
+Society,0.1738,Business and Economic,0.0937,Culture,0.0129,2018,how many people were in poverty in 2018?
+Society,0.5944,Business and Economic,0.2791,Culture,0.1427,2015 to 2018,how many numbers of people in poverty have declined from 2015 to 2018?
+Culture,0.9718,Healthcare and Medicine,0.3377,Society,0.2276,,celtic
+Culture,0.6564,Business and Economic,0.4882,Healthcare and Medicine,0.4657,,7
+Culture,0.7013,Society,0.6292,Science and Technology,0.571,2013.0,2013.0
+Sports,0.9045,Media and Entertainment,0.1452,Culture,0.113,"103, ian taylor",how many games did ian taylor play with 103 goas in league and cup competitions?
+Culture,0.5753,Business and Economic,0.4732,Warfare and Conflict,0.4049,890.0,890.0
+Culture,0.66,Business and Economic,0.5332,Science and Technology,0.4968,505.0,505.0
+Culture,0.6259,Business and Economic,0.4654,Warfare and Conflict,0.4405,435.0,435.0
+Culture,0.5998,Business and Economic,0.4685,Society,0.4638,305.0,305.0
+Culture,0.6838,Science and Technology,0.5074,Business and Economic,0.5032,722494.0,722494.0
+Culture,0.6787,Business and Economic,0.5117,Society,0.5104,77.0,77.0
+Culture,0.5844,Healthcare and Medicine,0.3964,Science and Technology,0.3672,44.45,44.45
+Healthcare and Medicine,0.1924,Society,0.1078,Culture,0.0056,million,what was childhood cancer diagnosed at a rate of new cases per million children per year?
+Culture,0.6333,Business and Economic,0.5135,Science and Technology,0.4744,905.0,905.0
+Culture,0.674,Business and Economic,0.5597,Science and Technology,0.5398,27.5,27.5
+Culture,0.7063,Science and Technology,0.5596,Business and Economic,0.5463,62.6,62.6
+Education,0.8807,Business and Economic,0.6013,Culture,0.5977,25 to 64,what was the increasing rate of individuals aged 25 to 64 with a university degree for all groups combined?
+Culture,0.7092,Science and Technology,0.5248,Business and Economic,0.5121,49.9,49.9
+Culture,0.6713,Science and Technology,0.5131,Business and Economic,0.4974,33.8,33.8
+Culture,0.1722,Healthcare and Medicine,0.0738,Media and Entertainment,0.0724,,male or female?
+Healthcare and Medicine,0.2102,Society,0.2078,Culture,0.1933,nfrs,how many percentage points of nfrs were male?
+Business and Economic,0.5512,Science and Technology,0.4605,Healthcare and Medicine,0.3853,,which broad field had the largest percentage of increasing?
+Culture,0.6733,Business and Economic,0.5328,Science and Technology,0.5209,37.0,37.0
+Culture,0.383,Art,0.1607,Business and Economic,0.1401,,cortulua
+Society,0.4854,Healthcare and Medicine,0.4555,Culture,0.4291,,what was the percentage of females belonged to a visible minority group?
+Society,0.2257,Culture,0.0509,Business and Economic,0.0346,,what was the percentage of the total female population in brampton?
+Society,0.3412,Culture,0.1093,Science and Technology,0.1037,,what was the percentage of females in mississauga?
+Society,0.2588,Culture,0.083,Science and Technology,0.0553,toronto,what was the percentage of females in the city of toronto?
+Society,0.7147,Culture,0.576,Healthcare and Medicine,0.4418,,what was the percentage of its total female population?
+Society,0.4909,Culture,0.4483,Healthcare and Medicine,0.4166,,what was the percentage of all females belonged to a visible minority group?
+Culture,0.7221,Science and Technology,0.6462,Business and Economic,0.6252,20.2,20.2
+Culture,0.7302,Science and Technology,0.6077,Business and Economic,0.588,28.4,28.4
+Culture,0.7194,Science and Technology,0.6002,Business and Economic,0.5759,21.0,21.0
+Business and Economic,0.5498,Society,0.3282,Culture,0.0496,"the week, 2011",what was the percentage of women were unemployed in the week prior to the 2011 census?
+Business and Economic,0.5801,Society,0.5656,Political,0.1144,canadian,what was the unemployment rate for canadian-born visible minority women and men?
+Business and Economic,0.4411,Culture,0.1959,Science and Technology,0.1689,,which visible minority gender was less likely to be unemployed?
+Business and Economic,0.6151,Society,0.5119,Culture,0.3874,,what was the percentage of visible minority women were unemployed?
+Business and Economic,0.6116,Society,0.5333,Culture,0.3396,,what was the percentage of visible minority men were unemployed?
+Culture,0.0984,Political,0.0743,Healthcare and Medicine,0.0374,,women or men?
+Business and Economic,0.4215,Society,0.368,Culture,0.0737,,what was the unemployment rate of visible minority women?
+Business and Economic,0.4601,Society,0.4073,Culture,0.0522,,what was the unemployment rate of visible minority men?
+Business and Economic,0.416,Society,0.3679,Culture,0.0864,,what was the unemployment rate for visible minority women?
+Business and Economic,0.4568,Society,0.4209,Culture,0.0666,,what was the unemployment rate for visible minority men?
+Business and Economic,0.7991,Society,0.5574,Culture,0.369,,what was the unemployment rate for visible minority women higher than women who were not a visible minority?
+Business and Economic,0.7991,Society,0.5574,Culture,0.369,,what was the unemployment rate for visible minority women higher than women who were not a visible minority?
+Business and Economic,0.6544,Society,0.5775,Culture,0.492,,what was the percentage of visible minority women reported working mostly or entirely part time?
+Business and Economic,0.6172,Culture,0.5511,Society,0.5209,,what was the percentage of women who were not a visible minority reported working mostly or entirely part time?
+Culture,0.719,Science and Technology,0.5706,Business and Economic,0.5664,16.8,16.8
+Culture,0.7495,Business and Economic,0.6867,Science and Technology,0.68,15.2,15.2
+Environmental,0.8148,Culture,0.3885,Media and Entertainment,0.2934,monteregie>\,<monteregie>\
+Business and Economic,0.2073,Environmental,0.0155,Political,0.0144,,compared with all farms in the province?
+Business and Economic,0.0915,Environmental,0.0535,Political,0.0114,,compared with farms across quebec?
+Society,0.5262,Business and Economic,0.36,Culture,0.2774,,what was the percentage of visible minority women and girls living in a low-income situation?
+Culture,0.7467,Business and Economic,0.6391,Science and Technology,0.6385,21.1,21.1
+Society,0.5067,Business and Economic,0.3405,Culture,0.2007,,what was the prevalence of low income among women and girls?
+Business and Economic,0.5025,Society,0.4936,Culture,0.1009,,what was the prevalence of low income among men and boys?
+Culture,0.7373,Science and Technology,0.6704,Business and Economic,0.6211,26.3,26.3
+Culture,0.7125,Business and Economic,0.5835,Science and Technology,0.5643,15.8,15.8
+Culture,0.7372,Science and Technology,0.6414,Business and Economic,0.6346,29.2,29.2
+Culture,0.732,Science and Technology,0.5968,Business and Economic,0.5671,18.6,18.6
+Society,0.4782,Business and Economic,0.4716,Culture,0.2113,15 to 24,what was the percentage of immigrant women aged 15 to 24 in a low-income situation?
+Society,0.4596,Business and Economic,0.3489,Culture,0.2467,"canadian, 15 to 24",what was the percentage of canadian-born women aged 15 to 24 in a low-income situation?
+Culture,0.6787,Science and Technology,0.5475,Business and Economic,0.5357,62.0,62.0
+Culture,0.6787,Science and Technology,0.5475,Business and Economic,0.5357,62.0,62.0
+Culture,0.6409,Business and Economic,0.6139,Science and Technology,0.578,2.0,2.0
+Culture,0.6934,Art,0.5536,Business and Economic,0.544,,<6.6>\
+Culture,0.6935,Business and Economic,0.563,Science and Technology,0.5532,12.7,12.7
+Business and Economic,0.2334,Political,0.0069,Environmental,0.0065,,compared with all farm operators in quebec?
+Culture,0.6724,Society,0.5759,Science and Technology,0.5187,2007.0,2007.0
+Business and Economic,0.7445,Political,0.5879,Culture,0.4784,burslem,burslem port vale
+Culture,0.6053,Political,0.4139,Business and Economic,0.3682,5th,5th
+Sports,0.5616,Science and Technology,0.3851,Business and Economic,0.3487,juventus,juventus
+Culture,0.136,Business and Economic,0.0841,Healthcare and Medicine,0.0575,english,english-language workers
+Culture,0.136,Business and Economic,0.0841,Healthcare and Medicine,0.0575,english,english-language workers
+Science and Technology,0.3912,Warfare and Conflict,0.1852,Business and Economic,0.1007,,raith rovers
+Culture,0.8655,Political,0.5314,Business and Economic,0.4925,,montreal - laval
+Culture,0.8439,Environmental,0.5501,Society,0.3649,outaouais,outaouais
+Culture,0.7231,Science and Technology,0.5932,Business and Economic,0.5515,18.0,18.0
+Business and Economic,0.7144,Culture,0.2954,Healthcare and Medicine,0.139,,unincorporated self-employed or incorporated business owners?
+Culture,0.6549,Business and Economic,0.5052,Society,0.5038,95.0,95.0
+Culture,0.6546,Business and Economic,0.5175,Science and Technology,0.4706,116150.0,116150.0
+Culture,0.7129,Science and Technology,0.5822,Society,0.5727,74.0,74.0
+Business and Economic,0.8435,Culture,0.171,Healthcare and Medicine,0.1255,,how many times of each business owner who had employees as many jobs as an unincorporated employer?
+Culture,0.6787,Society,0.5334,Business and Economic,0.5246,65.0,65.0
+Culture,0.6921,Science and Technology,0.5444,Society,0.5302,54.0,54.0
+Culture,0.6613,Science and Technology,0.5363,Business and Economic,0.523,20.0,20.0
+Political,0.665,Science and Technology,0.304,Culture,0.3034,second,where were immigrants from had the second-highest turnout rate?
+Political,0.7277,Science and Technology,0.2996,Culture,0.2861,third,where were immigrants from had the third-highest turnout rate?
+Political,0.8839,Society,0.4948,Culture,0.1779,"west central asia, the middle east",what was the percentage points of the voting rate of immigrants from west central asia and the middle east increased?
+Political,0.8714,Society,0.5632,Culture,0.1488,africa,what was the percentage points of the voting rate of immigrants from africa increased?
+Political,0.8913,Society,0.5272,Culture,0.213,southeast asia,what was the percentage points of the voting rate of immigrants from southeast asia increased?
+Culture,0.6374,Science and Technology,0.4815,Business and Economic,0.4799,112.0,112.0
+Culture,0.6557,Business and Economic,0.5239,Science and Technology,0.4999,4021.0,4021.0
+Culture,0.6886,Society,0.5489,Business and Economic,0.5457,145.0,145.0
+Culture,0.6845,Business and Economic,0.6032,Science and Technology,0.59,116.2,116.2
+Culture,0.69,Society,0.5275,Business and Economic,0.5025,0.4,0.4
+Culture,0.6087,Society,0.467,Business and Economic,0.4555,0.2,0.2
+Culture,0.6355,Society,0.4563,Business and Economic,0.4467,0.6,0.6
+Society,0.2395,Culture,0.0712,Warfare and Conflict,0.0105,"age 15, british columbia",what is the percentage of women in british columbia most often reported experiencing sexual assault since age 15?
+Society,0.0943,Culture,0.0264,Art,0.0056,age 15,what is the percentage of women in alberta most often reported experiencing sexual assault since age 15?
+Culture,0.7285,Science and Technology,0.6269,Business and Economic,0.5915,25.4,25.4
+Culture,0.7024,Science and Technology,0.5885,Business and Economic,0.5632,24.5,24.5
+Culture,0.1091,Society,0.0595,Healthcare and Medicine,0.0218,2018,the prevalence of sexual assault in which province was higher than the provincial average in 2018?
+Society,0.4192,Culture,0.0861,Healthcare and Medicine,0.0157,"2018, british columbia",what is the prevalence of sexual assault in british columbia in 2018?
+Society,0.3125,Culture,0.0268,Healthcare and Medicine,0.0242,2018,what is the prevalence of sexual assault of the provincial average in 2018?
+Culture,0.1309,Society,0.0932,Warfare and Conflict,0.0699,age 15,which gender was more likely to report experiencing physical assault since age 15?
+Society,0.3386,Culture,0.1494,Warfare and Conflict,0.059,age 15,what is the percentage of men at the provincial average being to report experiencing physical assault since age 15?
+Society,0.3294,Culture,0.1677,Warfare and Conflict,0.0413,age 15,what is the percentage of women at the provincial average being to report experiencing physical assault since age 15?
+Society,0.0818,Culture,0.0619,Warfare and Conflict,0.0533,"2018, their age 15",which gender was more likely since their age 15 to have been physically assaulted in 2018?
+Society,0.4306,Culture,0.1195,Warfare and Conflict,0.0578,"age 15, 2018",what is the percentage of men since age 15 report experiencing physical assault in 2018?
+Society,0.4306,Culture,0.1195,Warfare and Conflict,0.0578,"age 15, 2018",what is the percentage of men since age 15 report experiencing physical assault in 2018?
+Society,0.4306,Culture,0.1195,Warfare and Conflict,0.0578,"age 15, 2018",what is the percentage of men since age 15 report experiencing physical assault in 2018?
+Society,0.4306,Culture,0.1195,Warfare and Conflict,0.0578,"age 15, 2018",what is the percentage of men since age 15 report experiencing physical assault in 2018?
+Society,0.1628,Warfare and Conflict,0.0541,Culture,0.0056,"alberta, 2018",what is the percentage of them experienced physical assault in alberta in 2018?
+Society,0.4148,Warfare and Conflict,0.2208,Culture,0.0272,"2018, british columbia",what is the percentage of them experienced physical assault in british columbia in 2018?
+Society,0.3947,Warfare and Conflict,0.1173,Culture,0.029,2018,what is the percentage of them experienced physical assault of the provincial average in 2018?
+Culture,0.674,Business and Economic,0.496,Science and Technology,0.4632,355821.0,355821.0
+Culture,0.8513,Warfare and Conflict,0.3793,Science and Technology,0.3716,san jose-sunnyvale,san jose-sunnyvale-santa clara\
+Society,0.3367,Culture,0.0462,Warfare and Conflict,0.0061,2008/2009,what is the percentage of all drug-related cases completed in adult criminal court resulted in a guilty decision from 2008/2009 to 2011/2012?
+Society,0.3469,Culture,0.0411,Political,0.007,2008/2009,which made up the majority of completed drug-related cases but were less likely to result in a decision of guilt from 2008/2009 to 2011/2012?
+Society,0.2361,Business and Economic,0.0096,Culture,0.0045,2008/2009,what is the percentage of heroin from 2008/2009 to 2011/2012?
+Society,0.2911,Business and Economic,0.2093,Healthcare and Medicine,0.0316,2008/2009,what is the percentage of cocaine from 2008/2009 to 2011/2012?
+Society,0.2911,Business and Economic,0.2093,Healthcare and Medicine,0.0316,2008/2009,what is the percentage of cocaine from 2008/2009 to 2011/2012?
+Culture,0.6625,Business and Economic,0.498,Science and Technology,0.4906,47.0,47.0
+Culture,0.6759,Science and Technology,0.4962,Society,0.493,55.0,55.0
+Culture,0.6817,Business and Economic,0.5412,Science and Technology,0.5243,38.0,38.0
+Business and Economic,0.6236,Healthcare and Medicine,0.4956,Society,0.3365,2008/2009,the most common outcome from 2008/2009 to 2011/2012?
+Business and Economic,0.6236,Healthcare and Medicine,0.4956,Society,0.3365,2008/2009,the most common outcome from 2008/2009 to 2011/2012?
+Business and Economic,0.4811,Healthcare and Medicine,0.3053,Society,0.2977,"2008/2009, second",the second common outcome from 2008/2009 to 2011/2012?
+Business and Economic,0.4811,Healthcare and Medicine,0.3053,Society,0.2977,"2008/2009, second",the second common outcome from 2008/2009 to 2011/2012?
+Society,0.4361,Culture,0.1473,Business and Economic,0.0301,2008/2009,what is the percentage of cannabis supply offences with a guilty decision from 2008/2009 to 2011/2012?
+Society,0.4862,Culture,0.2787,Business and Economic,0.0332,2008/2009,what is the percentage of cannabis possession offences with a guilty decision from 2008/2009 to 2011/2012?
+Society,0.427,Healthcare and Medicine,0.2609,Culture,0.2314,2008/2009,what is the percentage of completed cases involving drugs other for supply with a guilty decision from 2008/2009 to 2011/2012?
+Society,0.4942,Culture,0.241,Healthcare and Medicine,0.1334,2008/2009,what is the percentage of completed cases involving drugs other for possession with a guilty decision from 2008/2009 to 2011/2012?
+Culture,0.6543,Business and Economic,0.4945,Society,0.4835,289.0,289.0
+Culture,0.6745,Business and Economic,0.5617,Science and Technology,0.5199,110800.0,110800.0
+Culture,0.6627,Business and Economic,0.5056,Science and Technology,0.5023,30.9,30.9
+Culture,0.6896,Science and Technology,0.5591,Business and Economic,0.5542,25.8,25.8
+Culture,0.7119,Science and Technology,0.5731,Business and Economic,0.5635,21.7,21.7
+Society,0.0199,Political,0.0179,Warfare and Conflict,0.0085,,how many adults the total of admissions to adult correctional services?
+Society,0.1343,Political,0.0808,Business and Economic,0.0287,,how many adults the total of admissions to provincial/territorial corrections?
+Political,0.0181,Warfare and Conflict,0.0133,Society,0.0133,,how many the total of admissions to federal corrections?
+Society,0.039,Art,0.0152,Political,0.0141,,how much rates the total number of admissions of total correctional services was down compared to the previous year(2017/2018)?
+Culture,0.6859,Business and Economic,0.5238,Science and Technology,0.5105,,6
+Culture,0.6355,Business and Economic,0.5828,Science and Technology,0.5487,1.0,1.0
+Society,0.2617,Political,0.2296,Art,0.1198,,what is the admissions to custody decreased in the provinces and territories?
+Healthcare and Medicine,0.602,Education,0.4492,Society,0.4096,,what is the percentage of admissions to community supervision decreased in the provinces and territories?
+Science and Technology,0.6559,Culture,0.4658,Business and Economic,0.3883,"2017/2018, nova",what is the percentage of nova scotia recording the decrease from 2017/2018 ?
+Culture,0.6522,Science and Technology,0.522,Business and Economic,0.5083,32.0,32.0
+Culture,0.6397,Business and Economic,0.5069,Science and Technology,0.475,50.0,50.0
+Society,0.5214,Education,0.5028,Science and Technology,0.4885,2018/2019,what is the percentage of admissions to custody increased in 2018/2019?
+Healthcare and Medicine,0.7571,Education,0.587,Society,0.5027,2018/2019,what is the percentage of admissions to community supervision decreased in 2018/2019?
+Culture,0.6726,Business and Economic,0.5202,Science and Technology,0.5133,850.0,850.0
+Culture,0.5312,Business and Economic,0.3806,Science and Technology,0.3794,,<1.2>\
+Culture,0.536,Society,0.3807,Science and Technology,0.3117,192.1,(192.1 overs)
+Sports,0.9942,Warfare and Conflict,0.0046,Culture,0.0026,oldham,oldham athletic
+Sports,0.9637,Culture,0.0065,Environmental,0.0059,california,california surf
+Culture,0.6809,Society,0.5289,Science and Technology,0.5211,194.0,194.0
+Culture,0.6847,Business and Economic,0.593,Science and Technology,0.5554,8.0,8.0
+Culture,0.6612,Science and Technology,0.5453,Business and Economic,0.5276,10.0,10.0
