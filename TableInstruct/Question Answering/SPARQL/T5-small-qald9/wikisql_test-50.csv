@@ -1,0 +1,51 @@
+question,sparql
+what is the whole of drawn that has a lost of 4?,select distinct ?uri where [ ?uri dbr:Daily_Daily dbo:Daily_Daily ?uri ]
+what is the rating of the episode with a rating/share of 0.9/4?,select ?value where [ dbr:Episode dbo:rated_or_share ?value ]
+what is the last year that someone is first elected in this table?,select distinct ?uri where [ ?uri dbr:public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_public_
+how many poles had 72 points?,select distinct ?uri where [ ?uri dbo:pole dbo:point ?uri ]
+who are all the moto2 winners when the grand prix was shell advance malaysian grand prix?,select distinct ?uri where [ ?uri dbr:Momoto2_winner dbo:grand_prize dbo:shell_award_malaysian_grand_prize ]
+how many incumbents are there in the georgia 8 district when the party is democratic?,select distinct ?uri where [ ?uri dbr:District dbo:employer ?uri ]
+"what is the largest area (msr) that has an area less than 291.045, is part of the per family, and has a rank higher than 78?",select ?ent where [ ?ent dbo:largest_area ?ent . ?ent dbo:area ?obj . ?ent dbo:par_family  291.045> ] order BY ASC(?obj)limit 5
+"who won women's double in 2002, the year that kenneth vella won men's singles?",select ?obj where [ dbr:Q22929 dbo:winner ?obj . ?obj dbo:winner dbo:winner dbo:winner dbo:winner dbo:winner dbo:winner dbo:winner dbo:winner dbo:winner dbo:winner dbo:Q2 : 'en' ] limit 25
+what's k. j. choi's to par?,select distinct ?sbj where [ ?sbj wdt:total_location wd:Q24848 ]
+who was the winner when the time was 1:24.00?,select distinct ?obj where [ dbr:Q484848 dbo:winner ?obj ]
+which couple had a week 2 score of exactly 23?,select distinct ?sbj where [ ?sbj wdt:week_2_note wd:23 ]
+what is the record when the result was w 52–43?,select ?value where [ dbr:record dbo:record ?value ]
+what's the l3 cache that has a low power part number?,select distinct ?sbj where [ ?sbj wdt:part_number wd:l3_cache . ?sbj rdf:Cache ]
+who won the race on 24 august?,select distinct ?uri where [ ?uri dbr:race dbo:race ?uri ]
+what is the original artist when the vocal percussionist is alexei kalveks?,select distinct ?uri where [ ?uri dbr:original_artiste dbo:voice_percussionist dbo:alexei_kalveks ]
+what is the winning % for the years 2006-11?,select ?obj where [ dbr:2006_2011 dbo:winner ?obj ]
+"what is method, when event is ""reality submission fighting 2""?",select distinct ?uri where [ ?uri dbr:Reality_Suppression_Beding_2 dbo:method ?uri ]
+what was the date of the game that had a loss of lidle (10-8)?,select ?value where [ dbr:Game dbo:loss ?uri ]
+who played mixed doubles when anna keir played women's singles?,select distinct ?uri where [ ?uri dbr:Mixed_Dollar dbo:played_by ?uri ]
+which tone has a standard thai at ปลา?,select distinct ?uri where [ ?uri dbr:Tony dbo:standard_thai_at_ ]
+"name the payload that has a weight of 12,000","select distinct ?sbj where [ ?sbj wdt:payload ?sbj_label . ?sbj rdfs:label ?sbj_label . filter(CONTAINS(lcase(?sbj_label), '12,000')) . filter (lang(?sbj_label) = 'en') ] limit 25"
+which school's round was 24?,select distinct ?uri where [ ?uri dbr:round ?uri ]
+"what is the least for scottish cup with a challenge cup greater than 0, player paul keegan, and league cup greater than 0?",select ?ent where [ ?ent dbo:instance_of dbo:scottish_cup . ?ent dbo:discipline_cup ?obj . ?ent dbo:number_of_matches_in_a_league_cup  0> ] order BY ASC(?obj)limit 5
+what is the only type of university that was founded in 1873?,select distinct ?uri where [ ?uri dbo:name dbo:University ?uri ]
+how many games were there in the 1966 season?,select distinct ?uri where [ ?uri dbo:game_location ?uri ]
+when luz mcclinton is the name what is the season?,select distinct ?sbj where [ ?sbj wdt:season wd:luz_mcclinton . ?sbj rdf:season ]
+who was the original artist for first solo?,select distinct ?obj where [ dbr:first_soon dbo:original_artiste ?obj ]
+what is the lowest grid for roberto rolfo with more than 26 laps?,select ?ent where [ ?ent dbo:Raderto_Rolfo dbo:grid ?ent . ?ent dbo:Rad ?obj ] order BY ASC(?obj)limit 5
+what is the average lap for suzuki gsx-r1000 k7 and at grid 6?,select ?value where [ dbr:suzuki_gsx-r1000_k7 dbo:average_lap ?value ]
+what is the date when the lakers were the home team?,select distinct ?uri where [ ?uri dbr:Lakers dbo:home_team ?uri ]
+when was there a score of 7-1?,select ?value where [ dbr:Statement dbo:point ?value ]
+"who received 6,131 televotes?",select distinct ?uri where [ ?uri dbr:televotes dbo:received ?uri ]
+"how many episodes aired saturday, july 11, 2009",select distinct ?uri where [ ?uri dbo:event ?uri ]
+which episode aired in the usa on 20 may 2005?,select distinct ?uri where [ ?uri dbr:Episode dbo:aired_in_the_Usa ?uri ]
+what was the best finish for 206 on the money list?,select ?obj where [ dbr:206 dbo:best_finish ?obj ] order BY DESC(?obj)limit 5
+name the sum of pick # for round less than 1,"select distinct ?sbj where [ ?sbj wdt:number_of_picks # ?sbj . ?sbj rdf:number_of_picks # ?sbj . ?sbj rdf:number_of_picks # ?sbj_label . filter(STRSTARTS(lcase(?sbj_label), '1')) ] limit 25"
+what engine did the team lotus have after 1965?,select distinct ?uri where [ ?uri dbo:engine dbo:team_lotus ?uri . ?uri dbo:start_time ?uri ]
+opponent of chicago bulls had what location?,select distinct ?uri where [ ?uri dbr:opposite_of dbo:Cast ?uri ]
+what religious groups made up 0.72% of the indian population in 2001?,select ?obj where [ dbr:religious_group dbo:population ?obj . ?obj dbo:population ?obj ]
+on which date was the high assists delonte west earl watson (6)?,select ?value where [ dbr:high_assists dbo:delonte_west_earl_watson . ?value dbo:point_in_time ?value]
+"what is the enrollment for the institution in westfield, massachusetts?",select distinct ?sbj where [ ?sbj wdt:instance_of wd:institution ]
+"what is the studio of the film with a gross rental of $7,500,000?",select distinct ?uri where [ ?uri dbr:studio dbo:film ?uri ]
+what was the outcome of the match played on hard (i) surface?,select distinct ?obj where [ dbr:Q24848 dbo:issue ?obj . ?obj dbo:played_on_hard_(i)_surface ]
+"what is the highest rank of the player who played 30 events and made less than $2,708,005?",select ?ent where [ ?ent dbo:rank ?ent dbo:player ?ent . ?ent dbo:number_of_events ?obj . ?ent dbo:number_of_events                              
+how many games had montreal canadiens as an opponent?,select distinct ?uri where [ ?uri dbr:showcase dbo:opposite ?uri ]
+what is the length of the highway with the route name sh 2?,select distinct ?sbj where [ ?sbj wdt:route wd:sh_2 . ?sbj rdf:road ]
+"can you tell me total number of silver that has the republic of latvian ssr, and the total larger than 6?",ask where [ dbr:Silver dbo:total_number ?to . ?to dbo:total_number ?to . ?to dbo:total_number ?to . ?to dbo:total_number ?to . ?to dbo:republic_of_latvian_ssr ]
+what date did they play the florida panthers?,select distinct ?uri where [ ?uri dbr:Florada_Panthers dbo:played_by ?uri ]
+which college has a player called riley clayton?,select distinct ?uri where [ ?uri dbr:College dbo:player ?uri ]
+what is the most minimal final year that has a north or east end of covington?,select ?ent where [ ?ent dbo:end_year ?ent dbo:north_or_east_end ?ent . ?ent dbo:end_year ?ent dbo:instance_of ?ent ] order BY ASC(?ent dbo:end_year ?ent ] order BY ASC(?ent dbo:Croquois) . order BY A

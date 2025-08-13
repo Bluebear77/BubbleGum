@@ -1,0 +1,51 @@
+question,sparql
+"which one finds the prevalence of immigrant males to be current smokers is lower, the chms or the cchs?",select distinct ?uri where [ ?uri dbr:drug_used_for_treatment dbo:prevalence ?uri ]
+what is the percentage of 2-year-old boys had immunization coverage for tetaunus?,select distinct ?uri where [ ?uri dbr:Tetaunus dbo:vaccine_vaccine ?uri ]
+what percentage did the total amount of donations made in 2004 come from primary donors?,select distinct ?uri where [ ?uri dbr:total_donations_made_in_2004 dbo:from_primary_donner ]
+"in 1941, at age 65, how many years could women expect to live ?",select ?obj where [ dbr:Frauen dbo:date_of_birth ?obj . ?obj dbo:date_of_birth ?obj ]
+what is the percentage of the youth who participated in rj in nova scotia did not have any further contact as youth with rj in nova scotia?,select ?value where [ dbr:Rj_in_nova_scotia dbo:participant ?value ]
+what was the proportion of immigrant women that were young female non-stem degree holders?,select distinct ?uri where [ ?uri dbr:Q22929 dbo:participant ?uri ]
+"similar to previous years, what was the rate of the most common criminal offences committed by youth in 2019 in level 1 assault?",select ?ent where [ ?ent dbo:instance_of dbo:instance_of ?ent . ?ent dbo:instance_of dbo:instance_of_criminal_infraction ?obj ] order BY DESC(?obj)limit 5
+what was the prevalence of disability in yukon?,select distinct ?uri where [ ?uri dbr:Disabilities dbo:prevalence ?uri ]
+what is the initial earnings gap of ce immigrants in 1991 cohort when the sociodemographic control variables are added for model 2?,select ?obj where [ dbr:ce_immigrants dbo:inception_event ?obj . ?obj dbo:inception_event dbo:inception_inception ?obj ] order BY DESC(?obj)limit 5
+how many receiving yards did lamark brown get in 2009?,select ?obj where [ dbr:lamark_brown dbo:received_in 2009 ?obj ] order BY DESC(?obj)limit 5
+"in 2014, what is the benefit rate that witb taxpayers would give for every dollar earned above $3,000?",select ?obj where [ dbr:witb_taxon dbo:benefit_rate ?obj . ?obj dbo:income_rate ?obj ]
+what is the range of annual industry-level variation that granular shocks can explain?,select distinct ?uri where [ ?uri dbr:granular_shocks dbo:variation ?uri ]
+how many appearances did emanuel molina make for atletico tucuman and then moved to the argentine primera division in the 2016 season?,select ?obj where [ dbr:emanuel_mollina dbo:present_in_work ?obj . ?obj dbo:present_in_work dbo:atletico_tucuman ]
+which characteristics of men cohort were slightly underrepresented among all the characteristics?,select distinct ?uri where [ ?uri dbr:type dbo:type dbo:significantly_underrepresented ?uri ]
+how many cdsa violations police reported in 2013?,select distinct ?uri where [ ?uri dbr:Cdsa_Infractions_police dbo:reported ?uri ]
+"in 2012, how many interception yards did chris harris jr. have?",select ?obj where [ dbr:chris_harris_jr. dbo:interception_yard ?obj . ?obj dbo:interception_yard ?obj ] order BY DESC(?obj)limit 5
+"what were the percentages of physical assaults (levels 1, 2, and 3) classified as unfounded in 2016 and 2017 respectively?",select ?value where [ dbr:physical_agression dbo:proportion ?value ]
+what was the median debt-to-asset ratio for families whose major income earner was aged 35 to 44 in 2012?,select ?obj where [ dbr:family dbo:median_debt-to-asset_ratio ?obj . ?obj dbo:major_income_advanced ?obj ] order BY DESC(?obj)limit 5
+"among all degree level, which degree holders did the worse job?",select distinct ?sbj where [ ?sbj wdt:degree_level wd:Q25959 ]
+what was the proportion of homelessness support sector workers that reported studying social and behavioural sciences and law?,select distinct ?uri where [ ?uri dbr:employment_support_sector dbo:proportion ?uri ]
+"among the first nations household population, what was the percentage of the probability of living to age 75 for males in 2011?",select ?obj where [ dbr:first_nations_family_population dbo:proportion_of_the_occurrence_of_living_to_age_75 ?obj ] order BY DESC(?obj)limit 5
+"when educational attainment and income adequacy were taken into account, what was the hazard ratio for dying from avoidable causes for first nations cohort women?",select ?value where [ dbr:first_nations_Cohort_Folk dbo:hazard_Rast ?value]
+what the number of high-school educated by 2010?,select ?obj where [ dbr:high-school dbo:educated_at ?obj . ?obj dbo:inception ?obj ] order BY DESC(?obj)limit 5
+what is the percentage of increases in the csi were also recorded in edmonton in 2015?,select ?obj where [ dbr:Csi dbo:proportion ?obj . ?obj dbo:proportion ?obj ]
+"which type of adults had lower levels of education and income, non-aboriginal or first nations?",select distinct ?uri where [ ?uri dbr:type_of_adults dbo:educated_at ?uri . ?uri dbo:income ?uri ]
+what was the percentage of all businesses in canada reported no change in revenues?,select distinct ?uri where [ ?uri dbr:publication_of_businesses_in_canadian dbo:number_of_revenues ?uri ]
+what the percent of senior caregivers reported that they had received support for their caregiving duties from at least one of the nine sources?,select ?value where [ dbr:Q484848 dbo:reported_from ?value ]
+"in 2008, what was the u.s. total million dollars?",select ?obj where [ dbr:U.S._Total_Million_$ dbo:total_Million_$ ?obj ]
+"on snapshot day, which provinces or territories has the highest proportion of women residents with mental health issues?",select ?ent where [ ?ent dbo:instance_of dbo:province_or_territorial_Province . ?ent dbo:portion_of_residents ?obj ] order BY DESC(?obj)limit 5
+"accounting for inflation, how many percent did total expenditures on policing in canada rise in 2016?",select ?obj where [ dbr:policing_in_canadian dbo:total_expensions_for_policing ?obj ] order BY DESC(?obj)limit 5
+how many percentage point of people in nova scotia used radio?,select distinct ?uri where [ ?uri dbr:Radio dbo:population ?uri ]
+what types of medication were women treated for hypertension less likely to report using than treated men?,select distinct ?uri where [ ?uri dbr:treatment_method dbo:drug_used_for_treatment dbo:risk ?uri ]
+how many times was the victimization rate of people who stated that they used drugs during the month preceding the survey than non-users?,select ?value where [ dbr:Non-User dbo:victimization_rate ?value ]
+"what is the percentage of older boys rated their general health as ""very good"" or ""excellent""?",select distinct ?sbj where [ ?sbj wdt:grade wd:general_health . ?sbj rdf:educated_at wd:very_good_or_excellent_health ]
+what percentage of people of working age (15 to 64 years) reported having a disability?,select ?value where [ dbr:Q22929 dbo:publication_date ?value ]
+what is the percentage of hurricanes risk in prince edward island in 2014?,select ?obj where [ dbr:Boyaren_Edward_Insel dbo:risk ?obj ]
+"over the period, what was the proportion of economic principal applicants who had middle-level earnings ($20,000 to $50,000) in 2018?",select ?obj where [ dbr:economic_principal_recipient dbo:income ?obj ]
+how many percent do dod account of all federal r&d obligations to industrial performers?,select distinct ?obj where [ dbr:industrial_artiste dbo:dodd_count ?obj ]
+how much did parental education now accounted for of the overall gap in 1999?,select ?obj where [ dbr:parent_education dbo:present_in_time ?obj . ?obj dbo:present_in_time ?obj ]
+how many passing yards did warren smith get in 2015?,select ?obj where [ dbr:warren_smith dbo:passing_yard ?obj . ?obj dbo:passing_yard ?obj ] order BY DESC(?obj)limit 5
+"with $4.5 billion reported in 2015/2016, what is the percentage of the rcmp accounted for total police operating expenditures in the country?",select ?obj where [ dbr:Rcmp dbo:total_police_operating_Expeditions ?obj . ?obj dbo:total_police_operating_Expeditions ?obj ] order BY DESC(?obj)limit 5
+what percentage of people of all territories who reported not having used drugs in the month preceding the survey?,select ?obj where [ dbr:Q22929 dbo:population ?obj . ?obj dbo:population dbo:population ?obj ]
+what is the percentage of decedents who were hospitalized in their last year of life received inpatient pc consultation in ontario?,select ?value where [ dbr:decedent dbo:hospitalized_in_last_year_of_life dbo:hospitalized_inpatient_pc_consultation_in_ontario ]
+"using the 10 employee threshold with the 2014 brdis data would increase the u.s. innovation rates for the total of all industries, how many percent for product or process innovations?","select ?value where [ dbr:Q22929 p:innovation_rate ?s . ?s ps:innovation_rate ?x filter(contains(?x,'2014')) . ?s pq:determination_method ?value]"
+"sexual jokes were the most common unwanted sexualized behaviour personally experienced by students in the postsecondary setting, how many percent of women?",select distinct ?uri where [ dbr:Sex_Wiki dbo:personally_experienced_by_students dbo:personally_experienced_by_students ?uri ]
+which club did zlicic play for in 2016-17?,select distinct ?obj where [ dbr:zlicic dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team dbo:start_time ?obj ]
+"what percentages of men and women, respectively, were not secondary school graduates?",select distinct ?uri where [ ?uri dbr:Q22929 dbo:educated_at ?uri ]
+by what percentage would families who did not own their principal residence miss a non-mortgage payment?,select distinct ?uri where [ ?uri dbr:non-mortgage_payment dbo:family ?uri ]
+which club did egzon binaku play for in 2015?,select distinct ?obj where [ dbr:egzon_binaku dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team dbo:start_time ?obj ]
+"in 2013, what is the rate of the nunavut had police-reported drug offence?",select ?obj where [ dbr:Nunavut dbo:rate ?obj . ?obj dbo:political_reported_drug_offence dbo:year_period ]
