@@ -1,51 +1,51 @@
 question,sparql
-how many percentage points did the canada-u.s. difference in wage growth for men employed in manufacturing amount to from 2000 to 2017?,SELECT ?value where { dbr:Q22931 dbo:proportional_point ?proportion ?proportion ?proportion ?proportion ?proportion . ?proportion dbo:manufacturer_dialect ?proportion }
-how many times aboriginal men aged 15 to 24 were more likely than non-aboriginal men to report disabilities?,SELECT ?obj where { dbr:Aboriginal_Men dbo:number_of_Disabilities ?obj . ?obj dbo:number_of_Disabilities ?obj }
-"south asian women and girls were the largest visible minority group in three of these municipalities, what was the percentage of the total female population in brampton?",SELECT ?ent where { ?ent dbo:population ?ent . ?ent dbo:population ?ent . ?ent dbo:population ?ent . ?ent dbo:population ?obj . ?ent dbo:South_Asian_Females ?v1 . ?v1 dbo:population ?obj } ORDER BY DESC(?obj) LIMIT 5
-which club did lokko play for in 2015-16?,SELECT distinct ?obj where { dbr:Lokko dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team ?v1 . ?v1 dbo:start_time ?obj }
-what was the percentage of french-speaking people in quebec in 2011?,SELECT ?obj where { dbr:Québec dbo:population ?obj . ?obj dbo:population ?obj }
-"in other provinces and the provincial average overall, what is the percentage of men since age 15 report experiencing physical assault in 2018?",SELECT ?obj where { dbr:Q22929 dbo:province_average ?obj . ?obj dbo:province_average ?v1 . ?v1 dbo:percentage_of_Mens ?obj }
-"in 2016, how many touchdowns did dan raudabaugh throw for?",SELECT ?obj where { dbr:dan_raudabaugh dbo:trailer ?obj } ORDER BY DESC(?obj) LIMIT 5
-"how many did the rate of police strength in toronto, ontario increase in 2016?",SELECT ?obj where { dbr:toronto_ontario dbo:political_force ?obj . ?obj dbo:political_force ?obj } ORDER BY DESC(?obj) LIMIT 5
-"in 2015, which club did arao sign in serie b?",SELECT distinct ?obj where { dbr:arao_Club dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team dbo:member_of_sports_team }
-what was the percentage of male ecpas aged 25 to 74 were skilled workers?,SELECT ?value where { dbr:male_ecpas dbo:manufacturer ?value }
-"in 2017, how many firearm-related homicides reported in canada?",SELECT ?obj where { dbr:Q484848 dbo:homicide ?obj . ?obj dbo:homicide ?v1 . ?v1 dbo:publication_date ?obj }
-how many goals did goodwin score for stockport county?,SELECT distinct ?obj where { dbr:stockport_county dbo:point_to_point ?obj }
-how many percent was the share of women employed in the 4-year educational institution sector in 2017?,SELECT ?obj where { dbr:4th_educated_institution_sector dbo:participant_of ?obj } ORDER BY DESC(?obj) LIMIT 5
-which age group has the highest rate of property crime rate among males?,SELECT distinct ?uri where { ?uri dbr:age_group ?v1 . ?v1 dbo:rate_of_property_crime_rate ?uri } ORDER BY DESC(?uri ) LIMIT 5
-"how many did the rate of police strength in codiac region, new brunswick increase in 2016?",SELECT ?obj where { dbr:codiac_region dbr:new_bombswick ?v1 . ?v1 dbo:police_rate ?obj } ORDER BY DESC(?obj) LIMIT 5
-what's the percentage of women aged 65 and over reported their daughter as their primary caregiver.,SELECT distinct ?sbj where { ?sbj dbo:parent_career dbr:Q655959 . ?sbj rdf:ethnic_group rdf:Q655959 }
-"given men's greater number of work interruptions, what was the total duration combined amounted to an average of months?",SELECT distinct ?sbj where { ?sbj dbo:total_length_coordinated ?sbj . ?sbj rdf:average_month ?v1 }
-what is percentage of respondents who reported experiencing discomfort or injury?,SELECT distinct ?uri where { ?uri dbr:republic ?v1 . ?v1 dbo:symptoms ?uri }
-how many percent of businesses of the primarily self-employed economic class pas were in services to buildings and dwellings?,SELECT ?value where { dbr:Q22929 dbo:business_of_the_primarily_self-employed_economic_class dbo:services_to_buildings_and_houses }
-how many percent of businesses of the primarily self-employed economic class pas were in retail trade?,SELECT ?obj where { dbr:Q22929 dbo:business_of_the_primarily_self-employed_economic_class ?v1 . ?v1 dbo:business_of_the_public ?obj }
-"broken down by type of drug, what is the percentage of cannabis supply offences with a guilty decision from 2008/2009 to 2011/2012?",SELECT ?value where { dbr:Cannabis_Paint_Offences dbo:participant ?value }
-what is the number of passengers enplaned and deplaned at canadian airports in 2017?,SELECT ?obj where { dbr:canadian_airports dbo:passenger ?obj . ?obj dbo:passenger ?obj } ORDER BY DESC(?obj) LIMIT 5
-what was the percentage change in foreign control during the period before 2000?,SELECT ?value where { dbr:external_control dbo:proportion ?value }
-how many percentage points was the low-income rate for women aged between 65 and 69 years old with transfers?,SELECT ?value where { dbr:Q22929 dbo:low-income_rate ?value }
-"at two times the national quarterly rate (18.6 per 100,000 population), what was the rate in winnipeg reported the rate of police-reported sexual assaults after #metoo?",SELECT ?value where { dbr:Q22931 dbo:reported_from ?value }
-how many professionals who could potentially provide services in french expected in 2011 in paramedics province?,SELECT ?obj where { dbr:French_Services dbo:profession ?obj } ORDER BY DESC(?obj) LIMIT 5
-what was the percentage of admissions of female youth to secure custody in youth correctional services in 2014/2015?,SELECT ?obj where { dbr:French_Jobs_Securing_Havement_In_Jugend_Corporation_Services dbo:participant ?obj }
-"wha is the average amount of lease financing for immigrant-owned firms and for firms with canadian-born owners, respectively?",SELECT ?value where { dbr:immigrant_owned_firm dbo:average_lease_finance ?value }
-"using employment rates as an example, what was the percent of non-aboriginal people in couples were employed in 2015?",SELECT ?obj where { dbr:Non-Aboriginal_People dbo:employment_rate ?obj . ?obj dbo:employment_rate ?obj } ORDER BY DESC(?obj) LIMIT 5
-"among men working full year and full time, what is the percentage change in the median employment income of high school graduates versus non-completers?",SELECT ?value where { dbr:high_school_academics dbo:median_employees_income ?value }
-"in 2016, what was the most common type of sexual assault experienced by regular force members?",SELECT ?obj where { dbr:Royal_force_members dbo:type_of_sexual_agression ?obj } ORDER BY DESC(?obj) LIMIT 5
-"what percentage of girls would participate cultural, educational, or hobby organization?",SELECT distinct ?uri where { ?uri dbr:Meets_participant ?v1 . ?v1 dbo:cultural_organization ?uri }
-which league did towers play for brentford in 1958-59?,SELECT distinct ?obj where { dbr:Bentford dbo:league ?obj }
-"what is the percentage of women aged 85 and over rated their mental health as ""excellent"".",SELECT distinct ?uri where { ?uri dbr:Q22929 ?v1 . ?v1 dbo:proportion ?uri }
-how many percentage points did non-donors were in the highest income quintile for personal income quintiles?,SELECT ?ent where { ?ent dbo:instance_of ?v1 . ?v1 dbo:proportion_point ?ent . ?ent dbo:income_quintile ?ent } ORDER BY DESC(?ent dbo:personal_income_quintile ] ORDER BY DESC(?ent ) LIMIT 5
-what was the multiple relationship between rate of disturbing the peace recorded in rural manitoba and in rural quebec ?,SELECT distinct ?uri where { ?uri dbr:rate_of_stricken_the_peace ?v1 . ?v1 dbo:relation ?uri }
-how many times were aboriginal people more likely to perceive social disorder in their neighbourhood than non-aboriginal people?,SELECT ?value where { dbr:Aboriginal_People dbo:performer ?value }
-"in 2017-18 season, which league did bicaj play in side flamurtari vlore?",SELECT distinct ?obj where { dbr:Bibaj dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team ?v1 . ?v1 dbo:league ?obj }
-how many runs did morris get in the second inning?,SELECT distinct ?uri where { ?uri dbr:Morris ?v1 . ?v1 dbo:run ?uri }
-how many league goals did hristo yanev score for cska sofia?,SELECT distinct ?obj where { dbr:Cska_Sofia dbo:league_to_point ?obj }
-how many percentage points was the low-income rate for women aged between 65 and 69 years old without transfers?,SELECT ?value where { dbr:Q22929 dbo:low-income_rate ?value }
-what are the top three industries among self-employed refugees?,SELECT distinct ?uri where { ?uri dbr:Selbst-employed_Refugees ?v1 . ?v1 dbo:Top-three ?uri }
-what was the percentage of users not followed the exposure schedule?,SELECT distinct ?sbj where { ?sbj dbo:followed_by dbr:exposure_plan }
-how many yards did fuller get in 2015?,SELECT distinct ?obj where { dbr:Fuller dbo:yards_to_be_addressed ?obj . ?obj dbo:points_to_be_addressed ?obj }
-"in the cma of toronto, what was the percentage of females belonged to a visible minority group?",SELECT distinct ?uri where [ ?uri dbr:Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial ? dbo:in ?uri d
-what was the percentage of participants of feeling responsible for the death of canadian or ally personnel?,SELECT distinct ?uri where { ?uri dbr:Sind_Republic ?v1 . ?v1 dbo:participant ?uri }
-what was the percentage of wholesalers exported among immigrant-owned firms?,SELECT distinct ?uri where { ?uri dbr:exports ?v1 . ?v1 dbo:exports ?uri }
-which cma had the largest rate increases?,SELECT distinct ?uri where { ?uri dbr:Cma ?v1 . ?v1 dbo:rate_augmentation ?uri } ORDER BY DESC(?uri ) LIMIT 5
-what was the proportion of women reported receiving financial support?,SELECT distinct ?uri where { ?uri dbr:Financial_Support ?v1 . ?v1 dbo:portion ?uri }
-"what were average total weekly wages adjusted for family size among those that were unattached, lone parents or spouses/partners in single-earner couples?",SELECT ?value where { dbr:Single-earner_Person dbo:average_total_weekly_lohn ?value }
+how many percentage points did the canada-u.s. difference in wage growth for men employed in manufacturing amount to from 2000 to 2017?,SELECT ?value WHERE { dbr:Q22931 dbo:proportional_point ?proportion . ?proportion dbo:manufacturer_dialect ?proportion }
+how many times aboriginal men aged 15 to 24 were more likely than non-aboriginal men to report disabilities?,SELECT ?obj WHERE { dbr:Aboriginal_Men dbo:number_of_Disabilities ?obj . ?obj dbo:number_of_Disabilities ?obj }
+"south asian women and girls were the largest visible minority group in three of these municipalities, what was the percentage of the total female population in brampton?",SELECT ?ent WHERE { ?ent dbo:population ?ent . ?ent dbo:population ?ent . ?ent dbo:population ?ent . ?ent dbo:population ?obj . ?ent dbo:South_Asian_Females ?v1 . ?v1 dbo:population ?obj } ORDER BY DESC(?obj) LIMIT 5
+which club did lokko play for in 2015-16?,SELECT distinct ?obj WHERE { dbr:Lokko dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team ?v1 . ?v1 dbo:start_time ?obj }
+what was the percentage of french-speaking people in quebec in 2011?,SELECT ?obj WHERE { dbr:Québec dbo:population ?obj . ?obj dbo:population ?obj }
+"in other provinces and the provincial average overall, what is the percentage of men since age 15 report experiencing physical assault in 2018?",SELECT ?obj WHERE { dbr:Q22929 dbo:province_average ?obj . ?obj dbo:province_average ?v1 . ?v1 dbo:percentage_of_Mens ?obj }
+"in 2016, how many touchdowns did dan raudabaugh throw for?",SELECT ?obj WHERE { dbr:dan_raudabaugh dbo:trailer ?obj } ORDER BY DESC(?obj) LIMIT 5
+"how many did the rate of police strength in toronto, ontario increase in 2016?",SELECT ?obj WHERE { dbr:toronto_ontario dbo:political_force ?obj . ?obj dbo:political_force ?obj } ORDER BY DESC(?obj) LIMIT 5
+"in 2015, which club did arao sign in serie b?",SELECT distinct ?obj WHERE { dbr:arao_Club dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team dbo:member_of_sports_team }
+what was the percentage of male ecpas aged 25 to 74 were skilled workers?,SELECT ?value WHERE { dbr:male_ecpas dbo:manufacturer ?value }
+"in 2017, how many firearm-related homicides reported in canada?",SELECT ?obj WHERE { dbr:Q484848 dbo:homicide ?obj . ?obj dbo:homicide ?v1 . ?v1 dbo:publication_date ?obj }
+how many goals did goodwin score for stockport county?,SELECT distinct ?obj WHERE { dbr:stockport_county dbo:point_to_point ?obj }
+how many percent was the share of women employed in the 4-year educational institution sector in 2017?,SELECT ?obj WHERE { dbr:4th_educated_institution_sector dbo:participant_of ?obj } ORDER BY DESC(?obj) LIMIT 5
+which age group has the highest rate of property crime rate among males?,SELECT distinct ?uri WHERE { ?uri dbr:age_group ?v1 . ?v1 dbo:rate_of_property_crime_rate ?uri } ORDER BY DESC(?uri ) LIMIT 5
+"how many did the rate of police strength in codiac region, new brunswick increase in 2016?",SELECT ?obj WHERE { dbr:codiac_region dbr:new_bombswick ?v1 . ?v1 dbo:police_rate ?obj } ORDER BY DESC(?obj) LIMIT 5
+what's the percentage of women aged 65 and over reported their daughter as their primary caregiver.,SELECT distinct ?sbj WHERE { ?sbj dbo:parent_career dbr:Q655959 . ?sbj rdf:ethnic_group rdf:Q655959 }
+"given men's greater number of work interruptions, what was the total duration combined amounted to an average of months?",SELECT distinct ?sbj WHERE { ?sbj dbo:total_length_coordinated ?sbj . ?sbj rdf:average_month ?v1 }
+what is percentage of respondents who reported experiencing discomfort or injury?,SELECT distinct ?uri WHERE { ?uri dbr:republic ?v1 . ?v1 dbo:symptoms ?uri }
+how many percent of businesses of the primarily self-employed economic class pas were in services to buildings and dwellings?,SELECT ?value WHERE { dbr:Q22929 dbo:business_of_the_primarily_self-employed_economic_class dbo:services_to_buildings_and_houses }
+how many percent of businesses of the primarily self-employed economic class pas were in retail trade?,SELECT ?obj WHERE { dbr:Q22929 dbo:business_of_the_primarily_self-employed_economic_class ?v1 . ?v1 dbo:business_of_the_public ?obj }
+"broken down by type of drug, what is the percentage of cannabis supply offences with a guilty decision from 2008/2009 to 2011/2012?",SELECT ?value WHERE { dbr:Cannabis_Paint_Offences dbo:participant ?value }
+what is the number of passengers enplaned and deplaned at canadian airports in 2017?,SELECT ?obj WHERE { dbr:canadian_airports dbo:passenger ?obj . ?obj dbo:passenger ?obj } ORDER BY DESC(?obj) LIMIT 5
+what was the percentage change in foreign control during the period before 2000?,SELECT ?value WHERE { dbr:external_control dbo:proportion ?value }
+how many percentage points was the low-income rate for women aged between 65 and 69 years old with transfers?,SELECT ?value WHERE { dbr:Q22929 dbo:low-income_rate ?value }
+"at two times the national quarterly rate (18.6 per 100,000 population), what was the rate in winnipeg reported the rate of police-reported sexual assaults after #metoo?",SELECT ?value WHERE { dbr:Q22931 dbo:reported_from ?value }
+how many professionals who could potentially provide services in french expected in 2011 in paramedics province?,SELECT ?obj WHERE { dbr:French_Services dbo:profession ?obj } ORDER BY DESC(?obj) LIMIT 5
+what was the percentage of admissions of female youth to secure custody in youth correctional services in 2014/2015?,SELECT ?obj WHERE { dbr:French_Jobs_Securing_Havement_In_Jugend_Corporation_Services dbo:participant ?obj }
+"wha is the average amount of lease financing for immigrant-owned firms and for firms with canadian-born owners, respectively?",SELECT ?value WHERE { dbr:immigrant_owned_firm dbo:average_lease_finance ?value }
+"using employment rates as an example, what was the percent of non-aboriginal people in couples were employed in 2015?",SELECT ?obj WHERE { dbr:Non-Aboriginal_People dbo:employment_rate ?obj . ?obj dbo:employment_rate ?obj } ORDER BY DESC(?obj) LIMIT 5
+"among men working full year and full time, what is the percentage change in the median employment income of high school graduates versus non-completers?",SELECT ?value WHERE { dbr:high_school_academics dbo:median_employees_income ?value }
+"in 2016, what was the most common type of sexual assault experienced by regular force members?",SELECT ?obj WHERE { dbr:Royal_force_members dbo:type_of_sexual_agression ?obj } ORDER BY DESC(?obj) LIMIT 5
+"what percentage of girls would participate cultural, educational, or hobby organization?",SELECT distinct ?uri WHERE { ?uri dbr:Meets_participant ?v1 . ?v1 dbo:cultural_organization ?uri }
+which league did towers play for brentford in 1958-59?,SELECT distinct ?obj WHERE { dbr:Bentford dbo:league ?obj }
+"what is the percentage of women aged 85 and over rated their mental health as ""excellent"".",SELECT distinct ?uri WHERE { ?uri dbr:Q22929 ?v1 . ?v1 dbo:proportion ?uri }
+how many percentage points did non-donors were in the highest income quintile for personal income quintiles?,SELECT ?ent WHERE { ?ent dbo:instance_of ?v1 . ?v1 dbo:proportion_point ?ent . ?ent dbo:income_quintile ?ent } ORDER BY DESC(?ent ) LIMIT 5
+what was the multiple relationship between rate of disturbing the peace recorded in rural manitoba and in rural quebec ?,SELECT distinct ?uri WHERE { ?uri dbr:rate_of_stricken_the_peace ?v1 . ?v1 dbo:relation ?uri }
+how many times were aboriginal people more likely to perceive social disorder in their neighbourhood than non-aboriginal people?,SELECT ?value WHERE { dbr:Aboriginal_People dbo:performer ?value }
+"in 2017-18 season, which league did bicaj play in side flamurtari vlore?",SELECT distinct ?obj WHERE { dbr:Bibaj dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team ?v1 . ?v1 dbo:league ?obj }
+how many runs did morris get in the second inning?,SELECT distinct ?uri WHERE { ?uri dbr:Morris ?v1 . ?v1 dbo:run ?uri }
+how many league goals did hristo yanev score for cska sofia?,SELECT distinct ?obj WHERE { dbr:Cska_Sofia dbo:league_to_point ?obj }
+how many percentage points was the low-income rate for women aged between 65 and 69 years old without transfers?,SELECT ?value WHERE { dbr:Q22929 dbo:low-income_rate ?value }
+what are the top three industries among self-employed refugees?,SELECT distinct ?uri WHERE { ?uri dbr:Selbst-employed_Refugees ?v1 . ?v1 dbo:Top-three ?uri }
+what was the percentage of users not followed the exposure schedule?,SELECT distinct ?sbj WHERE { ?sbj dbo:followed_by dbr:exposure_plan }
+how many yards did fuller get in 2015?,SELECT distinct ?obj WHERE { dbr:Fuller dbo:yards_to_be_addressed ?obj . ?obj dbo:points_to_be_addressed ?obj }
+"in the cma of toronto, what was the percentage of females belonged to a visible minority group?",SELECT distinct ?uri WHERE { ?uri dbr:Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial_Memorial ? dbo:in ?uri d }
+what was the percentage of participants of feeling responsible for the death of canadian or ally personnel?,SELECT distinct ?uri WHERE { ?uri dbr:Sind_Republic ?v1 . ?v1 dbo:participant ?uri }
+what was the percentage of wholesalers exported among immigrant-owned firms?,SELECT distinct ?uri WHERE { ?uri dbr:exports ?v1 . ?v1 dbo:exports ?uri }
+which cma had the largest rate increases?,SELECT distinct ?uri WHERE { ?uri dbr:Cma ?v1 . ?v1 dbo:rate_augmentation ?uri } ORDER BY DESC(?uri ) LIMIT 5
+what was the proportion of women reported receiving financial support?,SELECT distinct ?uri WHERE { ?uri dbr:Financial_Support ?v1 . ?v1 dbo:portion ?uri }
+"what were average total weekly wages adjusted for family size among those that were unattached, lone parents or spouses/partners in single-earner couples?",SELECT ?value WHERE { dbr:Single-earner_Person dbo:average_total_weekly_lohn ?value }
