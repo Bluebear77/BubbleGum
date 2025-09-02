@@ -1,0 +1,51 @@
+question,sparql
+"which season was more successful, 2005 or 2007?",SELECT distinct ?uri WHERE { ?uri dbr:2005_2011_Saison ?v1 . ?v1 dbo:received ?uri }
+list a year when she was in at least two films.,SELECT distinct ?uri WHERE { ?uri dbr:film ?v1 . ?v1 dbo:date_of_birth ?uri }
+what was the number of season wins for claus nielsen?,SELECT distinct ?obj WHERE { dbr:claus_nelsen dbo:season_wins ?obj }
+how many singles did becket have in total?,SELECT distinct ?uri WHERE { ?uri dbr:Becket ?v1 . ?v1 dbo:number_of_single ?uri }
+how many grand slam appearances has he made?,SELECT distinct ?uri WHERE { ?uri dbr:grand_slam ?v1 . ?v1 dbo:present_in_work ?uri }
+how many people were murdered in eastern regions in 1944/45?,SELECT ?obj WHERE { dbr:East_Regional dbo:number_of_murders ?obj . ?obj dbo:number_of_murders ?obj . ?obj dbo:number_of_murders ?obj } ORDER BY DESC(?obj) LIMIT 5
+how many olympic games total did melissa morrison-howard place in?,SELECT distinct ?uri WHERE { ?uri dbo:olympic_games ?v1 . ?v1 dbo:place_of_birth ?uri }
+what was the total number of representatives from scotland?,SELECT distinct ?uri WHERE { ?uri dbr:Scotland ?v1 . ?v1 dbo:represents ?uri }
+what is the only track shorter than 2:00?,"SELECT distinct ?sbj WHERE { ?sbj wdt:single ?sbj_label . ?sbj rdf:label ?sbj_label . filter(STRSTARTS(lcase(?sbj_label), '2:00')) . filter (lang(?sbj_label) = 'en') } LIMIT 25"
+how many drivers earned more than 2 points at the 2003 grand prix of monterey?,SELECT ?value WHERE { dbr:2003_grand_prize_of_monterey dbo:points_against ?value }
+what teams did they not win at texas stadium?,SELECT distinct ?uri WHERE { ?uri dbr:Treats_Testroom ?v1 . ?v1 dbo:nominated_for ?uri }
+when was their last major achievement?,SELECT distinct ?uri WHERE { ?uri dbr:final_event ?v1 . ?v1 dbo:significant_event ?uri }
+how many seasons were they champion of hte german cup?,SELECT distinct ?uri WHERE { ?uri dbr:Hte_German_Cup ?v1 . ?v1 dbo:champion ?uri }
+which shooter scored the most 5 pointers?,SELECT distinct ?uri WHERE { ?uri dbo:pointer ?v1 . ?v1 dbo:pointer ?uri } ORDER BY DESC(?uri ) LIMIT 5
+how many countries earned gold medals?,SELECT distinct ?uri WHERE { ?uri dbr:Gold_Medaille ?v1 . ?v1 dbo:award_received ?uri }
+"besides world junior championships 2006, what other competition was held in beijing, china?",SELECT distinct ?uri WHERE { ?uri dbr:World_Junior_Casinos_2006 ?v1 . ?v1 dbo:participant_of ?uri }
+"besides sister, sister, what other show did she star more than 30 times on?",SELECT distinct ?uri WHERE { ?uri dbr:Sibling ?v1 . ?v1 dbo:star ?uri }
+what rank is the smallest route?,SELECT distinct ?uri WHERE { ?uri dbr:Route ?v1 . ?v1 dbo:rank ?uri } ORDER BY ASC(?uri ) LIMIT 5
+"how many times was the outcome listed as ""winner"" after the year 2010?",SELECT ?value WHERE { dbr:Q22931 p:winner ?value }
+list the number of times the rating was above a 4.0.,SELECT distinct ?uri WHERE { ?uri dbr:Rating ?uri . ?uri dbo:point ?uri }
+how many incumbents are up for rel-election?,SELECT (COUNT(?sub) AS ?value ) { ?sub dbr:rel-election dbo: incumbent ?sub }
+how many standard gauge locomotives made for use at the arsenal were built before 1900?,SELECT ?obj WHERE { dbr:Q22931 dbo:type ?obj . ?obj dbo:type dbo:used_at_the_arsenal } ORDER BY DESC(?obj) LIMIT 5
+anne hobbes first win was on which date?,SELECT distinct ?uri WHERE { ?uri dbr:Ann_Hobbes ?v1 . ?v1 dbo:win ?uri }
+were more games played at the ksv roeselare or the excelsior mouscron?,ASK WHERE [ dbr:Ksv_Roeselare dbo:games_played ?obj filter(?obj = 1> 1 2 r
+what is the location of the next festival?,SELECT distinct ?uri WHERE { ?uri dbr:Festival ?v1 . ?v1 dbo:location ?uri }
+"what were the number of routes that had at least 50,000 passengers?",SELECT distinct ?uri WHERE { ?uri dbr:route ?v1 . ?v1 dbo:passenger ?uri }
+how many elements are in the first period?,SELECT distinct ?uri WHERE { ?uri dbr:first_period ?v1 . ?v1 dbo:element ?uri }
+how many of each type of car are there?,SELECT distinct ?uri WHERE { ?uri dbr:type_of_car ?v1 . ?v1 dbo:type ?uri }
+who owns the network with the most number of affiliates?,SELECT distinct ?uri WHERE { ?uri dbr:owned_by ?v1 . ?v1 dbo:Network ?uri } ORDER BY DESC(?uri ) LIMIT 5
+what topic cost the most?,SELECT distinct ?uri WHERE { ?uri dbr:theme ?v1 . ?v1 dbo:cost ?uri } ORDER BY DESC(?uri ) LIMIT 5
+what's the total number of festivals that occurred in october?,SELECT distinct ?uri WHERE { ?uri dbr:Festival ?v1 . ?v1 dbo:date_of_birth ?uri }
+who was the next ambassador to the austrian empire after andrey kirillovich razumovsky?,SELECT distinct ?uri WHERE { ?uri dbr:Award_Replaced ?v1 . ?v1 dbo:ambassador_to_the_Austrian_Empire ?uri . ?uri dbo:followed_by dbo:andrey_kirillovich_razumovsky }
+who was the only player to score 20 goals total?,SELECT distinct ?uri WHERE [ ?uri dbr:Cast dbo:total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total_total ? ?uri WHERE [ dbo:instance
+what is the highest chart position ever achieved by one of dino's singles?,SELECT distinct ?uri WHERE { ?uri dbr:David_Single dbo:highest_Chart Position ?uri } ORDER BY DESC(?uri ) LIMIT 5
+how many times did the time place in 1st?,SELECT distinct ?uri WHERE { ?uri dbr:time_location ?v1 . ?v1 dbo:time_location ?uri }
+who was the only candidate with the hometown of tulsky?,SELECT distinct ?uri WHERE { ?uri dbr:Tulsky ?v1 . ?v1 dbo:country ?uri }
+how many of these vessels are in the netherlands?,SELECT distinct ?uri WHERE { ?uri dbr:Netherlands ?v1 . ?v1 dbo:boat ?uri }
+what is the total number of matches together?,SELECT distinct ?uri WHERE { ?uri dbr:united_match ?v1 . ?v1 dbo:total_number ?uri }
+who has the top 2nd score?,SELECT distinct ?obj WHERE { dbr:Q22931 dbo:top_2nd_note ?obj } ORDER BY DESC(?obj) LIMIT 5
+which period had the same number of deaths as the previous year had?,SELECT distinct ?uri WHERE { ?uri dbr:Date_of_Death ?v1 . ?v1 dbo:number_of_Deaths ?uri }
+george howe and jack howe played for which nation?,SELECT distinct ?obj WHERE { dbr:George_Howe dbo:country ?v1 . ?v1 dbo:country ?obj }
+how many players are from the country of limerick?,SELECT distinct ?uri WHERE { ?uri dbr:country ?v1 . ?v1 dbo:country ?uri }
+how many medals did the usa win in the finals?,SELECT distinct ?uri WHERE { ?uri dbr:Usa ?v1 . ?v1 dbo:award_received ?uri }
+which ship launched after the ajax?,SELECT distinct ?uri WHERE { ?uri dbr:Ajax ?v1 . ?v1 dbo:launched_after ?uri }
+can you find the first date on the top of the list?,SELECT distinct ?obj WHERE { dbr:Q22931 dbo:date_of_birth ?obj }
+what is the difference in points scored between norway and sweden?,SELECT distinct ?uri WHERE { ?uri dbr:Norway_-Sweden ?v1 . ?v1 dbo:points_scored ?uri }
+give the number of sites listed in the table?,SELECT distinct ?uri WHERE { ?uri dbr:site ?v1 . ?v1 dbo:list_of_sites ?uri }
+how long was the longest flight located in france.,SELECT distinct ?uri WHERE { ?uri dbr:Flight ?v1 . ?v1 dbo:location ?uri } ORDER BY DESC(?uri ) LIMIT 5
+where was the match on 17 september 2005 played?,SELECT distinct ?obj WHERE { dbr:June_Meet_June_Meet_June_Meet_June_Meet_June_Meet_June_Meet_June_Meet_June_Meet_June_Meet_2005 }
+which athlete had the largest number of final points?,SELECT ?ent WHERE { ?ent dbo:athlete ?v1 . ?v1 dbo:number_of_final_points ?ent . ?ent dbo:number_of_final_points ?ent } ORDER BY DESC(?ent ) LIMIT 5
