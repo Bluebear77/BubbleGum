@@ -1,51 +1,51 @@
 question,sparql
-What was the event KOTC: Rock Solid?,SELECT distinct ?uri WHERE { ?uri dbr:Kot_Rock_Standard ?v1 . ?v1 dbo:event ?uri }
-When was Parkash Singh Badal the Chief Minister of Punjab state?,SELECT distinct ?uri WHERE { dbr:Parkash_Santas dbo:head_minister_of_Japan_state ?v1 . ?v1 dbo:date ?uri }
-When did Manley stay in Brentford and what did he contribute?,SELECT ?value WHERE { dbr:manley p:location ?value }
-Did Eileen Heckart win any award in 1970s?,ASK WHERE { dbr:Eileen_Horstart dbo:award_received ?obj . ?obj dbo:award_received ?v1 . ?v1 dbo:point_in_time ?x }
-What was James' personal best record set at the 2010 CARIFTA Games?,SELECT distinct ?obj WHERE { dbr:James_Royal dbo:personal_record ?obj . ?obj dbo:set_at_the_2010_CARIFTA_Games ?v1 }
-What roles did Carl Au play in 2010-2011?,SELECT ?obj WHERE { dbr:carl_au dbo:role ?obj . ?obj dbo:role ?obj }
-Which deanery and parish does the Dolm chuch in Trøndelag belong to?,SELECT distinct ?uri WHERE { ?uri dbr:Dolm_Chuch dbo:located_in_the_administrative_territorial_entity dbo:Daily_Chuch ?uri }
-How did Imre Szabics do in the Euro 2004 qualifying?,SELECT distinct ?obj WHERE { dbr:imre_szabics dbo:Q23131 ?obj }
-What movies did Peter Hughes act between 1970 to 1987?,SELECT distinct ?sbj WHERE { ?sbj wdt:film wd:peter_hugh . ?sbj rdf:start_time ?sbj_label }
-What role did Paul Sun-Hyung Lee play the most?,SELECT distinct ?uri WHERE { ?uri dbr:Paul_Sun-Hyung_Lee ?v1 . ?v1 dbo:played_by ?uri }
-Which subway lines are interchangeable at Leopoldplatz station?,SELECT distinct ?sbj WHERE { ?sbj wdt:interaction wd:leopoldplatz_station }
-Who won the 1986 Colorado gubernatorial election and what percent of the vote did they get?,SELECT ?obj WHERE { dbr:Q22929 dbo:award_received ?obj . ?obj dbo:award_received dbo:Gubernatorial_Election } ORDER BY DESC(?obj) LIMIT 5
-"What year was Pale Waves' music video for ""Television Romance"" released and who directed it?",SELECT ?value WHERE { dbr:Television_Romance dbo:music_video ?value }
-When did Maryland show the best result?,SELECT distinct ?uri WHERE { ?uri dbr:Madrid ?v1 . ?v1 dbo:best_Result ?uri } ORDER BY DESC(?uri ) LIMIT 5
-What were the results of the race between Andrew Koenig and William Pinkston?,SELECT distinct ?uri WHERE { ?uri dbr:race dbo:District_Koenig . ?uri dbo:replaced_by ?uri }
-In what films did Pierre Tornade voice Vitalstatistix?,SELECT distinct ?uri WHERE { ?uri dbr:Vitalstatistix ?v1 . ?v1 dbo:voice ?uri }
-What teams and leagues did Engelland play for in 2003-04?,SELECT distinct ?obj WHERE { dbr:Engelland dbo:team_or_league ?obj . ?obj dbo:member_of_sports_team dbo:member_of_sports_team }
-What roles did Jenn Proske appear in 2009 and where?,SELECT ?obj WHERE { dbr:Jenn_Proske dbo:position_presented ?obj . ?obj dbo:position_presented ?obj }
-How many points did Hans Van Alphen earn at his first TNT - Fortuna Meeting and where did the competition take place?,SELECT ?obj WHERE { dbr:hans_van_alphen dbo:point ?obj . ?obj dbo:award_received dbo:TNT-Fortuna_Reunion } ORDER BY DESC(?obj) LIMIT 5
-Did Nate Thompson change any teams during the 2012–13 NHL season?,ASK WHERE { dbr:Nate_Turkey dbo:team_replaced ?obj . ?obj dbo:team_replaced ?v1 . ?v1 dbo:start_time ?obj }
-"What singles did Baby D release in 1995 and 1996, and which album were they from?",SELECT ?obj WHERE { dbo:Baby_D dbo:discoverer_or_inventor ?obj . ?obj dbo:discoverer_or_inventor ?obj }
-What were the success results of Ugi Khishignyam and Odie Delaney in 2013?,SELECT ?obj WHERE { dbr:Ugi_Chishignyam dbo:relative ?obj . ?obj dbo:relative ?obj }
-During which season and for what league did Jesper Grønkjær play the most games for Copenhagen?,SELECT ?ent WHERE { ?ent dbo:season_season_and_league_played ?ent . ?ent dbo:season_season_and_league_played ?ent . ?ent dbo:season_season_and_league_played ?ent } ORDER BY DESC(?ent dbo:Copenhagen_Games) ] ORDER BY DESC(?ent dbo:Sea_label) WHERE [ dbo
-"How long did Eddie Olczyk's NHL career last, and what was his final overall record like?",SELECT ?value WHERE { dbr:eddie_olczyk dbo:end_time ?value }
-When did Muse get nominated for or win the Best British Band award?,SELECT ?value WHERE { dbr:Muse p:nominated_for ?value }
-Who were the last two finishers in the 2000 Summer Olympics Mens 100 metre freestyle?,SELECT distinct ?uri WHERE { ?uri dbr:2000_summer_olympics_mens_100_metre_freestyle ?v1 . ?v1 dbo:finalist ?uri }
-Where and in which competition did Yvonne Murray earn her first medal representing Scotland?,SELECT distinct ?obj WHERE { dbr:Yvonne_Murray dbo:award_received ?obj . ?obj dbo:award_received dbo:First_Medite }
-Who won the Deganaga seat in 1951 and 1957?,SELECT ?obj WHERE { dbr:Deganaga dbo:place_of_birth ?obj . ?obj dbo:place_of_birth ?obj }
-"Who were the top two contenders in the 2012 United States House of Representatives elections in Washington for District 10 and what percentage of the vote did they win, respectively?",SELECT ?obj WHERE { dbr:2012_united_states_house_of_representatives_elections_in_Washington_for_District_10 dbo:Top_Patient ?obj } ORDER BY DESC(?obj) LIMIT 5
-Which 1998 South Korean film did Lee Jeong-hyang direct and who starred in it?,SELECT distinct ?sbj WHERE { ?sbj wdt:director wd:lee_jeong-hyang . ?sbj wdt:instance_of wd:South_Corean_film }
-What is the GT model of the Ford Mustang since 1999?,SELECT distinct ?uri WHERE { ?uri dbr:Force_Cuper ?v1 . ?v1 dbo:type ?uri }
-What roles and movies did Adam Garcia star in during 2000?,SELECT distinct ?uri WHERE { ?uri dbr:Adam_Garca ?v1 . ?v1 dbo:starring_in_the_2000_Film ?uri }
-Name three movies that Holden took part in 2005 to 2007,SELECT distinct ?sbj WHERE { ?sbj wdt:participant wd:Holden . ?sbj rdf:participant ?v1 . ?v1 dbo:participant rdf:20052007> }
-What were Ella Rae Peck's first two roles?,SELECT distinct ?uri WHERE { ?uri dbr:Ella_Rae_Peck ?v1 . ?v1 dbo:first_role ?uri }
-How tall were the tallest buildings in Ahmedabad?,SELECT distinct ?uri WHERE { ?uri dbr:Ahmadabad ?v1 . ?v1 dbo:highest_building ?uri } ORDER BY DESC(?uri ) LIMIT 5
-What was Fabrizio Donato's success at the 2012 Olympics?,SELECT distinct ?obj WHERE { dbr:Fabrizio_Donato dbo:award_received ?obj . ?obj dbo:award_received dbo:2012_Olympics }
-What is the award and nomination for Salvation RMX at the Gwinnett Center International Film Festival.?,SELECT distinct ?sbj WHERE { ?sbj wdt:nominated_for wd:Salvation_RMX . ?sbj wdt:instance_of wd:Q22929 }
-Who is Sidney Williams?,SELECT distinct ?uri WHERE { ?uri dbr:Sidney_Wilson ?v1 . ?v1 dbo:author ?uri }
-"Who appeared in Dos lunas, Camelia la Texana, and as Ernesto Gamboa in El Señor de los Cielos in 2014?",SELECT ?obj WHERE { dbr:Dos_luniis dbo:participant ?obj . ?obj dbo:participant ?v1 . ?v1 dbo:participant dbo:Camelia_la_Texana }
-Did Josh Ostrander appear frequently on the US Alt. Chart?,ASK WHERE { dbr:Joseph_Ostrander dbo:present_in_work ?obj . dbo:present_in_work dbo:American_Alt ?v1 . _Chart }
-Who is the first president and how long was he/she in the position?,SELECT distinct ?obj WHERE { dbr:Q484848 dbo:position_held ?obj }
-"Has Melissa De Sousa reprised any roles, and if so, what roles?",ASK WHERE { dbr:Meloy_De_Sousa dbo:role ?obj filter(?obj = 3) }
-Which films did Cameron appear in during 1994-1995?,SELECT distinct ?uri WHERE { ?uri dbr:Crark ?v1 . ?v1 dbo:film ?uri }
-What team and league was Jack adams in for seasons 1916-1918?,SELECT distinct ?obj WHERE { dbr:Jack_Adams dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team ?v1 . ?v1 dbo:member_of_sports_team ?obj }
-"According to the Census of India, how many houses were in Jatike, what was the total population and how many makes and females were in that total population?",SELECT ?obj WHERE { dbr:Cresus_of_India dbo:houses_in_Jatike ?obj . ?obj dbo:population ?obj }
-Which animated characters were designed by Glen Keane in 1989 and 1990?,SELECT distinct ?uri WHERE { ?uri dbo:animated_characters ?v1 . ?v1 dbo:designed_by ?uri . ?uri dbo:designed_by dbo:Daily_Kane }
-How did Barry Mynter's performance as head coach for Canisius Golden Griffins (Metro Atlantic Athletic Conference) change over time?,SELECT ?value WHERE { dbr:Barry_Mynter p:head_coach ?value }
-Who did Sócrates play for in 1984-85?,SELECT distinct ?obj WHERE { dbr:Sócrates dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team ?v1 . ?v1 dbo:start_time ?obj }
-What films was Molly Ringwald in between 1992 and 1994?,SELECT distinct ?uri WHERE { ?uri dbo:film ?v1 . ?v1 dbo:film ?uri . ?uri dbo:film ?uri }
-Did Catherine Taber appear in any films for The Humane Society?,ASK WHERE { dbr:Catherine_Taker dbo:film ?v1 . ?v1 dbo:film ?obj }
+What was the event KOTC: Rock Solid?,SELECT distinct ?uri where { ?uri dbr:Kot_Rock_Standard ?v1 . ?v1 dbo:event ?uri }
+When was Parkash Singh Badal the Chief Minister of Punjab state?,SELECT distinct ?uri where { dbr:Parkash_Santas dbo:head_minister_of_Japan_state ?v1 . ?v1 dbo:date ?uri }
+When did Manley stay in Brentford and what did he contribute?,SELECT ?value where { dbr:manley dbo:location ?value }
+Did Eileen Heckart win any award in 1970s?,ASK where { dbr:Eileen_Horstart dbo:award_received ?obj . ?obj dbo:award_received ?v1 . ?v1 dbo:point_in_time ?x }
+What was James' personal best record set at the 2010 CARIFTA Games?,SELECT distinct ?obj where { dbr:James_Royal dbo:personal_record ?obj . ?obj dbo:set_at_the_2010_CARIFTA_Games ?v1 }
+What roles did Carl Au play in 2010-2011?,SELECT ?obj where { dbr:carl_au dbo:role ?obj . ?obj dbo:role ?obj }
+Which deanery and parish does the Dolm chuch in Trøndelag belong to?,SELECT distinct ?uri where { ?uri dbr:Dolm_Chuch dbo:located_in_the_administrative_territorial_entity dbo:Daily_Chuch ?uri }
+How did Imre Szabics do in the Euro 2004 qualifying?,SELECT distinct ?obj where { dbr:imre_szabics dbo:Q23131 ?obj }
+What movies did Peter Hughes act between 1970 to 1987?,SELECT distinct ?sbj where { ?sbj dbo:film dbr:peter_hugh . ?sbj rdf:start_time ?sbj_label }
+What role did Paul Sun-Hyung Lee play the most?,SELECT distinct ?uri where { ?uri dbr:Paul_Sun-Hyung_Lee ?v1 . ?v1 dbo:played_by ?uri }
+Which subway lines are interchangeable at Leopoldplatz station?,SELECT distinct ?sbj where { ?sbj dbo:interaction dbr:leopoldplatz_station }
+Who won the 1986 Colorado gubernatorial election and what percent of the vote did they get?,SELECT ?obj where { dbr:Q22929 dbo:award_received ?obj . ?obj dbo:award_received dbo:Gubernatorial_Election } ORDER BY DESC(?obj) LIMIT 5
+"What year was Pale Waves' music video for ""Television Romance"" released and who directed it?",SELECT ?value where { dbr:Television_Romance dbo:music_video ?value }
+When did Maryland show the best result?,SELECT distinct ?uri where { ?uri dbr:Madrid ?v1 . ?v1 dbo:best_Result ?uri } ORDER BY DESC(?uri ) LIMIT 5
+What were the results of the race between Andrew Koenig and William Pinkston?,SELECT distinct ?uri where { ?uri dbr:race dbo:District_Koenig . ?uri dbo:replaced_by ?uri }
+In what films did Pierre Tornade voice Vitalstatistix?,SELECT distinct ?uri where { ?uri dbr:Vitalstatistix ?v1 . ?v1 dbo:voice ?uri }
+What teams and leagues did Engelland play for in 2003-04?,SELECT distinct ?obj where { dbr:Engelland dbo:team_or_league ?obj . ?obj dbo:member_of_sports_team dbo:member_of_sports_team }
+What roles did Jenn Proske appear in 2009 and where?,SELECT ?obj where { dbr:Jenn_Proske dbo:position_presented ?obj . ?obj dbo:position_presented ?obj }
+How many points did Hans Van Alphen earn at his first TNT - Fortuna Meeting and where did the competition take place?,SELECT ?obj where { dbr:hans_van_alphen dbo:point ?obj . ?obj dbo:award_received dbo:TNT-Fortuna_Reunion } ORDER BY DESC(?obj) LIMIT 5
+Did Nate Thompson change any teams during the 2012–13 NHL season?,ASK where { dbr:Nate_Turkey dbo:team_replaced ?obj . ?obj dbo:team_replaced ?v1 . ?v1 dbo:start_time ?obj }
+"What singles did Baby D release in 1995 and 1996, and which album were they from?",SELECT ?obj where { dbo:Baby_D dbo:discoverer_or_inventor ?obj . ?obj dbo:discoverer_or_inventor ?obj }
+What were the success results of Ugi Khishignyam and Odie Delaney in 2013?,SELECT ?obj where { dbr:Ugi_Chishignyam dbo:relative ?obj . ?obj dbo:relative ?obj }
+During which season and for what league did Jesper Grønkjær play the most games for Copenhagen?,SELECT ?ent where { ?ent dbo:season_season_and_league_played ?ent . ?ent dbo:season_season_and_league_played ?ent . ?ent dbo:season_season_and_league_played ?ent } ORDER BY DESC(?ent dbo:Copenhagen_Games) ] ORDER BY DESC(?ent dbo:Sea_label) where [ dbo
+"How long did Eddie Olczyk's NHL career last, and what was his final overall record like?",SELECT ?value where { dbr:eddie_olczyk dbo:end_time ?value }
+When did Muse get nominated for or win the Best British Band award?,SELECT ?value where { dbr:Muse dbo:nominated_for ?value }
+Who were the last two finishers in the 2000 Summer Olympics Mens 100 metre freestyle?,SELECT distinct ?uri where { ?uri dbr:2000_summer_olympics_mens_100_metre_freestyle ?v1 . ?v1 dbo:finalist ?uri }
+Where and in which competition did Yvonne Murray earn her first medal representing Scotland?,SELECT distinct ?obj where { dbr:Yvonne_Murray dbo:award_received ?obj . ?obj dbo:award_received dbo:First_Medite }
+Who won the Deganaga seat in 1951 and 1957?,SELECT ?obj where { dbr:Deganaga dbo:place_of_birth ?obj . ?obj dbo:place_of_birth ?obj }
+"Who were the top two contenders in the 2012 United States House of Representatives elections in Washington for District 10 and what percentage of the vote did they win, respectively?",SELECT ?obj where { dbr:2012_united_states_house_of_representatives_elections_in_Washington_for_District_10 dbo:Top_Patient ?obj } ORDER BY DESC(?obj) LIMIT 5
+Which 1998 South Korean film did Lee Jeong-hyang direct and who starred in it?,SELECT distinct ?sbj where { ?sbj dbo:director dbr:lee_jeong-hyang . ?sbj dbo:instance_of dbr:South_Corean_film }
+What is the GT model of the Ford Mustang since 1999?,SELECT distinct ?uri where { ?uri dbr:Force_Cuper ?v1 . ?v1 dbo:type ?uri }
+What roles and movies did Adam Garcia star in during 2000?,SELECT distinct ?uri where { ?uri dbr:Adam_Garca ?v1 . ?v1 dbo:starring_in_the_2000_Film ?uri }
+Name three movies that Holden took part in 2005 to 2007,SELECT distinct ?sbj where { ?sbj dbo:participant dbr:Holden . ?sbj rdf:participant ?v1 . ?v1 dbo:participant rdf:20052007 }
+What were Ella Rae Peck's first two roles?,SELECT distinct ?uri where { ?uri dbr:Ella_Rae_Peck ?v1 . ?v1 dbo:first_role ?uri }
+How tall were the tallest buildings in Ahmedabad?,SELECT distinct ?uri where { ?uri dbr:Ahmadabad ?v1 . ?v1 dbo:highest_building ?uri } ORDER BY DESC(?uri ) LIMIT 5
+What was Fabrizio Donato's success at the 2012 Olympics?,SELECT distinct ?obj where { dbr:Fabrizio_Donato dbo:award_received ?obj . ?obj dbo:award_received dbo:2012_Olympics }
+What is the award and nomination for Salvation RMX at the Gwinnett Center International Film Festival.?,SELECT distinct ?sbj where { ?sbj dbo:nominated_for dbr:Salvation_RMX . ?sbj dbo:instance_of dbr:Q22929 }
+Who is Sidney Williams?,SELECT distinct ?uri where { ?uri dbr:Sidney_Wilson ?v1 . ?v1 dbo:author ?uri }
+"Who appeared in Dos lunas, Camelia la Texana, and as Ernesto Gamboa in El Señor de los Cielos in 2014?",SELECT ?obj where { dbr:Dos_luniis dbo:participant ?obj . ?obj dbo:participant ?v1 . ?v1 dbo:participant dbo:Camelia_la_Texana }
+Did Josh Ostrander appear frequently on the US Alt. Chart?,ASK where { dbr:Joseph_Ostrander dbo:present_in_work ?obj . dbo:present_in_work dbo:American_Alt ?v1 }
+Who is the first president and how long was he/she in the position?,SELECT distinct ?obj where { dbr:Q484848 dbo:position_held ?obj }
+"Has Melissa De Sousa reprised any roles, and if so, what roles?",ASK where { dbr:Meloy_De_Sousa dbo:role ?obj filter(?obj = 3) }
+Which films did Cameron appear in during 1994-1995?,SELECT distinct ?uri where { ?uri dbr:Crark ?v1 . ?v1 dbo:film ?uri }
+What team and league was Jack adams in for seasons 1916-1918?,SELECT distinct ?obj where { dbr:Jack_Adams dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team ?v1 . ?v1 dbo:member_of_sports_team ?obj }
+"According to the Census of India, how many houses were in Jatike, what was the total population and how many makes and females were in that total population?",SELECT ?obj where { dbr:Cresus_of_India dbo:houses_in_Jatike ?obj . ?obj dbo:population ?obj }
+Which animated characters were designed by Glen Keane in 1989 and 1990?,SELECT distinct ?uri where { ?uri dbo:animated_characters ?v1 . ?v1 dbo:designed_by ?uri . ?uri dbo:designed_by dbo:Daily_Kane }
+How did Barry Mynter's performance as head coach for Canisius Golden Griffins (Metro Atlantic Athletic Conference) change over time?,SELECT ?value where { dbr:Barry_Mynter dbo:head_coach ?value }
+Who did Sócrates play for in 1984-85?,SELECT distinct ?obj where { dbr:Sócrates dbo:member_of_sports_team ?obj . ?obj dbo:member_of_sports_team ?v1 . ?v1 dbo:start_time ?obj }
+What films was Molly Ringwald in between 1992 and 1994?,SELECT distinct ?uri where { ?uri dbo:film ?v1 . ?v1 dbo:film ?uri . ?uri dbo:film ?uri }
+Did Catherine Taber appear in any films for The Humane Society?,ASK where { dbr:Catherine_Taker dbo:film ?v1 . ?v1 dbo:film ?obj }

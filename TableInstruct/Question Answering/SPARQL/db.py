@@ -16,7 +16,9 @@ For each row:
 Output:
 - A new folder `DB-T5-small-qald9` with exactly the same filenames as the input.
 - Each output CSV will contain two additional columns: `obj_values` and `error`.
-- At the end, the script prints summary percentages for non-empty results, empty results, and errors.
+- A Markdown file `summary.md` will be created containing:
+  * Summary counts/percentages.
+  * A Markdown table of distinct error messages (one row per unique error).
 """
 
 import json
@@ -33,6 +35,7 @@ from tqdm import tqdm
 # ---------------- CONFIGURATION ----------------
 INPUT_DIR   = Path("post-T5-small-qald9")  # Input folder: contains repaired CSVs
 OUTPUT_DIR  = Path("DB-T5-small-qald9")    # Output folder: results will be saved here
+SUMMARY_FILE = Path("summary.md")          # File where summary + error table will be written
 SPARQL_COL  = "sparql"                     # Column containing SPARQL queries
 ENDPOINT    = "https://dbpedia.org/sparql" # DBpedia SPARQL endpoint
 TIMEOUT_SEC = 25                           # Per-request timeout (seconds)
@@ -116,12 +119,13 @@ def run_sparql(session: requests.Session, query: str):
 
     return unique_vals, None
 
-def process_file(session: requests.Session, in_path: Path, out_path: Path, counters: Counter):
+def process_file(session: requests.Session, in_path: Path, out_path: Path, counters: Counter, error_examples: set):
     """
     Process a single CSV file:
       * Read CSV.
       * Execute each SPARQL query.
       * Record results in new columns: obj_values, error.
+      * Collect one example of each unique error type in error_examples.
       * Update counters for final percentage summary.
       * Write the processed CSV to the output path.
     """
@@ -141,7 +145,6 @@ def process_file(session: requests.Session, in_path: Path, out_path: Path, count
     if "error" not in df.columns:
         df["error"] = ""
 
-    # tqdm progress bar per file
     iter_rows = tqdm(
         df.itertuples(index=False),
         total=len(df),
@@ -158,67 +161,58 @@ def process_file(session: requests.Session, in_path: Path, out_path: Path, count
         obj_vals, err = run_sparql(session, query)
 
         if err is not None:
-            # Query failed → store NaN and error message
             obj_values_col.append(pd.NA)
             error_col.append(err)
             counters["error_nan"] += 1
+            error_examples.add(err)  # collect unique error type
         else:
             if len(obj_vals) == 0:
-                # Query succeeded but returned no results
                 obj_values_col.append("empty")
                 error_col.append("")
                 counters["empty"] += 1
             else:
-                # Successful results with at least one ?obj binding
                 obj_values_col.append(";".join(obj_vals))
                 error_col.append("")
                 counters["non_empty"] += 1
 
         processed_rows += 1
-        time.sleep(PAUSE_BETWEEN_REQUESTS)  # gentle pause for DBpedia endpoint
+        time.sleep(PAUSE_BETWEEN_REQUESTS)
 
-    # Write results back into dataframe
     df["obj_values"] = obj_values_col
     df["error"] = error_col
 
-    # Ensure output folder exists and save CSV
     out_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(out_path, index=False, encoding="utf-8")
     return True, processed_rows
 
-def print_percentages(total_rows: int, counters: Counter):
+def generate_summary_md(total_rows: int, counters: Counter, error_examples: set):
     """
-    Print summary statistics about result distribution across all processed rows.
-    Shows percentages for:
-      * Non-empty results
-      * Empty results
-      * Errors (NaN)
+    Create a markdown-formatted string with:
+      * Summary counts and percentages.
+      * A table of distinct error messages (one example per type).
     """
-    if total_rows == 0:
-        print("No rows processed; no percentages to report.")
-        return
+    lines = []
+    lines.append("# DBpedia Query Summary\n")
+    lines.append(f"**Total rows processed:** {total_rows}\n")
 
-    non_empty = counters.get("non_empty", 0)
-    empty = counters.get("empty", 0)
-    err_nan = counters.get("error_nan", 0)
+    if total_rows > 0:
+        def pct(n): return (n / total_rows) * 100.0
+        lines.append(f"- **Non-empty results:** {counters.get('non_empty', 0)} ({pct(counters.get('non_empty', 0)):.2f}%)")
+        lines.append(f"- **Empty results:** {counters.get('empty', 0)} ({pct(counters.get('empty', 0)):.2f}%)")
+        lines.append(f"- **Errors (NaN):** {counters.get('error_nan', 0)} ({pct(counters.get('error_nan', 0)):.2f}%)\n")
+    else:
+        lines.append("No rows processed.\n")
 
-    def pct(n): return (n / total_rows) * 100.0
+    if error_examples:
+        lines.append("## Distinct Error Types\n")
+        lines.append("| # | Error Message |\n|---|---------------|")
+        for i, e in enumerate(sorted(error_examples), start=1):
+            safe_err = e.replace("|", "\\|")  # escape pipe for markdown table
+            lines.append(f"| {i} | {safe_err} |")
 
-    print("\n=== Summary of obj_values types ===")
-    print(f"Total rows processed: {total_rows}")
-    print(f"Non-empty results : {non_empty} ({pct(non_empty):.2f}%)")
-    print(f"Empty results     : {empty} ({pct(empty):.2f}%)")
-    print(f"Errors (NaN)      : {err_nan} ({pct(err_nan):.2f}%)")
-    print("===================================\n")
+    return "\n".join(lines)
 
 def main():
-    """
-    Main driver:
-      * Ensure input folder exists.
-      * Iterate through CSV files.
-      * Process each file and accumulate counters.
-      * Print final summary.
-    """
     if not INPUT_DIR.exists():
         raise SystemExit(f"Input folder not found: {INPUT_DIR.resolve()}")
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -230,17 +224,25 @@ def main():
     session = make_session()
     ok_files = 0
     total_rows = 0
-    counters = Counter()  # Track counts for non_empty, empty, error_nan
+    counters = Counter()
+    error_examples = set()  # store unique error messages
 
     for csv_path in tqdm(csv_files, desc="Files"):
         out_path = OUTPUT_DIR / csv_path.name
-        ok, rows = process_file(session, csv_path, out_path, counters)
+        ok, rows = process_file(session, csv_path, out_path, counters, error_examples)
         if ok:
             ok_files += 1
             total_rows += rows
 
     print(f"Done. Wrote {ok_files} file(s) to {OUTPUT_DIR.resolve()}")
-    print_percentages(total_rows, counters)
+
+    summary_text = generate_summary_md(total_rows, counters, error_examples)
+    print(summary_text)  # still print to console for convenience
+
+    # Save to summary.md
+    with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
+        f.write(summary_text)
+    print(f"Summary saved to {SUMMARY_FILE.resolve()}")
 
 if __name__ == "__main__":
     main()
