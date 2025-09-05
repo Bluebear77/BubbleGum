@@ -18,8 +18,8 @@ doc = nlp("Albert Einstein was a physicist.")
 print([(ent.text, ent.label_) for ent in doc.ents])
 
 # Configuration
-INPUT_FOLDER = 'domain-verify'      # folder containing input CSVs
-OUTPUT_FOLDER = 'result'            # final output folder
+INPUT_FOLDER = 'sample100domain'      # folder containing input CSVs
+OUTPUT_FOLDER = 'sample100domain'     # final output folder
 OUTPUT_FILE = os.path.join(OUTPUT_FOLDER, 'QAdomain-verification.csv')
 USER_AGENT = "TopicPredictorBot/1.0"
 
@@ -70,8 +70,8 @@ for filename in os.listdir(INPUT_FOLDER):
         print(f"❌ Error reading {filename}: {e}")
         continue
 
-    if 'question' not in df_input.columns:
-        print(f"⚠️ Skipping {filename} — no 'question' column found.")
+    if 'qas' not in df_input.columns:
+        print(f"⚠️ Skipping {filename} — no 'qas' column found.")
         continue
 
     # Normalize optional columns so code path is uniform
@@ -80,16 +80,16 @@ for filename in os.listdir(INPUT_FOLDER):
     if 'table' not in df_input.columns:
         df_input['table'] = pd.NA
 
-    iterator = df_input.dropna(subset=['question']).iterrows()
+    iterator = df_input.dropna(subset=['qas']).iterrows()
     for _, row in tqdm(iterator, desc=f"Processing {filename}", unit="row"):
-        question_text = str(row['question']).strip()
+        qas_text = str(row['qas']).strip()
         answer_text = str(row['answer']).strip() if pd.notna(row['answer']) else ""
         table_text = str(row['table']).strip() if pd.notna(row['table']) else ""
 
-        # Build combined text (question + answer when available)
+        # Build combined text (qas + answer when available)
         combined_text = (
-            f"Question: {question_text} Answer: {answer_text}"
-            if answer_text else question_text
+            f"QAS: {qas_text} Answer: {answer_text}"
+            if answer_text else qas_text
         )
 
         # Extract entities and predict topics on combined text
@@ -105,7 +105,7 @@ for filename in os.listdir(INPUT_FOLDER):
         top3_topic, top3_score = predictions[2][0], round(float(predictions[2][1]), 4)
 
         all_rows.append({
-            "question": question_text,
+            "qas": qas_text,
             "answer": answer_text,
             "table": table_text,
             "Top 1 Topic": top1_topic,
@@ -126,7 +126,7 @@ df_output = pd.DataFrame(all_rows)
 
 # Enforce exact column order and presence
 desired_columns = [
-    "question", "answer", "table",
+    "qas", "answer", "table",
     "Top 1 Topic", "Top 1 Score",
     "Top 2 Topic", "Top 2 Score",
     "Top 3 Topic", "Top 3 Score",
@@ -143,7 +143,6 @@ print(f"\n✅ Saved: {OUTPUT_FILE}")
 
 # -----------------------------
 # Notes:
-# - The previous 'Original Question' column maps to 'question' here,
-#   per your requirement that the 'Original Question' in ./result/domain-verification.csv
-#   is equivalent to 'question' in domain-verification.csv.
+# - The previous 'question' column is fully replaced by 'qas'.
+# - Combined text now uses 'qas' instead of 'question'.
 # -----------------------------
