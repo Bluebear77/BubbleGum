@@ -14,8 +14,13 @@ doc = nlp("Albert Einstein was a physicist.")
 print([(ent.text, ent.label_) for ent in doc.ents])
 
 # Configuration
-INPUT_FOLDER = 'QAS'
-OUTPUT_FOLDER = './question_domain_type'
+
+#INPUT_FOLDER = 'QAS'
+
+INPUT_FOLDER= 'domain-verify'
+OUTPUT_FOLDER = 'domain-verify/result'
+
+#OUTPUT_FOLDER = './question_domain_type'
 USER_AGENT = "TopicPredictorBot/1.0"
 
 # Labels for classification

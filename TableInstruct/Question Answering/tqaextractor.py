@@ -1,12 +1,14 @@
 # ============================================================================================
-# Script: JSON → CSV (Q/A/Table + dataset-specific extras) — VS Code friendly
+# Script: JSON → CSV (Unified 3 columns: question, answer, table)
 # --------------------------------------------------------------------------------------------
-# - Columns (fixed left-to-right): question, answer, table
-# - FETAQA: append wikipedia_page_title, wikipedia_section_title
-# - HiTab:  append table_caption
-# - Table comes from input_seg starting at [TAB], kept RAW (no cleaning)
-# - Saves CSVs to ./TQAS with the same base filenames as inputs.
-# - Uses csv.QUOTE_MINIMAL (no manual comma stripping) for proper CSV parsing/coloring.
+# - All outputs: columns are exactly ["question", "answer", "table"]
+# - FETAQA: Prepend "Wikipedia page title" and "Wikipedia section title" at the START of the
+#           table column, then append the raw [TAB]... table content.
+# - HiTab:  Prepend "Table caption" at the START of the table column, then append raw [TAB]...
+# - HybridQA/Standard: table column is just the raw [TAB]... content.
+# - Table content is kept RAW from [TAB] onward (no cleaning). No comma stripping anywhere.
+# - CSV uses QUOTE_MINIMAL with lineterminator="\n" for VS Code/Rainbow CSV friendliness.
+# - Outputs go to ./TQAS with matching base filenames (.csv).
 # ============================================================================================
 
 import os
@@ -29,19 +31,19 @@ OUTPUT_DIR = "TQAS"
 # ------------------------------- small helpers ----------------------------------
 
 def _collapse_ws(s: str) -> str:
-    """Collapse internal whitespace (no comma stripping)."""
+    """Collapse internal whitespace (do not touch commas)."""
     if not isinstance(s, str):
         return ""
     return re.sub(r"\s+", " ", s).strip()
 
 def _strip_double_quotes(s: str) -> str:
-    """Optional: remove double quotes inside fields (keeps CSV simpler)."""
+    """Remove double quotes inside fields to keep CSV simpler."""
     if not isinstance(s, str):
         return ""
     return s.replace('"', '')
 
 def _sanitize_field(s: str) -> str:
-    """Normalize fields without touching commas."""
+    """Normalize fields: remove internal double quotes + collapse whitespace."""
     return _collapse_ws(_strip_double_quotes(s))
 
 # ------------------------ dataset-specific metadata parse ------------------------
@@ -49,7 +51,7 @@ def _sanitize_field(s: str) -> str:
 def parse_fetaqa_titles(input_seg: str):
     """
     Extracts wikipedia page and section titles from FETAQA input_seg preamble.
-    Returns (page_title, section_title) — do NOT strip commas; we rely on CSV quoting.
+    Returns (page_title, section_title).
     """
     page_title, section_title = "", ""
     if not isinstance(input_seg, str):
@@ -87,7 +89,7 @@ def parse_hitab_caption(input_seg: str):
 
 def extract_question_answer(item: dict, dataset_tag: str):
     """
-    Normalizes Q/A for different datasets. Do NOT remove commas — CSV quoting will handle them.
+    Normalizes Q/A for different datasets (no comma stripping).
     """
     q_raw = item.get("question", "")
     a_raw = item.get("output", "")
@@ -112,17 +114,47 @@ def extract_question_answer(item: dict, dataset_tag: str):
         return None, None
     return question, answer
 
-# ------------------------ table extractor ---------------------------------------
+# ------------------------ table extractor & prefixers ----------------------------
 
 def extract_table_raw(input_seg: str) -> str:
     """
-    Extract table substring starting at [TAB], KEEP RAW (no cleaning).
-    Do NOT strip commas; quoting will protect CSV structure.
+    Extract raw table substring starting at [TAB]. No cleaning or comma removal.
     """
     if not isinstance(input_seg, str):
         return ""
     tab_idx = input_seg.find("[TAB]")
     return input_seg[tab_idx:] if tab_idx != -1 else ""
+
+def build_table_with_prefix(dataset_tag: str, input_seg: str) -> str:
+    """
+    Build the final table column value for each dataset:
+      - FETAQA: "[Wikipedia page title:{...}; Wikipedia section title:{...}; ] " + RAW_TABLE
+      - HiTab : "[Table caption:{...}; ] " + RAW_TABLE
+      - Else  : RAW_TABLE
+    """
+    raw_table = extract_table_raw(input_seg)
+
+    if dataset_tag == "fetaqa":
+        page_title, section_title = parse_fetaqa_titles(input_seg)
+        prefix_parts = []
+        if page_title:
+            prefix_parts.append(f"Wikipedia page title:{page_title}")
+        if section_title:
+            prefix_parts.append(f"Wikipedia section title:{section_title}")
+        if prefix_parts:
+            prefix = "[" + "; ".join(prefix_parts) + "; ] "
+            return prefix + raw_table if raw_table else prefix.strip()
+        return raw_table
+
+    if dataset_tag == "hitab":
+        caption = parse_hitab_caption(input_seg)
+        if caption:
+            prefix = f"[Table caption:{caption}; ] "
+            return prefix + raw_table if raw_table else prefix.strip()
+        return raw_table
+
+    # standard & hybridqa
+    return raw_table
 
 # ---------------------------------- main ----------------------------------------
 
@@ -137,32 +169,18 @@ def process_file(filename: str, dataset_tag: str, out_dir: str):
             continue
 
         input_seg = item.get("input_seg", "")
-        table_str = extract_table_raw(input_seg)
+        table_col = build_table_with_prefix(dataset_tag, input_seg)
 
-        row = [q, a, table_str]
+        rows.append([q, a, table_col])
 
-        if dataset_tag == "fetaqa":
-            page_title, section_title = parse_fetaqa_titles(input_seg)
-            row.extend([page_title, section_title])
-        elif dataset_tag == "hitab":
-            caption = parse_hitab_caption(input_seg)
-            row.append(caption)
-
-        rows.append(row)
-
-    # Header must match columns appended above
+    # Unified header for all datasets
     header = ["question", "answer", "table"]
-    if dataset_tag == "fetaqa":
-        header += ["wikipedia_page_title", "wikipedia_section_title"]
-    elif dataset_tag == "hitab":
-        header += ["table_caption"]
 
     os.makedirs(out_dir, exist_ok=True)
     out_path = os.path.join(out_dir, os.path.basename(filename).replace(".json", ".csv"))
 
     with open(out_path, "w", newline="", encoding="utf-8") as csvfile:
-        # QUOTE_MINIMAL: quotes only when needed (commas, quotes, newlines present).
-        # lineterminator="\n" keeps VS Code/Rainbow CSV happy across platforms.
+        # QUOTE_MINIMAL quotes fields only when needed (commas, quotes, newlines).
         writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL, lineterminator="\n")
         writer.writerow(header)
         writer.writerows(rows)
