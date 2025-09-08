@@ -64,7 +64,6 @@ for filename in os.listdir(INPUT_FOLDER):
     input_path = os.path.join(INPUT_FOLDER, filename)
 
     try:
-        # Safer CSV reading
         df_input = pd.read_csv(input_path, on_bad_lines='warn', quoting=csv.QUOTE_MINIMAL)
     except Exception as e:
         print(f"❌ Error reading {filename}: {e}")
@@ -74,29 +73,23 @@ for filename in os.listdir(INPUT_FOLDER):
         print(f"⚠️ Skipping {filename} — no 'qas' column found.")
         continue
 
-    # Normalize optional columns so code path is uniform
-    if 'answer' not in df_input.columns:
-        df_input['answer'] = pd.NA
+    # Ensure 'table' exists for consistency
     if 'table' not in df_input.columns:
         df_input['table'] = pd.NA
 
     iterator = df_input.dropna(subset=['qas']).iterrows()
     for _, row in tqdm(iterator, desc=f"Processing {filename}", unit="row"):
         qas_text = str(row['qas']).strip()
-        answer_text = str(row['answer']).strip() if pd.notna(row['answer']) else ""
         table_text = str(row['table']).strip() if pd.notna(row['table']) else ""
 
-        # Build combined text (qas + answer when available)
-        combined_text = (
-            f"QAS: {qas_text} Answer: {answer_text}"
-            if answer_text else qas_text
-        )
+        # Use qas_text directly (no need to merge with answer)
+        combined_text = qas_text
 
-        # Extract entities and predict topics on combined text
+        # Extract entities and predict topics
         entities = extract_entities(combined_text)
         predictions = predict_topics_with_zero_shot(combined_text, LABELS)
 
-        # Ensure we always have 3 predictions (defensive, though model should return many)
+        # Ensure 3 predictions
         while len(predictions) < 3:
             predictions.append(("N/A", 0.0))
 
@@ -106,7 +99,6 @@ for filename in os.listdir(INPUT_FOLDER):
 
         all_rows.append({
             "qas": qas_text,
-            "answer": answer_text,
             "table": table_text,
             "Top 1 Topic": top1_topic,
             "Top 1 Score": top1_score,
@@ -117,22 +109,20 @@ for filename in os.listdir(INPUT_FOLDER):
             "Entities": ", ".join(entities)
         })
 
-        time.sleep(0.1)  # polite delay to avoid rate limits
+        time.sleep(0.1)  # polite delay
 
 # -----------------------------
 # Save consolidated output
 # -----------------------------
 df_output = pd.DataFrame(all_rows)
 
-# Enforce exact column order and presence
 desired_columns = [
-    "qas", "answer", "table",
+    "qas", "table",
     "Top 1 Topic", "Top 1 Score",
     "Top 2 Topic", "Top 2 Score",
     "Top 3 Topic", "Top 3 Score",
     "Entities"
 ]
-# Add any missing columns as empty, then reorder
 for col in desired_columns:
     if col not in df_output.columns:
         df_output[col] = ""
@@ -143,6 +133,6 @@ print(f"\n✅ Saved: {OUTPUT_FILE}")
 
 # -----------------------------
 # Notes:
-# - The previous 'question' column is fully replaced by 'qas'.
-# - Combined text now uses 'qas' instead of 'question'.
+# - Removed 'answer' column completely (input and output).
+# - 'qas' is now the sole source for both question and answer text.
 # -----------------------------
