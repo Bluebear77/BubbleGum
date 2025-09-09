@@ -9,8 +9,8 @@
 # - Computes semantic similarity (SentenceTransformer) between each table and
 #   its "qas" block — batched with progress bars.
 # - Saves:
-#     1) relatedness_outputs/<file>.grouped.csv      (columns: similarity_score,num_pairs,qas,table)
-#     2) relatedness_outputs/_lowest100.csv          (100 lowest across ALL files; same columns)
+#     1) relatedness_outputs/<file>.grouped.csv      (columns: similarity_score,num_pairs,qas,table,source)
+#     2) relatedness_outputs/_lowest100.csv          (100 lowest across ALL files; columns ordered: source,similarity_score,num_pairs,qas,table)
 #
 # Speed/robustness tweaks:
 #   - TOKENIZERS_PARALLELISM=false (avoid rare hangs)
@@ -130,7 +130,7 @@ if not json_files:
 else:
     for filename in json_files:
         input_path = os.path.join(input_dir, filename)
-        base = os.path.splitext(filename)[0]
+        base = os.path.splitext(filename)[0]  # NAME without extension (used as 'source')
         output_all = os.path.join(output_dir, f"{base}.grouped.csv")
 
         print(f"🔍 Processing {filename}...")
@@ -201,28 +201,30 @@ else:
         # Cosine similarity = dot product for normalized embeddings
         sims = (seg_emb * qas_emb).sum(dim=1).tolist()
 
-        # 4) Collect rows (per-file & global) — NO source_file column
+        # 4) Collect rows (per-file & global) — WITH 'source' column
         rows = []
         for (clean_seg, qas_block, num_pairs), sim in zip(metas, sims):
             row = {
                 "similarity_score": sim,
                 "num_pairs": num_pairs,
-                "qas": qas_block,  # punctuation-free concatenation of Q & A pairs
-                "table": clean_seg
+                "qas": qas_block,   # punctuation-free concatenation of Q & A pairs
+                "table": clean_seg,
+                "source": base      # origin from NAME.json (used in NAME.grouped.csv)
             }
             rows.append(row)
             all_rows.append(row)
 
-        # 5) Save per-file grouped CSV (desired columns only)
+        # 5) Save per-file grouped CSV (include source; keep similarity first for sorting)
         df = pd.DataFrame(rows).sort_values("similarity_score", ascending=False)
-        df = df[["similarity_score", "num_pairs", "qas", "table"]]
+        df = df[["similarity_score", "num_pairs", "qas", "table", "source"]]
         df.to_csv(output_all, index=False, quoting=csv.QUOTE_MINIMAL)
         print(f"✅ Saved: {output_all}")
 
 # --------------------------- Global Lowest 100 -------------------------------
 if all_rows:
     df_all = pd.DataFrame(all_rows)
-    df_all = df_all[["similarity_score", "num_pairs", "qas", "table"]]
+    # Reorder columns so 'source' is the FIRST column in _lowest100.csv
+    df_all = df_all[["source", "similarity_score", "num_pairs", "qas", "table"]]
     df_low_global = df_all.sort_values("similarity_score", ascending=True).head(100)
     global_path = os.path.join(output_dir, "_lowest100.csv")
     df_low_global.to_csv(global_path, index=False, quoting=csv.QUOTE_MINIMAL)
